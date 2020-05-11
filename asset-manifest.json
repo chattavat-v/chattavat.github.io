@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.5f361e03.chunk.css",
-    "main.js": "/static/js/main.4daef9e7.chunk.js",
-    "main.js.map": "/static/js/main.4daef9e7.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b1cc144f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b1cc144f.js.map",
-    "static/js/2.bf1ae51c.chunk.js": "/static/js/2.bf1ae51c.chunk.js",
-    "static/js/2.bf1ae51c.chunk.js.map": "/static/js/2.bf1ae51c.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.0dda3f28c83e19100cbddab15c6e7cfe.js": "/precache-manifest.0dda3f28c83e19100cbddab15c6e7cfe.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.bf1ae51c.chunk.js.LICENSE.txt": "/static/js/2.bf1ae51c.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "main.css": "/chattavat.github.io/static/css/main.5f361e03.chunk.css",
+    "main.js": "/chattavat.github.io/static/js/main.979e4984.chunk.js",
+    "main.js.map": "/chattavat.github.io/static/js/main.979e4984.chunk.js.map",
+    "runtime-main.js": "/chattavat.github.io/static/js/runtime-main.bdec6c77.js",
+    "runtime-main.js.map": "/chattavat.github.io/static/js/runtime-main.bdec6c77.js.map",
+    "static/js/2.bf1ae51c.chunk.js": "/chattavat.github.io/static/js/2.bf1ae51c.chunk.js",
+    "static/js/2.bf1ae51c.chunk.js.map": "/chattavat.github.io/static/js/2.bf1ae51c.chunk.js.map",
+    "index.html": "/chattavat.github.io/index.html",
+    "precache-manifest.84f21438627983cda05d786c2304f32b.js": "/chattavat.github.io/precache-manifest.84f21438627983cda05d786c2304f32b.js",
+    "service-worker.js": "/chattavat.github.io/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/chattavat.github.io/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.bf1ae51c.chunk.js.LICENSE.txt": "/chattavat.github.io/static/js/2.bf1ae51c.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/chattavat.github.io/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b1cc144f.js",
+    "static/js/runtime-main.bdec6c77.js",
     "static/js/2.bf1ae51c.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.4daef9e7.chunk.js"
+    "static/js/main.979e4984.chunk.js"
   ]
 }

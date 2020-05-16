@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/chattavat.github.io/static/css/main.5f361e03.chunk.css",
-    "main.js": "/chattavat.github.io/static/js/main.979e4984.chunk.js",
-    "main.js.map": "/chattavat.github.io/static/js/main.979e4984.chunk.js.map",
+    "main.css": "/chattavat.github.io/static/css/main.049702d5.chunk.css",
+    "main.js": "/chattavat.github.io/static/js/main.b46720df.chunk.js",
+    "main.js.map": "/chattavat.github.io/static/js/main.b46720df.chunk.js.map",
     "runtime-main.js": "/chattavat.github.io/static/js/runtime-main.bdec6c77.js",
     "runtime-main.js.map": "/chattavat.github.io/static/js/runtime-main.bdec6c77.js.map",
-    "static/js/2.bf1ae51c.chunk.js": "/chattavat.github.io/static/js/2.bf1ae51c.chunk.js",
-    "static/js/2.bf1ae51c.chunk.js.map": "/chattavat.github.io/static/js/2.bf1ae51c.chunk.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/chattavat.github.io/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.229dc043.chunk.js": "/chattavat.github.io/static/js/2.229dc043.chunk.js",
+    "static/js/2.229dc043.chunk.js.map": "/chattavat.github.io/static/js/2.229dc043.chunk.js.map",
     "index.html": "/chattavat.github.io/index.html",
-    "precache-manifest.84f21438627983cda05d786c2304f32b.js": "/chattavat.github.io/precache-manifest.84f21438627983cda05d786c2304f32b.js",
+    "precache-manifest.30e36867d74b3612f51fc554ab26dba5.js": "/chattavat.github.io/precache-manifest.30e36867d74b3612f51fc554ab26dba5.js",
     "service-worker.js": "/chattavat.github.io/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/chattavat.github.io/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.bf1ae51c.chunk.js.LICENSE.txt": "/chattavat.github.io/static/js/2.bf1ae51c.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/chattavat.github.io/static/media/logo.5d5d9eef.svg"
+    "static/css/2.af3c1da9.chunk.css.map": "/chattavat.github.io/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.049702d5.chunk.css.map": "/chattavat.github.io/static/css/main.049702d5.chunk.css.map",
+    "static/js/2.229dc043.chunk.js.LICENSE.txt": "/chattavat.github.io/static/js/2.229dc043.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.bdec6c77.js",
-    "static/js/2.bf1ae51c.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.979e4984.chunk.js"
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.229dc043.chunk.js",
+    "static/css/main.049702d5.chunk.css",
+    "static/js/main.b46720df.chunk.js"
   ]
 }

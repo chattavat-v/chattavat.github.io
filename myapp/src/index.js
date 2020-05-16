@@ -8,8 +8,8 @@ import "../node_modules/jquery/dist/jquery.min.js";
 import "../node_modules/popper.js/dist/umd/popper.min.js";
 
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
-  document.getElementById("root")
+	<React.StrictMode>
+		<App />
+	</React.StrictMode>,
+	document.getElementById("root")
 );

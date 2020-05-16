@@ -17,6 +17,8 @@
 		"styled-components": "^5.1.0"
 	},
 	"scripts": {
+		"predeploy": "yarn run build",
+		"deploy": "gh-pages -d build",
 		"start_window": "set PORT=9020 && react-scripts start",
 		"start_linux": "PORT=9020 react-scripts start",
 		"start": "react-scripts start",

@@ -1,6 +1,18 @@
 import styled from "styled-components";
 import colors from "../styles/Colors";
 
+export const Capitalize = {
+	textTransform: "capitalize",
+};
+
+export const Uppercase = {
+	textTransform: "uppercase",
+};
+
+export const LowerCase = {
+	textTransform: "lowercase",
+};
+
 export const P = styled.p`
 	font-family: "Roboto-Regular";
 	color: ${colors.text};

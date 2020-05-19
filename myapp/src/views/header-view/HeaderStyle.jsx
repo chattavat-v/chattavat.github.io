@@ -1,6 +1,5 @@
 import styled from "styled-components";
 import colors from "../../styles/Colors";
-import { Capitalize, Uppercase } from "../../styles/Fonts";
 
 export const WrapperHeader = styled.div`
 	position: fixed;
@@ -14,7 +13,7 @@ export const WrapperHeader = styled.div`
 `;
 
 export const InitialHeader = {
-	boxShadow: colors.shadow,
+	boxShadow: "none",
 };
 
 export const ScrollerHeader = {
@@ -47,6 +46,10 @@ export const ListNavigation = styled.ul`
 	list-style: none;
 	margin: 0;
 	padding: 0;
+
+	@media (max-width: 768px) {
+		display: none;
+	}
 `;
 
 export const ListItem = styled.li`

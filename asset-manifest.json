@@ -1,19 +1,17 @@
 {
   "files": {
-    "main.css": "/chattavat.github.io/static/css/main.049702d5.chunk.css",
-    "main.js": "/chattavat.github.io/static/js/main.488ba74b.chunk.js",
-    "main.js.map": "/chattavat.github.io/static/js/main.488ba74b.chunk.js.map",
+    "main.js": "/chattavat.github.io/static/js/main.2081e086.chunk.js",
+    "main.js.map": "/chattavat.github.io/static/js/main.2081e086.chunk.js.map",
     "runtime-main.js": "/chattavat.github.io/static/js/runtime-main.bdec6c77.js",
     "runtime-main.js.map": "/chattavat.github.io/static/js/runtime-main.bdec6c77.js.map",
     "static/css/2.af3c1da9.chunk.css": "/chattavat.github.io/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.bfd5a1c5.chunk.js": "/chattavat.github.io/static/js/2.bfd5a1c5.chunk.js",
-    "static/js/2.bfd5a1c5.chunk.js.map": "/chattavat.github.io/static/js/2.bfd5a1c5.chunk.js.map",
+    "static/js/2.8f106b93.chunk.js": "/chattavat.github.io/static/js/2.8f106b93.chunk.js",
+    "static/js/2.8f106b93.chunk.js.map": "/chattavat.github.io/static/js/2.8f106b93.chunk.js.map",
     "index.html": "/chattavat.github.io/index.html",
-    "precache-manifest.00ea1e02457216f8180a055fa6fae68d.js": "/chattavat.github.io/precache-manifest.00ea1e02457216f8180a055fa6fae68d.js",
+    "precache-manifest.becdffa98f0b99cd49a9b6b05b77cc49.js": "/chattavat.github.io/precache-manifest.becdffa98f0b99cd49a9b6b05b77cc49.js",
     "service-worker.js": "/chattavat.github.io/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/chattavat.github.io/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.049702d5.chunk.css.map": "/chattavat.github.io/static/css/main.049702d5.chunk.css.map",
-    "static/js/2.bfd5a1c5.chunk.js.LICENSE.txt": "/chattavat.github.io/static/js/2.bfd5a1c5.chunk.js.LICENSE.txt",
+    "static/js/2.8f106b93.chunk.js.LICENSE.txt": "/chattavat.github.io/static/js/2.8f106b93.chunk.js.LICENSE.txt",
     "static/media/Roboto-Black.ttf": "/chattavat.github.io/static/media/Roboto-Black.5ebb24ee.ttf",
     "static/media/Roboto-BlackItalic.ttf": "/chattavat.github.io/static/media/Roboto-BlackItalic.99682a78.ttf",
     "static/media/Roboto-Bold.ttf": "/chattavat.github.io/static/media/Roboto-Bold.e07df86c.ttf",
@@ -30,8 +28,7 @@
   "entrypoints": [
     "static/js/runtime-main.bdec6c77.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.bfd5a1c5.chunk.js",
-    "static/css/main.049702d5.chunk.css",
-    "static/js/main.488ba74b.chunk.js"
+    "static/js/2.8f106b93.chunk.js",
+    "static/js/main.2081e086.chunk.js"
   ]
 }

@@ -5,7 +5,7 @@ import * as utils from "./utils";
 import { H2, P, Capitalize } from "../../styles/Fonts";
 import HamburgerComp from "../../components/hamburger-comp/HamburegerComp";
 
-const HeaderView = ({ drawerToggleClickHandler }) => {
+const HeaderView = ({ drawerToggleClickHandler, onpathScroll }) => {
 	const [isScroller, setIsScroller] = useState(window.scrollY);
 	const [isWrapperHeader, setIsWrapperHeader] = useState(Header.InitialHeader);
 
@@ -39,7 +39,12 @@ const HeaderView = ({ drawerToggleClickHandler }) => {
 					<Header.ListNavigation>
 						{utils.TopicLists.map((item) => (
 							<Header.ListItem key={item._id}>
-								<P style={Header.LabelItem}>{item.label}</P>
+								<P
+									style={Header.LabelItem}
+									onClick={() => onpathScroll(item.label)}
+								>
+									{item.label}
+								</P>
 							</Header.ListItem>
 						))}
 					</Header.ListNavigation>
@@ -51,6 +56,7 @@ const HeaderView = ({ drawerToggleClickHandler }) => {
 
 HeaderView.propTypes = {
 	drawerToggleClickHandler: PropTypes.func.isRequired,
+	onpathScroll: PropTypes.func.isRequired,
 };
 
 export default HeaderView;

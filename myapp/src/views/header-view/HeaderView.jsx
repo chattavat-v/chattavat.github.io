@@ -22,7 +22,7 @@ const HeaderView = ({ drawerToggleClickHandler, onpathScroll }) => {
 	}, [scrollHandler]);
 
 	useEffect(() => {
-		isScroller > 100
+		isScroller > 70
 			? setIsWrapperHeader(Header.ScrollerHeader)
 			: setIsWrapperHeader(Header.InitialHeader);
 	}, [isScroller]);

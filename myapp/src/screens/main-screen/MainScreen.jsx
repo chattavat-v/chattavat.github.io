@@ -3,6 +3,7 @@ import { Element, scroller } from "react-scroll";
 import HeaderView from "../../views/header-view/HeaderView";
 import SideView from "../../views/side-view/SideView";
 import BackDropView from "../../views/backdrop-view/BackDropView";
+import HomeView from "../../views/home-view/HomeView";
 
 const MainScreen = (props) => {
 	const [sideDrawerOpen, setSideDrawerOpen] = useState(false);
@@ -27,7 +28,7 @@ const MainScreen = (props) => {
 				<BackDropView handlerClick={() => setSideDrawerOpen(false)} />
 			)}
 			<Element name="home">
-				<div style={{ height: "200vh", textAlign: "center" }}>Hello</div>
+				<HomeView />
 			</Element>
 			<Element name="about">
 				<div style={{ height: "200vh", textAlign: "center" }}>Hello</div>

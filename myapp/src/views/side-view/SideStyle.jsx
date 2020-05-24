@@ -21,7 +21,7 @@ export const WrapperSideClose = {
 };
 
 export const WrapperSideOpen = {
-	transform: "translateY(15%)",
+	transform: "translateY(10%)",
 	boxShadow: colors.box_shadow,
 };
 

@@ -4,6 +4,7 @@ import HeaderView from "../../views/header-view/HeaderView";
 import SideView from "../../views/side-view/SideView";
 import BackDropView from "../../views/backdrop-view/BackDropView";
 import HomeView from "../../views/home-view/HomeView";
+import AboutView from "../../views/about-view/AboutView";
 
 const MainScreen = (props) => {
 	const [sideDrawerOpen, setSideDrawerOpen] = useState(false);
@@ -31,7 +32,7 @@ const MainScreen = (props) => {
 				<HomeView />
 			</Element>
 			<Element name="about">
-				<div style={{ height: "200vh", textAlign: "center" }}>Hello</div>
+				<AboutView />
 			</Element>
 			<Element name="training">
 				<div style={{ height: "200vh", textAlign: "center" }}>Hello</div>

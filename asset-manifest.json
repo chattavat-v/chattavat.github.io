@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/chattavat.github.io/static/js/main.859740e5.chunk.js",
-    "main.js.map": "/chattavat.github.io/static/js/main.859740e5.chunk.js.map",
+    "main.js": "/chattavat.github.io/static/js/main.65a47f58.chunk.js",
+    "main.js.map": "/chattavat.github.io/static/js/main.65a47f58.chunk.js.map",
     "runtime-main.js": "/chattavat.github.io/static/js/runtime-main.bdec6c77.js",
     "runtime-main.js.map": "/chattavat.github.io/static/js/runtime-main.bdec6c77.js.map",
     "static/css/2.af3c1da9.chunk.css": "/chattavat.github.io/static/css/2.af3c1da9.chunk.css",
     "static/js/2.1add0506.chunk.js": "/chattavat.github.io/static/js/2.1add0506.chunk.js",
     "static/js/2.1add0506.chunk.js.map": "/chattavat.github.io/static/js/2.1add0506.chunk.js.map",
     "index.html": "/chattavat.github.io/index.html",
-    "precache-manifest.154731283e95b4f16d399dc4b30a1261.js": "/chattavat.github.io/precache-manifest.154731283e95b4f16d399dc4b30a1261.js",
+    "precache-manifest.a4e1892f1463d279cba519508c3c2163.js": "/chattavat.github.io/precache-manifest.a4e1892f1463d279cba519508c3c2163.js",
     "service-worker.js": "/chattavat.github.io/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/chattavat.github.io/static/css/2.af3c1da9.chunk.css.map",
     "static/js/2.1add0506.chunk.js.LICENSE.txt": "/chattavat.github.io/static/js/2.1add0506.chunk.js.LICENSE.txt",
@@ -32,6 +32,6 @@
     "static/js/runtime-main.bdec6c77.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.1add0506.chunk.js",
-    "static/js/main.859740e5.chunk.js"
+    "static/js/main.65a47f58.chunk.js"
   ]
 }

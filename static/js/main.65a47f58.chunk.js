@@ -1,68 +1,68 @@
 (this.webpackJsonpmyapp = this.webpackJsonpmyapp || []).push([
   [0],
   {
-    28: function (t, n, e) {
-      t.exports = e.p + "static/media/Roboto-Black.5ebb24ee.ttf";
+    28: function (n, t, e) {
+      n.exports = e.p + "static/media/Roboto-Black.5ebb24ee.ttf";
     },
-    29: function (t, n, e) {
-      t.exports = e.p + "static/media/Roboto-BlackItalic.99682a78.ttf";
+    29: function (n, t, e) {
+      n.exports = e.p + "static/media/Roboto-BlackItalic.99682a78.ttf";
     },
-    30: function (t, n, e) {
-      t.exports = e.p + "static/media/Roboto-Bold.e07df86c.ttf";
+    30: function (n, t, e) {
+      n.exports = e.p + "static/media/Roboto-Bold.e07df86c.ttf";
     },
-    31: function (t, n, e) {
-      t.exports = e.p + "static/media/Roboto-BoldItalic.5b44818d.ttf";
+    31: function (n, t, e) {
+      n.exports = e.p + "static/media/Roboto-BoldItalic.5b44818d.ttf";
     },
-    32: function (t, n, e) {
-      t.exports = e.p + "static/media/Roboto-Italic.a720f17a.ttf";
+    32: function (n, t, e) {
+      n.exports = e.p + "static/media/Roboto-Italic.a720f17a.ttf";
     },
-    33: function (t, n, e) {
-      t.exports = e.p + "static/media/Roboto-Light.88823c20.ttf";
+    33: function (n, t, e) {
+      n.exports = e.p + "static/media/Roboto-Light.88823c20.ttf";
     },
-    34: function (t, n, e) {
-      t.exports = e.p + "static/media/Roboto-LightItalic.a3ce4440.ttf";
+    34: function (n, t, e) {
+      n.exports = e.p + "static/media/Roboto-LightItalic.a3ce4440.ttf";
     },
-    35: function (t, n, e) {
-      t.exports = e.p + "static/media/Roboto-Medium.58aef543.ttf";
+    35: function (n, t, e) {
+      n.exports = e.p + "static/media/Roboto-Medium.58aef543.ttf";
     },
-    36: function (t, n, e) {
-      t.exports = e.p + "static/media/Roboto-MediumItalic.cf23e1bb.ttf";
+    36: function (n, t, e) {
+      n.exports = e.p + "static/media/Roboto-MediumItalic.cf23e1bb.ttf";
     },
-    37: function (t, n, e) {
-      t.exports = e.p + "static/media/Roboto-Regular.11eabca2.ttf";
+    37: function (n, t, e) {
+      n.exports = e.p + "static/media/Roboto-Regular.11eabca2.ttf";
     },
-    38: function (t, n, e) {
-      t.exports = e.p + "static/media/Roboto-Thin.321de678.ttf";
+    38: function (n, t, e) {
+      n.exports = e.p + "static/media/Roboto-Thin.321de678.ttf";
     },
-    39: function (t, n, e) {
-      t.exports = e.p + "static/media/Roboto-ThinItalic.35a9c89a.ttf";
+    39: function (n, t, e) {
+      n.exports = e.p + "static/media/Roboto-ThinItalic.35a9c89a.ttf";
     },
-    43: function (t, n, e) {
-      t.exports = e.p + "static/media/banner.173a6040.png";
+    43: function (n, t, e) {
+      n.exports = e.p + "static/media/banner.173a6040.png";
     },
-    44: function (t, n) {
-      t.exports =
+    44: function (n, t) {
+      n.exports =
         "data:image/png;base64,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";
     },
-    45: function (t, n, e) {
-      t.exports = e.p + "static/media/logo.98f1369c.png";
+    45: function (n, t, e) {
+      n.exports = e.p + "static/media/logo.98f1369c.png";
     },
-    46: function (t, n, e) {
-      t.exports = e.p + "static/media/profile.418d3800.png";
+    46: function (n, t, e) {
+      n.exports = e.p + "static/media/profile.418d3800.png";
     },
-    48: function (t, n, e) {
-      t.exports = e(70);
+    48: function (n, t, e) {
+      n.exports = e(70);
     },
-    70: function (t, n, e) {
+    70: function (n, t, e) {
       "use strict";
-      e.r(n);
+      e.r(t);
       var a = e(0),
         r = e.n(a),
         i = e(13),
         o = e.n(i),
-        A = e(47),
+        l = e(47),
         c = e(3),
-        l = e(1),
+        A = e(1),
         u = e(2),
         m = {
           primary: "#4458dc",
@@ -83,33 +83,34 @@
           darkgray: "#878787",
           white: "#ffffff",
           sky: "#87ceeb",
+          lightsky: "#f9f9f9",
         },
-        f = e(28),
-        d = e.n(f),
+        d = e(28),
+        f = e.n(d),
         g = e(29),
         s = e.n(g),
         b = e(30),
         p = e.n(b),
-        h = e(31),
-        w = e.n(h),
+        w = e(31),
+        h = e.n(w),
         E = e(32),
         x = e.n(E),
         B = e(33),
-        v = e.n(B),
-        I = e(34),
-        y = e.n(I),
-        C = e(35),
-        D = e.n(C),
-        O = e(36),
-        j = e.n(O),
-        k = e(37),
-        Q = e.n(k),
+        y = e.n(B),
+        v = e(34),
+        C = e.n(v),
+        I = e(35),
+        k = e.n(I),
+        D = e(36),
+        O = e.n(D),
+        j = e(37),
+        Q = e.n(j),
         M = e(38),
         Y = e.n(M),
         R = e(39),
         G = e.n(R);
-      function z() {
-        var t = Object(l.a)([
+      function S() {
+        var n = Object(A.a)([
           "\n  @font-face {\n    font-family: 'Roboto-Black';\n    src: url(",
           ");\n  }\n\n  @font-face {\n    font-family: 'Roboto-BlackItalic';\n    src: url(",
           ");\n  }\n\n  @font-face {\n    font-family: 'Roboto-Bold';\n    src: url(",
@@ -125,104 +126,104 @@
           ");\n  }\n",
         ]);
         return (
-          (z = function () {
-            return t;
+          (S = function () {
+            return n;
           }),
-          t
+          n
         );
       }
-      function S() {
-        var t = Object(l.a)([
+      function z() {
+        var n = Object(A.a)([
           '\n  html, body {\n    box-sizing: border-box;\n    margin: 0;\n    padding: 0;\n    width: 100%;\n    height: 100%;\n    font-family: -apple-system, \n                  BlinkMacSystemFont, \n                  "Segoe UI",\n                  "Roboto", \n                  "Oxygen", \n                  "Ubuntu", \n                  "Cantarell", \n                  "Fira Sans", \n                  "Droid Sans",\n                  "Helvetica Neue", \n                  sans-serif !important;\n    font-size: 1rem;\n    background-color: ',
           ";\n    color: ",
           ";\n    -webkit-font-smoothing: antialiased;\n    -moz-osx-font-smoothing: grayscale;\n  }\n",
         ]);
         return (
-          (S = function () {
-            return t;
+          (z = function () {
+            return n;
           }),
-          t
+          n
         );
       }
-      var H = Object(u.a)(S(), m.white, m.title),
-        L = Object(u.a)(
-          z(),
-          d.a,
+      var H = Object(u.a)(z(), m.white, m.title),
+        T = Object(u.a)(
+          S(),
+          f.a,
           s.a,
           p.a,
-          w.a,
+          h.a,
           x.a,
-          v.a,
           y.a,
-          D.a,
-          j.a,
+          C.a,
+          k.a,
+          O.a,
           Q.a,
           Y.a,
           G.a
         ),
-        Z = e(10),
-        J = e(7);
-      function T() {
-        var t = Object(l.a)([
+        L = e(10),
+        Z = e(7);
+      function J() {
+        var n = Object(A.a)([
           "\n\tmargin: auto 1rem;\n\ttext-transform: uppercase;\n\ttransition: transform 0.2s;\n\n\t:focus {\n\t\toutline: none;\n\t}\n\n\t:active,\n\t:hover {\n\t\ttransform: scale(1.2);\n\t}\n",
         ]);
         return (
-          (T = function () {
-            return t;
+          (J = function () {
+            return n;
           }),
-          t
+          n
         );
       }
       function W() {
-        var t = Object(l.a)([
+        var n = Object(A.a)([
           "\n\tdisplay: flex;\n\tlist-style: none;\n\tmargin: 0;\n\tpadding: 0;\n\n\t@media (max-width: 768px) {\n\t\tdisplay: none;\n\t}\n",
         ]);
         return (
           (W = function () {
-            return t;
+            return n;
           }),
-          t
+          n
         );
       }
       function F() {
-        var t = Object(l.a)([""]);
+        var n = Object(A.a)([""]);
         return (
           (F = function () {
-            return t;
+            return n;
           }),
-          t
+          n
         );
       }
       function N() {
-        var t = Object(l.a)(["\n\tdisplay: flex;\n"]);
+        var n = Object(A.a)(["\n\tdisplay: flex;\n"]);
         return (
           (N = function () {
-            return t;
+            return n;
           }),
-          t
+          n
         );
       }
       function P() {
-        var t = Object(l.a)([
+        var n = Object(A.a)([
           "\n\tdisplay: flex;\n\theight: 100%;\n\talign-items: center;\n\tjustify-content: space-between;\n\tmargin: auto 1rem;\n",
         ]);
         return (
           (P = function () {
-            return t;
+            return n;
           }),
-          t
+          n
         );
       }
       function X() {
-        var t = Object(l.a)([
+        var n = Object(A.a)([
           "\n\tposition: fixed;\n\ttop: 0;\n\tleft: 0;\n\twidth: 100%;\n\tbackground: ",
           ";\n\theight: 90px;\n\tz-index: 2048;\n\ttransition: 0.5s;\n",
         ]);
         return (
           (X = function () {
-            return t;
+            return n;
           }),
-          t
+          n
         );
       }
       var U = u.b.div(X(), m.white),
@@ -231,11 +232,11 @@
         q = u.b.div(P()),
         _ = u.b.div(N()),
         $ = { textTransform: "uppercase", color: m.sky },
-        tt = u.b.div(F()),
-        nt = u.b.ul(W()),
-        et = u.b.li(T()),
-        at = { marginBottom: "0px", cursor: "pointer", textDecoration: "none" },
-        rt = [
+        nn = u.b.div(F()),
+        tn = u.b.ul(W()),
+        en = u.b.li(J()),
+        an = { marginBottom: "0px", cursor: "pointer", textDecoration: "none" },
+        rn = [
           { _id: "1", label: "home" },
           { _id: "2", label: "about" },
           { _id: "3", label: "training" },
@@ -244,201 +245,201 @@
           { _id: "6", label: "experience" },
           { _id: "7", label: "contact" },
         ];
-      function it() {
-        var t = Object(l.a)([
+      function on() {
+        var n = Object(A.a)([
           '\n\tfont-family: "Roboto-Bold";\n\tcolor: ',
           ";\n\tfont-size: 1.25rem;\n",
         ]);
         return (
-          (it = function () {
-            return t;
+          (on = function () {
+            return n;
           }),
-          t
+          n
         );
       }
-      function ot() {
-        var t = Object(l.a)([
+      function ln() {
+        var n = Object(A.a)([
           '\n\tfont-family: "Roboto-Bold";\n\tcolor: ',
           ";\n\tfont-size: 1.5rem;\n",
         ]);
         return (
-          (ot = function () {
-            return t;
+          (ln = function () {
+            return n;
           }),
-          t
+          n
         );
       }
-      function At() {
-        var t = Object(l.a)([
+      function cn() {
+        var n = Object(A.a)([
           '\n\tfont-family: "Roboto-Bold";\n\tcolor: ',
           ";\n\tfont-size: 1.75rem;\n",
         ]);
         return (
-          (At = function () {
-            return t;
+          (cn = function () {
+            return n;
           }),
-          t
+          n
         );
       }
-      function ct() {
-        var t = Object(l.a)([
+      function An() {
+        var n = Object(A.a)([
           '\n\tfont-family: "Roboto-Bold";\n\tcolor: ',
           ";\n\tfont-size: 2rem;\n",
         ]);
         return (
-          (ct = function () {
-            return t;
+          (An = function () {
+            return n;
           }),
-          t
+          n
         );
       }
-      function lt() {
-        var t = Object(l.a)([
+      function un() {
+        var n = Object(A.a)([
           '\n\tfont-family: "Roboto-Bold";\n\tcolor: ',
           ";\n\tfont-size: 2.5rem;\n",
         ]);
         return (
-          (lt = function () {
-            return t;
+          (un = function () {
+            return n;
           }),
-          t
+          n
         );
       }
-      function ut() {
-        var t = Object(l.a)(['\n\tfont-family: "Roboto-Bold";\n']);
+      function mn() {
+        var n = Object(A.a)(['\n\tfont-family: "Roboto-Bold";\n']);
         return (
-          (ut = function () {
-            return t;
+          (mn = function () {
+            return n;
           }),
-          t
+          n
         );
       }
-      function mt() {
-        var t = Object(l.a)([
+      function dn() {
+        var n = Object(A.a)([
           '\n\tfont-family: "Roboto-Thin";\n\tcolor: ',
           ";\n\tfont-size: 0.75rem;\n\tletter-spacing: 2px;\n",
         ]);
         return (
-          (mt = function () {
-            return t;
+          (dn = function () {
+            return n;
           }),
-          t
+          n
         );
       }
-      function ft() {
-        var t = Object(l.a)([
+      function fn() {
+        var n = Object(A.a)([
           '\n\tfont-family: "Roboto-Regular";\n\tcolor: ',
           ";\n",
         ]);
         return (
-          (ft = function () {
-            return t;
+          (fn = function () {
+            return n;
           }),
-          t
+          n
         );
       }
-      function dt() {
-        var t = Object(l.a)([
+      function gn() {
+        var n = Object(A.a)([
           '\n\tfont-family: "Roboto-Regular";\n\tcolor: ',
           ";\n\tmargin-top: 0rem;\n\tmargin-bottom: 1rem;\n\tfont-size: 1rem;\n",
         ]);
         return (
-          (dt = function () {
-            return t;
+          (gn = function () {
+            return n;
           }),
-          t
+          n
         );
       }
-      var gt = { textTransform: "capitalize" },
-        st = u.b.p(dt(), m.text),
-        bt = u.b.span(ft(), m.text),
-        pt =
-          (u.b.small(mt(), m.title), u.b.strong(ut()), u.b.h1(lt(), m.title)),
-        ht = u.b.h2(ct(), m.title),
-        wt = (u.b.h3(At(), m.title), u.b.h4(ot(), m.title)),
-        Et = u.b.h5(it(), m.title);
-      function xt() {
-        var t = Object(l.a)([
+      var sn = { textTransform: "capitalize" },
+        bn = u.b.p(gn(), m.text),
+        pn = u.b.span(fn(), m.text),
+        wn = (u.b.small(dn(), m.title), u.b.strong(mn())),
+        hn = u.b.h1(un(), m.title),
+        En = u.b.h2(An(), m.title),
+        xn = (u.b.h3(cn(), m.title), u.b.h4(ln(), m.title)),
+        Bn = u.b.h5(on(), m.title);
+      function yn() {
+        var n = Object(A.a)([
           "\n\twidth: 35px;\n\theight: 5px;\n\tborder-radius: 5px;\n\tbackground: ",
           ";\n",
         ]);
         return (
-          (xt = function () {
-            return t;
+          (yn = function () {
+            return n;
           }),
-          t
+          n
         );
       }
-      function Bt() {
-        var t = Object(l.a)([
+      function vn() {
+        var n = Object(A.a)([
           "\n\tdisplay: flex;\n\tflex-direction: column;\n\tjustify-content: space-around;\n\theight: 35px;\n\twidth: 35px;\n\tbackground: transparent;\n\tborder: none;\n\tcursor: pointer;\n\tpadding: 0;\n\tbox-sizing: border-box;\n\tmargin-bottom: 0.5rem;\n\n\t:focus {\n\t\toutline: none;\n\t}\n",
         ]);
         return (
-          (Bt = function () {
-            return t;
+          (vn = function () {
+            return n;
           }),
-          t
+          n
         );
       }
-      function vt() {
-        var t = Object(l.a)([
+      function Cn() {
+        var n = Object(A.a)([
           "\n\t@media (min-width: 768px) {\n\t\tdisplay: none;\n\t}\n",
         ]);
         return (
-          (vt = function () {
-            return t;
+          (Cn = function () {
+            return n;
           }),
-          t
+          n
         );
       }
-      var It = u.b.div(vt()),
-        yt = u.b.button(Bt()),
-        Ct = u.b.div(xt(), m.sky),
-        Dt = function (t) {
-          var n = t.drawerToggleClickHandler;
+      var In = u.b.div(Cn()),
+        kn = u.b.button(vn()),
+        Dn = u.b.div(yn(), m.sky),
+        On = function (n) {
+          var t = n.drawerToggleClickHandler;
           return r.a.createElement(
-            It,
+            In,
             null,
             r.a.createElement(
-              yt,
-              { onClick: n },
-              r.a.createElement(Ct, null),
-              r.a.createElement(Ct, null),
-              r.a.createElement(Ct, null)
+              kn,
+              { onClick: t },
+              r.a.createElement(Dn, null),
+              r.a.createElement(Dn, null),
+              r.a.createElement(Dn, null)
             )
           );
         },
-        Ot = function (t) {
-          var n = t.drawerToggleClickHandler,
-            e = t.onpathScroll,
+        jn = function (n) {
+          var t = n.drawerToggleClickHandler,
+            e = n.onpathScroll,
             i = Object(a.useState)(window.scrollY),
-            o = Object(Z.a)(i, 2),
-            A = o[0],
+            o = Object(L.a)(i, 2),
+            l = o[0],
             c = o[1],
-            l = Object(a.useState)(K),
-            u = Object(Z.a)(l, 2),
+            A = Object(a.useState)(K),
+            u = Object(L.a)(A, 2),
             m = u[0],
-            f = u[1],
-            d = Object(a.useCallback)(function () {
+            d = u[1],
+            f = Object(a.useCallback)(function () {
               c(window.scrollY);
             }, []);
           return (
             Object(a.useEffect)(
               function () {
                 return (
-                  window.addEventListener("scroll", d),
+                  window.addEventListener("scroll", f),
                   function () {
-                    window.removeEventListener("scroll", d);
+                    window.removeEventListener("scroll", f);
                   }
                 );
               },
-              [d]
+              [f]
             ),
             Object(a.useEffect)(
               function () {
-                f(A > 70 ? V : K);
+                d(l > 70 ? V : K);
               },
-              [A]
+              [l]
             ),
             r.a.createElement(
               U,
@@ -449,29 +450,29 @@
                 r.a.createElement(
                   _,
                   null,
-                  r.a.createElement(ht, { style: gt }, "chattavat."),
-                  r.a.createElement(ht, { style: $ }, "v")
+                  r.a.createElement(En, { style: sn }, "chattavat."),
+                  r.a.createElement(En, { style: $ }, "v")
                 ),
                 r.a.createElement(
-                  tt,
+                  nn,
                   null,
-                  r.a.createElement(Dt, { drawerToggleClickHandler: n }),
+                  r.a.createElement(On, { drawerToggleClickHandler: t }),
                   r.a.createElement(
-                    nt,
+                    tn,
                     null,
-                    rt.map(function (t) {
+                    rn.map(function (n) {
                       return r.a.createElement(
-                        et,
-                        { key: t._id },
+                        en,
+                        { key: n._id },
                         r.a.createElement(
-                          st,
+                          bn,
                           {
-                            style: at,
+                            style: an,
                             onClick: function () {
-                              return e(t.label);
+                              return e(n.label);
                             },
                           },
-                          t.label
+                          n.label
                         )
                       );
                     })
@@ -481,46 +482,46 @@
             )
           );
         };
-      function jt() {
-        var t = Object(l.a)([
+      function Qn() {
+        var n = Object(A.a)([
           "\n\ttext-align: center;\n\ttransition: transform 0.2s;\n\tmargin: 0.5rem 0;\n",
         ]);
         return (
-          (jt = function () {
-            return t;
+          (Qn = function () {
+            return n;
           }),
-          t
+          n
         );
       }
-      function kt() {
-        var t = Object(l.a)([
+      function Mn() {
+        var n = Object(A.a)([
           "\n\ttext-transform: uppercase;\n\theight: 100%;\n\tlist-style: none;\n\tdisplay: flex;\n\tflex-direction: column;\n\tjustify-content: center;\n\tpadding-left: 0px;\n",
         ]);
         return (
-          (kt = function () {
-            return t;
+          (Mn = function () {
+            return n;
           }),
-          t
+          n
         );
       }
-      function Qt() {
-        var t = Object(l.a)([
+      function Yn() {
+        var n = Object(A.a)([
           "\n\theight: 80%;\n\tbackground: ",
           ";\n\tposition: fixed;\n\ttop: 0;\n\tleft: 0;\n\twidth: 100%;\n\tz-index: 200;\n\ttransition: transform 0.5s ease-out;\n\n\t@media (min-width: 768px) {\n\t\tdisplay: none;\n\t}\n",
         ]);
         return (
-          (Qt = function () {
-            return t;
+          (Yn = function () {
+            return n;
           }),
-          t
+          n
         );
       }
-      var Mt = u.b.div(Qt(), m.white),
-        Yt = { transform: "translateY(-100%)" },
-        Rt = { transform: "translateY(10%)", boxShadow: m.box_shadow },
-        Gt = u.b.ul(kt()),
-        zt = u.b.li(jt()),
-        St = [
+      var Rn = u.b.div(Yn(), m.white),
+        Gn = { transform: "translateY(-100%)" },
+        Sn = { transform: "translateY(10%)", boxShadow: m.box_shadow },
+        zn = u.b.ul(Mn()),
+        Hn = u.b.li(Qn()),
+        Tn = [
           { _id: "1", label: "home" },
           { _id: "2", label: "about" },
           { _id: "3", label: "training" },
@@ -529,185 +530,196 @@
           { _id: "6", label: "experience" },
           { _id: "7", label: "contact" },
         ],
-        Ht = function (t) {
-          var n = t.onShowSideDrawer;
+        Ln = function (n) {
+          var t = n.onShowSideDrawer,
+            e = n.drawerToggleClickHandler,
+            a = n.onpathScroll;
           return r.a.createElement(
-            Mt,
-            { style: n ? Rt : Yt },
+            Rn,
+            { style: t ? Sn : Gn },
             r.a.createElement(
-              Gt,
+              zn,
               null,
-              St.map(function (t) {
+              Tn.map(function (n) {
                 return r.a.createElement(
-                  zt,
-                  { key: t._id },
-                  r.a.createElement(st, null, t.label)
+                  Hn,
+                  { key: n._id },
+                  r.a.createElement(
+                    bn,
+                    {
+                      onClick: function () {
+                        return (t = n.label), e(), void a(t);
+                        var t;
+                      },
+                    },
+                    n.label
+                  )
                 );
               })
             )
           );
         };
-      function Lt() {
-        var t = Object(l.a)([
+      function Zn() {
+        var n = Object(A.a)([
           "\n\tposition: fixed;\n\twidth: 100%;\n\theight: 100%;\n\ttop: 0;\n\tleft: 0;\n\tbackground: rgba(0, 0, 0, 0.3);\n\tz-index: 100;\n",
         ]);
         return (
-          (Lt = function () {
-            return t;
+          (Zn = function () {
+            return n;
           }),
-          t
+          n
         );
       }
-      var Zt = u.b.div(Lt()),
-        Jt = function (t) {
-          var n = t.handlerClick;
-          return r.a.createElement(Zt, { onClick: n });
+      var Jn = u.b.div(Zn()),
+        Wn = function (n) {
+          var t = n.handlerClick;
+          return r.a.createElement(Jn, { onClick: t });
         },
-        Tt = e(43),
-        Wt = e.n(Tt),
-        Ft = e(44),
-        Nt = e.n(Ft),
-        Pt = e(45),
-        Xt = e.n(Pt),
-        Ut = e(46),
-        Kt = e.n(Ut),
-        Vt = Wt.a,
-        qt = (Nt.a, Xt.a, Kt.a);
-      function _t() {
-        var t = Object(l.a)([
+        Fn = e(43),
+        Nn = e.n(Fn),
+        Pn = e(44),
+        Xn = e.n(Pn),
+        Un = e(45),
+        Kn = e.n(Un),
+        Vn = e(46),
+        qn = e.n(Vn),
+        _n = Nn.a,
+        $n = (Xn.a, Kn.a, qn.a);
+      function nt() {
+        var n = Object(A.a)([
           "\n\twidth: 50%;\n\tmargin: auto;\n\tcolor: ",
           ";\n\n\t@media (max-width: 768px) {\n\t\twidth: 90%;\n\t}\n",
         ]);
         return (
-          (_t = function () {
-            return t;
+          (nt = function () {
+            return n;
           }),
-          t
+          n
         );
       }
-      function $t() {
-        var t = Object(l.a)([
+      function tt() {
+        var n = Object(A.a)([
           "\n\tmargin-top: 3rem;\n\ttext-align: center;\n\tletter-spacing: 1px;\n\twidth: 100%;\n\n\t@media (max-width: 768px) {\n\t\tmargin-top: 1rem;\n\t}\n",
         ]);
         return (
-          ($t = function () {
-            return t;
+          (tt = function () {
+            return n;
           }),
-          t
+          n
         );
       }
-      function tn() {
-        var t = Object(l.a)([
+      function et() {
+        var n = Object(A.a)([
           "\n\twidth: 60%;\n\theight: 2px;\n\tborder-radius: 5px;\n\tbackground: black;\n\tmargin-top: 1.4rem;\n\tmargin-left: 1rem;\n\n\t@media (max-width: 768px) {\n\t\twidth: 55%;\n\t}\n",
         ]);
         return (
-          (tn = function () {
-            return t;
+          (et = function () {
+            return n;
           }),
-          t
+          n
         );
       }
-      function nn() {
-        var t = Object(l.a)(["\n\tdisplay: flex;\n\twidth: 100%;\n"]);
+      function at() {
+        var n = Object(A.a)(["\n\tdisplay: flex;\n\twidth: 100%;\n"]);
         return (
-          (nn = function () {
-            return t;
+          (at = function () {
+            return n;
           }),
-          t
+          n
         );
       }
-      function en() {
-        var t = Object(l.a)([
+      function rt() {
+        var n = Object(A.a)([
           "\n\tposition: relative;\n\twidth: 60%;\n\tpadding: 1rem;\n\n\t@media (max-width: 768px) {\n\t\twidth: 100%;\n\t}\n",
         ]);
         return (
-          (en = function () {
-            return t;
+          (rt = function () {
+            return n;
           }),
-          t
+          n
         );
       }
-      function an() {
-        var t = Object(l.a)([
+      function it() {
+        var n = Object(A.a)([
           "\n\twidth: 100%;\n\tborder-radius: 50%;\n\tpadding: 1rem 8rem;\n\n\t@media (max-width: 768px) {\n\t\tpadding: 0.5rem 4rem;\n\t}\n",
         ]);
         return (
-          (an = function () {
-            return t;
+          (it = function () {
+            return n;
           }),
-          t
+          n
         );
       }
-      function rn() {
-        var t = Object(l.a)([
+      function ot() {
+        var n = Object(A.a)([
           "\n\twidth: 40%;\n\n\t@media (max-width: 768px) {\n\t\twidth: 100%;\n\t}\n",
         ]);
         return (
-          (rn = function () {
-            return t;
+          (ot = function () {
+            return n;
           }),
-          t
+          n
         );
       }
-      function on() {
-        var t = Object(l.a)([
+      function lt() {
+        var n = Object(A.a)([
           "\n\tmargin-top: 90px;\n\tbackground-image: url(",
           ");\n\tbackground-size: cover;\n\theight: 100%;\n\tdisplay: flex;\n\n\t@media (max-width: 768px) {\n\t\tdisplay: block;\n\t\theight: 100%;\n\t}\n",
         ]);
         return (
-          (on = function () {
-            return t;
+          (lt = function () {
+            return n;
           }),
-          t
+          n
         );
       }
-      var An = u.b.div(on(), Vt),
-        cn = u.b.div(rn()),
-        ln = u.b.img(an()),
-        un = u.b.div(en()),
-        mn = u.b.div(nn()),
-        fn = u.b.div(tn()),
-        dn = u.b.div($t()),
-        gn = {
+      var ct = u.b.div(lt(), _n),
+        At = u.b.div(ot()),
+        ut = u.b.img(it()),
+        mt = u.b.div(rt()),
+        dt = u.b.div(at()),
+        ft = u.b.div(et()),
+        gt = u.b.div(tt()),
+        st = {
           textAlign: "center",
           fontSize: "1.5rem",
           letterSpacing: "5px",
           marginBottom: "2rem",
         },
-        sn = u.b.div(_t(), m.title),
-        bn = function (t) {
+        bt = u.b.div(nt(), m.title),
+        pt = function (n) {
           return r.a.createElement(
-            An,
+            ct,
             null,
             r.a.createElement(
-              cn,
+              At,
               null,
-              r.a.createElement(ln, { src: qt, alt: qt })
+              r.a.createElement(ut, { src: $n, alt: $n })
             ),
             r.a.createElement(
-              un,
+              mt,
               null,
               r.a.createElement(
-                mn,
+                dt,
                 null,
                 r.a.createElement(
-                  wt,
+                  xn,
                   null,
                   "THIS IS ",
-                  r.a.createElement(bt, { style: { color: m.sky } }, "ME")
+                  r.a.createElement(pn, { style: { color: m.sky } }, "ME")
                 ),
-                r.a.createElement(fn, null)
+                r.a.createElement(ft, null)
               ),
               r.a.createElement(
-                dn,
+                gt,
                 null,
-                r.a.createElement(pt, null, "CHATTAVAT VATTANASIRI"),
-                r.a.createElement(st, { style: gn }, "Full-Stack Developer"),
+                r.a.createElement(hn, null, "CHATTAVAT VATTANASIRI"),
+                r.a.createElement(bn, { style: st }, "Full-Stack Developer"),
                 r.a.createElement(
-                  sn,
+                  bt,
                   null,
                   r.a.createElement(
-                    bt,
+                    pn,
                     null,
                     '"Always looking for new idea. exploring in new area and always keep my technical skills up to date - working with new people is always fun and challenging for me"'
                   )
@@ -716,36 +728,36 @@
             )
           );
         };
-      function pn() {
-        var t = Object(l.a)([
+      function wt() {
+        var n = Object(A.a)([
           "\n\twidth: 80%;\n\tmargin: auto;\n\n\t@media (max-width: 700px) {\n\t\twidth: 100%;\n\t\tpadding: 0 1rem;\n\t}\n",
         ]);
         return (
-          (pn = function () {
-            return t;
+          (wt = function () {
+            return n;
           }),
-          t
+          n
         );
       }
-      function hn() {
-        var t = Object(l.a)(["\n\twidth: 100%;\n"]);
+      function ht() {
+        var n = Object(A.a)(["\n\twidth: 100%;\n"]);
         return (
-          (hn = function () {
-            return t;
+          (ht = function () {
+            return n;
           }),
-          t
+          n
         );
       }
-      var wn = u.b.div(hn()),
-        En = u.b.div(pn()),
-        xn = function (t) {
+      var Et = u.b.div(ht()),
+        xt = u.b.div(wt()),
+        Bt = function (n) {
           return r.a.createElement(
-            wn,
-            t,
-            r.a.createElement(En, null, t.children)
+            Et,
+            n,
+            r.a.createElement(xt, null, n.children)
           );
         },
-        Bn = [
+        yt = [
           {
             type: "hardware",
             details: [
@@ -796,128 +808,142 @@
             ],
           },
         ];
-      function vn() {
-        var t = Object(l.a)(["\n\tmargin-right: 0.5rem;\n"]);
+      function vt() {
+        var n = Object(A.a)([
+          "\n\tmargin-bottom: 1rem;\n\n\t@media (max-width: 768px) {\n\t\tborder-bottom: 1px solid ",
+          ";\n\t}\n",
+        ]);
         return (
-          (vn = function () {
-            return t;
+          (vt = function () {
+            return n;
           }),
-          t
+          n
         );
       }
-      function In() {
-        var t = Object(l.a)([
+      function Ct() {
+        var n = Object(A.a)(["\n\tmargin-right: 0.5rem;\n"]);
+        return (
+          (Ct = function () {
+            return n;
+          }),
+          n
+        );
+      }
+      function It() {
+        var n = Object(A.a)([
           "\n\tdisplay: flex;\n\tlist-style: none;\n\tmargin: 0;\n\tpadding: 0;\n\tflex-wrap: wrap;\n",
         ]);
         return (
-          (In = function () {
-            return t;
+          (It = function () {
+            return n;
           }),
-          t
+          n
         );
       }
-      function yn() {
-        var t = Object(l.a)([
+      function kt() {
+        var n = Object(A.a)([
           "\n\tflex: 0 0 50%;\n\tmax-width: 50%;\n\n\t@media (max-width: 768px) {\n\t\tmax-width: 100%;\n\t}\n",
         ]);
         return (
-          (yn = function () {
-            return t;
+          (kt = function () {
+            return n;
           }),
-          t
+          n
         );
       }
-      function Cn() {
-        var t = Object(l.a)([
+      function Dt() {
+        var n = Object(A.a)([
           "\n\twidth: 60%;\n\tdisplay: flex;\n\tflex-wrap: wrap;\n\n\t@media (max-width: 768px) {\n\t\twidth: 100%;\n\t\tdisplay: block;\n\t}\n",
         ]);
         return (
-          (Cn = function () {
-            return t;
+          (Dt = function () {
+            return n;
           }),
-          t
+          n
         );
       }
-      function Dn() {
-        var t = Object(l.a)([
+      function Ot() {
+        var n = Object(A.a)([
           "\n\twidth: 80%;\n\tletter-spacing: 1.5px;\n\tmargin: 1rem auto;\n\tmargin-left: 0px;\n\n\t@media (max-width: 768px) {\n\t\tmargin: auto;\n\t\tmargin-bottom: 2.5rem;\n\t\twidth: 100%;\n\t}\n",
         ]);
         return (
-          (Dn = function () {
-            return t;
+          (Ot = function () {
+            return n;
           }),
-          t
+          n
         );
       }
-      function On() {
-        var t = Object(l.a)([
+      function jt() {
+        var n = Object(A.a)([
           "\n\twidth: 40%;\n\n\t@media (max-width: 768px) {\n\t\twidth: 100%;\n\t\ttext-align: center;\n\t}\n",
         ]);
         return (
-          (On = function () {
-            return t;
+          (jt = function () {
+            return n;
           }),
-          t
+          n
         );
       }
-      function jn() {
-        var t = Object(l.a)([
+      function Qt() {
+        var n = Object(A.a)([
           "\n\tdisplay: flex;\n\tmargin: 1rem auto;\n\n\t@media (max-width: 768px) {\n\t\tdisplay: block;\n\t}\n",
         ]);
         return (
-          (jn = function () {
-            return t;
+          (Qt = function () {
+            return n;
           }),
-          t
+          n
         );
       }
-      var kn = u.b.div(jn()),
-        Qn = u.b.div(On()),
-        Mn = u.b.div(Dn()),
-        Yn = u.b.div(Cn()),
-        Rn = u.b.div(yn()),
-        Gn = u.b.ul(In()),
-        zn = u.b.li(vn()),
-        Sn = { textTransform: "uppercase", marginBottom: "1rem" },
-        Hn = function () {
+      var Mt = u.b.div(Qt()),
+        Yt = u.b.div(jt()),
+        Rt = u.b.div(Ot()),
+        Gt = u.b.div(Dt()),
+        St = u.b.div(kt()),
+        zt = u.b.ul(It()),
+        Ht = u.b.li(Ct()),
+        Tt = { textTransform: "uppercase" },
+        Lt = u.b.div(vt(), m.gray),
+        Zt = function () {
           return r.a.createElement(
-            xn,
+            Bt,
             null,
             r.a.createElement(
-              kn,
+              Mt,
               null,
               r.a.createElement(
-                Qn,
+                Yt,
                 null,
-                r.a.createElement(wt, null, "My Skills"),
+                r.a.createElement(xn, null, "My Skills"),
                 r.a.createElement(
-                  Mn,
+                  Rt,
                   null,
                   r.a.createElement(
-                    st,
+                    bn,
                     null,
                     '"This is my skills to use in jobs and works. All skills involve working on hardware, machine, interface, web application, mobile app and others."'
                   )
                 )
               ),
               r.a.createElement(
-                Yn,
+                Gt,
                 null,
-                Bn.map(function (t, n) {
+                yt.map(function (n, t) {
                   return r.a.createElement(
-                    Rn,
-                    { key: n },
-                    r.a.createElement(Et, { style: Sn }, t.type),
+                    St,
+                    { key: t },
+                    r.a.createElement(Bn, { style: Tt }, n.type),
+                    r.a.createElement(Lt, null),
                     r.a.createElement(
-                      Gn,
+                      zt,
                       null,
-                      t.details.map(function (n, e) {
+                      n.details.map(function (t, e) {
                         return r.a.createElement(
-                          zn,
+                          Ht,
                           { key: e },
-                          t.details.length - 1 === e
-                            ? r.a.createElement(st, null, "".concat(n))
-                            : r.a.createElement(st, null, "".concat(n, ","))
+                          n.details.length - 1 === e
+                            ? r.a.createElement(bn, null, "".concat(t))
+                            : r.a.createElement(bn, null, "".concat(t, ","))
                         );
                       })
                     )
@@ -926,56 +952,203 @@
               )
             )
           );
-        },
-        Ln = function (t) {
-          var n = Object(a.useState)(!1),
-            e = Object(Z.a)(n, 2),
-            i = e[0],
-            o = e[1];
+        };
+      function Jt() {
+        var n = Object(A.a)([
+          "\n\tbackground: #ffffff;\n\tpadding: 1rem;\n\tborder-radius: 10px;\n\tmargin-bottom: 1rem;\n\ttransition: all 0.3s linear 0s;\n\n\t:hover {\n\t\tbox-shadow: ",
+          ";\n\t}\n",
+        ]);
+        return (
+          (Jt = function () {
+            return n;
+          }),
+          n
+        );
+      }
+      function Wt() {
+        var n = Object(A.a)([
+          "\n\twidth: 60%;\n\tdisplay: flex;\n\tflex-wrap: wrap;\n\n\t@media (max-width: 768px) {\n\t\twidth: 100%;\n\t\tdisplay: block;\n\t}\n",
+        ]);
+        return (
+          (Wt = function () {
+            return n;
+          }),
+          n
+        );
+      }
+      function Ft() {
+        var n = Object(A.a)([
+          "\n\twidth: 80%;\n\tletter-spacing: 1.5px;\n\tmargin: 1rem auto;\n\tmargin-left: 0px;\n\n\t@media (max-width: 768px) {\n\t\tmargin: auto;\n\t\tmargin-bottom: 2.5rem;\n\t\twidth: 100%;\n\t}\n",
+        ]);
+        return (
+          (Ft = function () {
+            return n;
+          }),
+          n
+        );
+      }
+      function Nt() {
+        var n = Object(A.a)([
+          "\n\twidth: 40%;\n\n\t@media (max-width: 768px) {\n\t\twidth: 100%;\n\t\ttext-align: center;\n\t}\n",
+        ]);
+        return (
+          (Nt = function () {
+            return n;
+          }),
+          n
+        );
+      }
+      function Pt() {
+        var n = Object(A.a)([
+          "\n\tdisplay: flex;\n\tmargin: 1rem auto;\n\tpadding: 4rem 0rem;\n\n\t@media (max-width: 768px) {\n\t\tdisplay: block;\n\t\tpadding: 2rem 0rem;\n\t}\n",
+        ]);
+        return (
+          (Pt = function () {
+            return n;
+          }),
+          n
+        );
+      }
+      var Xt = u.b.div(Pt()),
+        Ut = { background: m.lightsky },
+        Kt = u.b.div(Nt()),
+        Vt = u.b.div(Ft()),
+        qt = u.b.div(Wt()),
+        _t = u.b.div(Jt(), m.box_shadow),
+        $t = [
+          {
+            name: "SolidWorks Advance",
+            company:
+              "Training course by Metro System Corporation Public Company Limited",
+            description:
+              "Training advance, how to render 3d and use tools advance for design like curve, copy multi part, robot arm etc.",
+            year: "2017",
+          },
+          {
+            name: "SolidWorks Fundamental",
+            company:
+              "Training course by Metro System Corporation Public Company Limited",
+            description:
+              "Training use basic tools in software solidwork and design basic part machine like gear, wheel, component part etc.",
+            year: "2017",
+          },
+          {
+            name: "Thailand for Nuvoton board controller",
+            company: "Training course by Venus Supply Company Limited",
+            description:
+              "Training basic to control nuvoton board and write software to control display on board controller",
+            year: "2015",
+          },
+          {
+            name: "Phuket Campus for Arduino controller",
+            company:
+              "Training course by Computer Engineering, Prince of Songkhla University",
+            description:
+              "Training basic to write program and upload source code ardiuno (Microcontroller Board) and Wiring circuit from design to integrate LCD, LED and other electronics module",
+            year: "2013",
+          },
+        ],
+        ne = function (n) {
           return r.a.createElement(
-            r.a.Fragment,
+            Bt,
+            { style: Ut },
+            r.a.createElement(
+              Xt,
+              null,
+              r.a.createElement(
+                Kt,
+                null,
+                r.a.createElement(xn, null, "Trains"),
+                r.a.createElement(
+                  Vt,
+                  null,
+                  r.a.createElement(bn, null, '"History of train me."')
+                )
+              ),
+              r.a.createElement(
+                qt,
+                null,
+                $t.map(function (n, t) {
+                  return r.a.createElement(
+                    _t,
+                    { key: t },
+                    r.a.createElement(Bn, null, n.name),
+                    r.a.createElement(
+                      bn,
+                      null,
+                      r.a.createElement(wn, null, "Company: "),
+                      n.company
+                    ),
+                    r.a.createElement(
+                      bn,
+                      null,
+                      r.a.createElement(wn, null, "Desciption: "),
+                      n.description
+                    ),
+                    r.a.createElement(
+                      bn,
+                      null,
+                      r.a.createElement(wn, null, "Year: "),
+                      n.year
+                    )
+                  );
+                })
+              )
+            )
+          );
+        },
+        te = function (n) {
+          var t = Object(a.useState)(!1),
+            e = Object(L.a)(t, 2),
+            i = e[0],
+            o = e[1],
+            l = function (n) {
+              Z.scroller.scrollTo(n, {
+                duration: 1500,
+                delay: 50,
+                smooth: !0,
+                offset: -75,
+              });
+            };
+          return r.a.createElement(
+            a.Fragment,
             null,
-            r.a.createElement(Ot, {
+            r.a.createElement(jn, {
               drawerToggleClickHandler: function () {
                 return o(!i);
               },
-              onpathScroll: function (t) {
-                J.scroller.scrollTo(t, {
-                  duration: 1500,
-                  delay: 50,
-                  smooth: !0,
-                  offset: -75,
-                });
+              onpathScroll: l,
+            }),
+            r.a.createElement(Ln, {
+              onShowSideDrawer: i,
+              onpathScroll: l,
+              drawerToggleClickHandler: function () {
+                return o(!1);
               },
             }),
-            r.a.createElement(Ht, { onShowSideDrawer: i }),
             i &&
-              r.a.createElement(Jt, {
+              r.a.createElement(Wn, {
                 handlerClick: function () {
                   return o(!1);
                 },
               }),
             r.a.createElement(
-              J.Element,
+              Z.Element,
               { name: "home" },
-              r.a.createElement(bn, null)
+              r.a.createElement(pt, null)
             ),
             r.a.createElement(
-              J.Element,
+              Z.Element,
               { name: "about" },
-              r.a.createElement(Hn, null)
+              r.a.createElement(Zt, null)
             ),
             r.a.createElement(
-              J.Element,
+              Z.Element,
               { name: "training" },
-              r.a.createElement(
-                "div",
-                { style: { height: "200vh", textAlign: "center" } },
-                "Hello"
-              )
+              r.a.createElement(ne, null)
             ),
             r.a.createElement(
-              J.Element,
+              Z.Element,
               { name: "career" },
               r.a.createElement(
                 "div",
@@ -984,7 +1157,7 @@
               )
             ),
             r.a.createElement(
-              J.Element,
+              Z.Element,
               { name: "project" },
               r.a.createElement(
                 "div",
@@ -993,7 +1166,7 @@
               )
             ),
             r.a.createElement(
-              J.Element,
+              Z.Element,
               { name: "experience" },
               r.a.createElement(
                 "div",
@@ -1002,7 +1175,7 @@
               )
             ),
             r.a.createElement(
-              J.Element,
+              Z.Element,
               { name: "contact" },
               r.a.createElement(
                 "div",
@@ -1012,22 +1185,22 @@
             )
           );
         },
-        Zn = function () {
+        ee = function () {
           return r.a.createElement(
             a.Fragment,
             null,
             r.a.createElement(
-              A.a,
+              l.a,
               null,
               r.a.createElement(H, null),
-              r.a.createElement(L, null),
+              r.a.createElement(T, null),
               r.a.createElement(
                 c.c,
                 null,
                 r.a.createElement(c.a, {
                   exact: !0,
                   path: "/chattavat.github.io",
-                  component: Ln,
+                  component: te,
                 })
               )
             )
@@ -1035,11 +1208,11 @@
         };
       e(65), e(66), e(69);
       o.a.render(
-        r.a.createElement(r.a.StrictMode, null, r.a.createElement(Zn, null)),
+        r.a.createElement(r.a.StrictMode, null, r.a.createElement(ee, null)),
         document.getElementById("root")
       );
     },
   },
   [[48, 1, 2]],
 ]);
-//# sourceMappingURL=main.859740e5.chunk.js.map
+//# sourceMappingURL=main.65a47f58.chunk.js.map

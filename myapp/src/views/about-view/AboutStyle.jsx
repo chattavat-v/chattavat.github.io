@@ -1,4 +1,5 @@
 import styled from "styled-components";
+import colors from "../../styles/Colors";
 
 export const WrapperAbout = styled.div`
 	display: flex;
@@ -57,7 +58,6 @@ export const ListDeatail = styled.ul`
 	margin: 0;
 	padding: 0;
 	flex-wrap: wrap;
-	margin-left: 1rem;
 `;
 
 export const DetailItem = styled.li`
@@ -66,5 +66,12 @@ export const DetailItem = styled.li`
 
 export const TextUpper = {
 	textTransform: "uppercase",
-	marginBottom: "1rem",
 };
+
+export const Line = styled.div`
+	margin-bottom: 1rem;
+
+	@media (max-width: 768px) {
+		border-bottom: 1px solid ${colors.gray};
+	}
+`;

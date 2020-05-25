@@ -10,7 +10,6 @@ import {
 	ListDeatail,
 	DetailItem,
 	TextUpper,
-	TextTitle,
 } from "./AboutStyle";
 import { H4, H5, P } from "../../styles/Fonts";
 

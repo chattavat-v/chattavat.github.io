@@ -24,7 +24,11 @@ const MainScreen = (props) => {
 				drawerToggleClickHandler={() => setSideDrawerOpen(!sideDrawerOpen)}
 				onpathScroll={pathToScroll}
 			/>
-			<SideView onShowSideDrawer={sideDrawerOpen} />
+			<SideView
+				onShowSideDrawer={sideDrawerOpen}
+				onpathScroll={pathToScroll}
+				drawerToggleClickHandler={() => setSideDrawerOpen(false)}
+			/>
 			{sideDrawerOpen && (
 				<BackDropView handlerClick={() => setSideDrawerOpen(false)} />
 			)}

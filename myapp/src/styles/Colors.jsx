@@ -17,6 +17,7 @@ const colors = {
 	darkgray: "#878787",
 	white: "#ffffff",
 	sky: "#87ceeb",
+	lightsky: "#f9f9f9",
 };
 
 export default colors;

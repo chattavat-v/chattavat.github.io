@@ -4,7 +4,16 @@ import * as Side from "./SideStyle";
 import * as utils from "./utils";
 import { P } from "../../styles/Fonts";
 
-const SideView = ({ onShowSideDrawer }) => {
+const SideView = ({
+	onShowSideDrawer,
+	drawerToggleClickHandler,
+	onpathScroll,
+}) => {
+	const onSelectTopic = (label) => {
+		drawerToggleClickHandler();
+		onpathScroll(label);
+	};
+
 	return (
 		<Side.WrapperSide
 			style={onShowSideDrawer ? Side.WrapperSideOpen : Side.WrapperSideClose}
@@ -12,7 +21,7 @@ const SideView = ({ onShowSideDrawer }) => {
 			<Side.ListNavigation>
 				{utils.TopicLists.map((item) => (
 					<Side.ListItem key={item._id}>
-						<P>{item.label}</P>
+						<P onClick={() => onSelectTopic(item.label)}>{item.label}</P>
 					</Side.ListItem>
 				))}
 			</Side.ListNavigation>
@@ -22,6 +31,8 @@ const SideView = ({ onShowSideDrawer }) => {
 
 SideView.propTypes = {
 	onShowSideDrawer: PropTypes.bool.isRequired,
+	drawerToggleClickHandler: PropTypes.func.isRequired,
+	onpathScroll: PropTypes.func.isRequired,
 };
 
 export default SideView;

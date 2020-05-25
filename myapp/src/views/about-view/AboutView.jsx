@@ -10,7 +10,7 @@ import {
 	ListDeatail,
 	DetailItem,
 	TextUpper,
-	TextTitle,
+	Line,
 } from "./AboutStyle";
 import { H4, H5, P } from "../../styles/Fonts";
 
@@ -32,6 +32,7 @@ const AboutView = () => {
 					{utils.listSkill.map((skill, index) => (
 						<SkillGroup key={index}>
 							<H5 style={TextUpper}>{skill.type}</H5>
+							<Line />
 							<ListDeatail>
 								{skill.details.map((detail, index) => (
 									<DetailItem key={index}>

@@ -1,14 +1,20 @@
 import styled from "styled-components";
 import colors from "../../styles/Colors";
 
-export const WrapperAbout = styled.div`
+export const WrapperTraining = styled.div`
 	display: flex;
 	margin: 1rem auto;
+	padding: 4rem 0rem;
 
 	@media (max-width: 768px) {
 		display: block;
+		padding: 2rem 0rem;
 	}
 `;
+
+export const BgActive = {
+	background: colors.lightsky,
+};
 
 export const TopicArea = styled.div`
 	width: 40%;
@@ -19,7 +25,7 @@ export const TopicArea = styled.div`
 	}
 `;
 
-export const DescribeSkill = styled.div`
+export const DescriptionArea = styled.div`
 	width: 80%;
 	letter-spacing: 1.5px;
 	margin: 1rem auto;
@@ -32,7 +38,7 @@ export const DescribeSkill = styled.div`
 	}
 `;
 
-export const SkillArea = styled.div`
+export const TrainingArea = styled.div`
 	width: 60%;
 	display: flex;
 	flex-wrap: wrap;
@@ -43,35 +49,14 @@ export const SkillArea = styled.div`
 	}
 `;
 
-export const SkillGroup = styled.div`
-	flex: 0 0 50%;
-	max-width: 50%;
-
-	@media (max-width: 768px) {
-		max-width: 100%;
-	}
-`;
-
-export const ListDeatail = styled.ul`
-	display: flex;
-	list-style: none;
-	margin: 0;
-	padding: 0;
-	flex-wrap: wrap;
-`;
-
-export const DetailItem = styled.li`
-	margin-right: 0.5rem;
-`;
-
-export const TextUpper = {
-	textTransform: "uppercase",
-};
-
-export const Line = styled.div`
+export const TrainItem = styled.div`
+	background: #ffffff;
+	padding: 1rem;
+	border-radius: 10px;
 	margin-bottom: 1rem;
+	transition: all 0.3s linear 0s;
 
-	@media (max-width: 768px) {
-		border-bottom: 1px solid ${colors.gray};
+	:hover {
+		box-shadow: ${colors.box_shadow};
 	}
 `;

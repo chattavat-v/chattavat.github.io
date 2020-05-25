@@ -1,10 +1,11 @@
-import React, { useState } from "react";
+import React, { useState, Fragment } from "react";
 import { Element, scroller } from "react-scroll";
 import HeaderView from "../../views/header-view/HeaderView";
 import SideView from "../../views/side-view/SideView";
 import BackDropView from "../../views/backdrop-view/BackDropView";
 import HomeView from "../../views/home-view/HomeView";
 import AboutView from "../../views/about-view/AboutView";
+import TrainingView from "../../views/training-view/TrainingView";
 
 const MainScreen = (props) => {
 	const [sideDrawerOpen, setSideDrawerOpen] = useState(false);
@@ -19,7 +20,7 @@ const MainScreen = (props) => {
 	};
 
 	return (
-		<>
+		<Fragment>
 			<HeaderView
 				drawerToggleClickHandler={() => setSideDrawerOpen(!sideDrawerOpen)}
 				onpathScroll={pathToScroll}
@@ -39,7 +40,7 @@ const MainScreen = (props) => {
 				<AboutView />
 			</Element>
 			<Element name="training">
-				<div style={{ height: "200vh", textAlign: "center" }}>Hello</div>
+				<TrainingView />
 			</Element>
 			<Element name="career">
 				<div style={{ height: "200vh", textAlign: "center" }}>Hello</div>
@@ -53,7 +54,7 @@ const MainScreen = (props) => {
 			<Element name="contact">
 				<div style={{ height: "200vh", textAlign: "center" }}>Hello</div>
 			</Element>
-		</>
+		</Fragment>
 	);
 };
 

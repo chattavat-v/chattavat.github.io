@@ -57,6 +57,7 @@ export const ListDeatail = styled.ul`
 	margin: 0;
 	padding: 0;
 	flex-wrap: wrap;
+	margin-left: 1rem;
 `;
 
 export const DetailItem = styled.li`

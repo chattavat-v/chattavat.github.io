@@ -4,6 +4,7 @@ import { H4, H5, P, Strong } from "../../styles/Fonts";
 import {
 	WrapperTraining,
 	TopicArea,
+	DescriptionArea,
 	TrainingArea,
 	TrainItem,
 	BgActive,
@@ -16,6 +17,9 @@ const TrainingView = (props) => {
 			<WrapperTraining>
 				<TopicArea>
 					<H4>Trains</H4>
+					<DescriptionArea>
+						<P>"History of train me."</P>
+					</DescriptionArea>
 				</TopicArea>
 				<TrainingArea>
 					{utils.listTrains.map((train, index) => (

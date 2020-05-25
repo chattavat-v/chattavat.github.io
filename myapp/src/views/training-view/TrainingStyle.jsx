@@ -25,6 +25,19 @@ export const TopicArea = styled.div`
 	}
 `;
 
+export const DescriptionArea = styled.div`
+	width: 80%;
+	letter-spacing: 1.5px;
+	margin: 1rem auto;
+	margin-left: 0px;
+
+	@media (max-width: 768px) {
+		margin: auto;
+		margin-bottom: 2.5rem;
+		width: 100%;
+	}
+`;
+
 export const TrainingArea = styled.div`
 	width: 60%;
 	display: flex;

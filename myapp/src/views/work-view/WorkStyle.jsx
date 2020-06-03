@@ -1,5 +1,11 @@
 import styled from "styled-components";
 import colors from "../../styles/Colors";
+import { ImageFooter } from "../../styles/Image";
+
+export const ImageBackground = {
+	backgroundImage: `url(${ImageFooter})`,
+	backgroundSize: "cover",
+};
 
 export const WrapperCareer = styled.div`
 	display: flex;

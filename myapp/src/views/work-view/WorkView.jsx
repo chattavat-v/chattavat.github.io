@@ -3,6 +3,7 @@ import PropTypes from "prop-types";
 import ContainerComp from "../../components/container-comp/ContainerComp";
 import { H4, P, H5, Strong } from "../../styles/Fonts";
 import {
+	ImageBackground,
 	WrapperCareer,
 	TopicArea,
 	DescriptionArea,
@@ -15,7 +16,7 @@ import { calculateYearOfWork, listWork } from "./utils";
 
 const WorkView = (props) => {
 	return (
-		<ContainerComp>
+		<ContainerComp style={ImageBackground}>
 			<WrapperCareer>
 				<TopicArea>
 					<H4>Works</H4>

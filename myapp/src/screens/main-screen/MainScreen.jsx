@@ -6,6 +6,8 @@ import BackDropView from "../../views/backdrop-view/BackDropView";
 import HomeView from "../../views/home-view/HomeView";
 import AboutView from "../../views/about-view/AboutView";
 import TrainingView from "../../views/training-view/TrainingView";
+import WorkView from "../../views/work-view/WorkView";
+import ExperinceView from "../../views/experience-view/ExperienceView";
 
 const MainScreen = (props) => {
 	const [sideDrawerOpen, setSideDrawerOpen] = useState(false);
@@ -42,17 +44,14 @@ const MainScreen = (props) => {
 			<Element name="training">
 				<TrainingView />
 			</Element>
-			<Element name="career">
-				<div style={{ height: "200vh", textAlign: "center" }}>Hello</div>
-			</Element>
-			<Element name="project">
-				<div style={{ height: "200vh", textAlign: "center" }}>Hello</div>
+			<Element name="work">
+				<WorkView />
 			</Element>
 			<Element name="experience">
-				<div style={{ height: "200vh", textAlign: "center" }}>Hello</div>
+				<ExperinceView />
 			</Element>
 			<Element name="contact">
-				<div style={{ height: "200vh", textAlign: "center" }}>Hello</div>
+				<div style={{ height: "100vh", textAlign: "center" }}>Hello</div>
 			</Element>
 		</Fragment>
 	);

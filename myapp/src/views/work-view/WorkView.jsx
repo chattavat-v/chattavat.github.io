@@ -1,5 +1,4 @@
 import React from "react";
-import PropTypes from "prop-types";
 import ContainerComp from "../../components/container-comp/ContainerComp";
 import { H4, P, H5, Strong } from "../../styles/Fonts";
 import {
@@ -48,7 +47,5 @@ const WorkView = (props) => {
 		</ContainerComp>
 	);
 };
-
-WorkView.propTypes = {};
 
 export default WorkView;

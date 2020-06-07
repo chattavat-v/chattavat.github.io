@@ -7,6 +7,19 @@ import swingGateBanner from "./swing-gate-banner.png";
 import staffStationBanner from "./staff-station-banner.png";
 import miniStaffStationBanner from "./mini-staff-station-banner.png";
 
+import pcbAccessControl from "./pcb-access-control.png";
+import pcbBookdrop from "./pcb-book-drop.png";
+import pcbChargeModule from "./pcb-charge-module.png";
+import pcbConveyorControl from "./pcb-conveyor-control.png";
+import pcbDriveControl from "./pcb-drive-control.png";
+import pcbLogicConvertor from "./pcb-logic-convertor.png";
+import pcbMiniStaff from "./pcb-mini-staff.png";
+import pcbMonitoringModule from "./pcb-monitoring-module.png";
+import pcbSwitchingModule from "./pcb-switching-module.png";
+import pcbSelfCheck from "./pcb-selfcheck.png";
+import pcbStaffStation from "./pcb-staff-station.png";
+import pcbSwingGate from "./pcb-swing-gate.png";
+
 export const imgDeliveryRobotBanner = deliveryRobotBanner;
 export const imgAutoSorterBanner = autoSorterBanner;
 export const imgBookdopBanner = bookdropBanner;
@@ -15,3 +28,16 @@ export const imgFlapgateBanner = flapgateBanner;
 export const imgSwingGateBanner = swingGateBanner;
 export const imgStaffStationBanner = staffStationBanner;
 export const imgMiniStaffStation = miniStaffStationBanner;
+
+export const imgPcbAccessControl = pcbAccessControl;
+export const imgPcbBookdrop = pcbBookdrop;
+export const imgPcbChargeModule = pcbChargeModule;
+export const imgPcbConveyorControl = pcbConveyorControl;
+export const imgPcbDriveControl = pcbDriveControl;
+export const imgPcbLogicConvertor = pcbLogicConvertor;
+export const imgPcbMiniStaff = pcbMiniStaff;
+export const imgPcbMonitoringModule = pcbMonitoringModule;
+export const imgPcbSwitchingModule = pcbSwitchingModule;
+export const imgPcbSelfCheck = pcbSelfCheck;
+export const imgPcbStaffStation = pcbStaffStation;
+export const imgPcbSwingGate = pcbSwingGate;

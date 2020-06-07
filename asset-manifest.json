@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/chattavat.github.io/static/js/main.65a47f58.chunk.js",
-    "main.js.map": "/chattavat.github.io/static/js/main.65a47f58.chunk.js.map",
+    "main.js": "/chattavat.github.io/static/js/main.d710b2cd.chunk.js",
+    "main.js.map": "/chattavat.github.io/static/js/main.d710b2cd.chunk.js.map",
     "runtime-main.js": "/chattavat.github.io/static/js/runtime-main.bdec6c77.js",
     "runtime-main.js.map": "/chattavat.github.io/static/js/runtime-main.bdec6c77.js.map",
     "static/css/2.af3c1da9.chunk.css": "/chattavat.github.io/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.1add0506.chunk.js": "/chattavat.github.io/static/js/2.1add0506.chunk.js",
-    "static/js/2.1add0506.chunk.js.map": "/chattavat.github.io/static/js/2.1add0506.chunk.js.map",
+    "static/js/2.39ffafc2.chunk.js": "/chattavat.github.io/static/js/2.39ffafc2.chunk.js",
+    "static/js/2.39ffafc2.chunk.js.map": "/chattavat.github.io/static/js/2.39ffafc2.chunk.js.map",
     "index.html": "/chattavat.github.io/index.html",
-    "precache-manifest.a4e1892f1463d279cba519508c3c2163.js": "/chattavat.github.io/precache-manifest.a4e1892f1463d279cba519508c3c2163.js",
+    "precache-manifest.f390ceb50121dcab2020c9ba80417a8c.js": "/chattavat.github.io/precache-manifest.f390ceb50121dcab2020c9ba80417a8c.js",
     "service-worker.js": "/chattavat.github.io/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/chattavat.github.io/static/css/2.af3c1da9.chunk.css.map",
-    "static/js/2.1add0506.chunk.js.LICENSE.txt": "/chattavat.github.io/static/js/2.1add0506.chunk.js.LICENSE.txt",
+    "static/js/2.39ffafc2.chunk.js.LICENSE.txt": "/chattavat.github.io/static/js/2.39ffafc2.chunk.js.LICENSE.txt",
     "static/media/Roboto-Black.ttf": "/chattavat.github.io/static/media/Roboto-Black.5ebb24ee.ttf",
     "static/media/Roboto-BlackItalic.ttf": "/chattavat.github.io/static/media/Roboto-BlackItalic.99682a78.ttf",
     "static/media/Roboto-Bold.ttf": "/chattavat.github.io/static/media/Roboto-Bold.e07df86c.ttf",
@@ -24,14 +24,22 @@
     "static/media/Roboto-Regular.ttf": "/chattavat.github.io/static/media/Roboto-Regular.11eabca2.ttf",
     "static/media/Roboto-Thin.ttf": "/chattavat.github.io/static/media/Roboto-Thin.321de678.ttf",
     "static/media/Roboto-ThinItalic.ttf": "/chattavat.github.io/static/media/Roboto-ThinItalic.35a9c89a.ttf",
+    "static/media/access-control-banner.png": "/chattavat.github.io/static/media/access-control-banner.2c42d382.png",
+    "static/media/auto-sorter-banner.png": "/chattavat.github.io/static/media/auto-sorter-banner.4adb4b66.png",
     "static/media/banner.png": "/chattavat.github.io/static/media/banner.173a6040.png",
+    "static/media/book-drop-banner.png": "/chattavat.github.io/static/media/book-drop-banner.d545e685.png",
+    "static/media/delivery-robot-banner.png": "/chattavat.github.io/static/media/delivery-robot-banner.9491c8a7.png",
+    "static/media/flap-gate-banner.png": "/chattavat.github.io/static/media/flap-gate-banner.aaff4c53.png",
     "static/media/logo.png": "/chattavat.github.io/static/media/logo.98f1369c.png",
-    "static/media/profile.png": "/chattavat.github.io/static/media/profile.418d3800.png"
+    "static/media/mini-staff-station-banner.png": "/chattavat.github.io/static/media/mini-staff-station-banner.c8d21144.png",
+    "static/media/profile.png": "/chattavat.github.io/static/media/profile.418d3800.png",
+    "static/media/staff-station-banner.png": "/chattavat.github.io/static/media/staff-station-banner.71f327b6.png",
+    "static/media/swing-gate-banner.png": "/chattavat.github.io/static/media/swing-gate-banner.ec15f494.png"
   },
   "entrypoints": [
     "static/js/runtime-main.bdec6c77.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.1add0506.chunk.js",
-    "static/js/main.65a47f58.chunk.js"
+    "static/js/2.39ffafc2.chunk.js",
+    "static/js/main.d710b2cd.chunk.js"
   ]
 }

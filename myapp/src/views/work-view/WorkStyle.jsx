@@ -35,6 +35,7 @@ export const DescriptionArea = styled.div`
 	margin-left: 0px;
 
 	@media (max-width: 768px) {
+		justify-content: center;
 		margin: auto;
 		margin-bottom: 0.5rem;
 		width: 100%;

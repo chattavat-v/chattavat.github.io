@@ -9,7 +9,7 @@ export const calculateYearOfWork = () => {
 
 export const listWork = [
 	{
-		name: "Dplus Intertrade",
+		name: "Dplus Intertrade Company Limited, Bangkok",
 		date: "2019/11/1 - present",
 		position: "Backend developer",
 		description: [

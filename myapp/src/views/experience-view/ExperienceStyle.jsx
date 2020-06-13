@@ -31,7 +31,7 @@ export const ExperienceItem = styled.div`
 
 export const Image = styled.img`
 	width: 100%;
-	height: 180px;
+	height: 200px;
 	border-radius: 5px;
 `;
 
@@ -50,3 +50,5 @@ export const DescriptionArea = styled.div`
 	margin: 1rem auto;
 	margin-left: 0px;
 `;
+
+export const CategoryArea = styled.div``;

@@ -1,6 +1,7 @@
 import React from "react";
 import * as utils from "./utils";
 import ContainerComp from "../../components/container-comp/ContainerComp";
+import CategoryComp from "../../components/category-comp/CategoryComp";
 import {
 	WrapperExperience,
 	ExperienceArea,
@@ -9,6 +10,7 @@ import {
 	TitleArea,
 	TopicArea,
 	DescriptionArea,
+	CategoryArea,
 } from "./ExperienceStyle";
 import { H4, H5, P } from "../../styles/Fonts";
 import { shuffle } from "../../utils/shuffle";
@@ -23,9 +25,15 @@ const ExperienceView = (props) => {
 						<P>"Recently done project quality work"</P>
 					</DescriptionArea>
 				</TopicArea>
-				<ExperienceArea>
+				<CategoryArea>
+					<CategoryComp list={utils.listCategory} />
+				</CategoryArea>
+				<ExperienceArea className="filter-container">
 					{shuffle(utils.listExperience).map((item, index) => (
-						<ExperienceItem key={index}>
+						<ExperienceItem
+							key={index}
+							className={`filter-item ${item.category}`}
+						>
 							<Image src={item.image} alt="" />
 							<TitleArea>
 								<H5>{item.name}</H5>

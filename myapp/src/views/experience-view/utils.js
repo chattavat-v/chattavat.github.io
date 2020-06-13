@@ -1,5 +1,12 @@
 import * as Img from "./images";
 
+export const listCategory = [
+	{ _id: "1", value: "*", name: "ALL" },
+	{ _id: "2", value: "hardware", name: "HARDWARE" },
+	{ _id: "3", value: "software", name: "SOFTWARE" },
+	{ _id: "4", value: "electronics", name: "ELECTRONICS" },
+];
+
 export const listExperience = [
 	{
 		name: "DELIVERY ROBOT VERSION 2.0",

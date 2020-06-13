@@ -26,7 +26,6 @@ const WorkView = (props) => {
 				<DetailWork>
 					{listWork.map((item, index) => (
 						<WorkItem key={index}>
-							{/* <div style={{margin: "1rem"}}> */}
 							<H5>{item.name}</H5>
 							<P>{item.date}</P>
 							<P>
@@ -41,7 +40,6 @@ const WorkView = (props) => {
 									<Li key={index}>{data}</Li>
 								))}
 							</Ul>
-							{/* </div> */}
 						</WorkItem>
 					))}
 				</DetailWork>

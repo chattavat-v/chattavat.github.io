@@ -20,6 +20,12 @@ import pcbSelfCheck from "./pcb-selfcheck.png";
 import pcbStaffStation from "./pcb-staff-station.png";
 import pcbSwingGate from "./pcb-swing-gate.png";
 
+import webConfigHardware from "./web-config-hardware.png";
+import webServerDeliveryRobot from "./web-service-delivery-robot.png";
+import webServiceSwingGate from "./web-service-swing-gate.png";
+import webServiceAccessControl from "./web-service-access-control.png";
+import webServiceHGMC from "./web-service-hgmc.png";
+
 export const imgDeliveryRobotBanner = deliveryRobotBanner;
 export const imgAutoSorterBanner = autoSorterBanner;
 export const imgBookdopBanner = bookdropBanner;
@@ -41,3 +47,9 @@ export const imgPcbSwitchingModule = pcbSwitchingModule;
 export const imgPcbSelfCheck = pcbSelfCheck;
 export const imgPcbStaffStation = pcbStaffStation;
 export const imgPcbSwingGate = pcbSwingGate;
+
+export const imgWebConfigHardware = webConfigHardware;
+export const imgWebServiceDeliveryRobot = webServerDeliveryRobot;
+export const imgWebServiceSwingGate = webServiceSwingGate;
+export const imgWebServiceAccessControl = webServiceAccessControl;
+export const imgWebServiceHGMC = webServiceHGMC;

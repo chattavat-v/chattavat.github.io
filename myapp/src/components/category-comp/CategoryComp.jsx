@@ -1,4 +1,6 @@
 import React, { useState, useEffect } from "react";
+import { CategoryItem, ListCategory } from "./CategoryStyle";
+import { Strong } from "../../styles/Fonts";
 import PropTypes from "prop-types";
 import Isotope from "isotope-layout";
 
@@ -24,15 +26,13 @@ const CategoryComp = ({ list }) => {
 	}, [isotope, filterKey]);
 
 	return (
-		<div>
-			<ul>
-				{list.map((item) => (
-					<li onClick={() => setFilterKey(item.value)} key={item._id}>
-						{item.name}
-					</li>
-				))}
-			</ul>
-		</div>
+		<ListCategory>
+			{list.map((item) => (
+				<CategoryItem onClick={() => setFilterKey(item.value)} key={item._id}>
+					<Strong>{item.name}</Strong>
+				</CategoryItem>
+			))}
+		</ListCategory>
 	);
 };
 

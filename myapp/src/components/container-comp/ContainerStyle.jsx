@@ -5,7 +5,7 @@ export const WrapperArea = styled.div`
 `;
 
 export const WrapperBody = styled.div`
-	width: 80%;
+	width: 90%;
 	margin: auto;
 
 	@media (max-width: 700px) {

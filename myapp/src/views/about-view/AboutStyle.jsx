@@ -3,7 +3,7 @@ import colors from "../../styles/Colors";
 
 export const WrapperAbout = styled.div`
 	display: flex;
-	margin: 1rem auto;
+	padding: 4rem 0rem;
 
 	@media (max-width: 768px) {
 		display: block;
@@ -11,7 +11,7 @@ export const WrapperAbout = styled.div`
 `;
 
 export const TopicArea = styled.div`
-	width: 40%;
+	width: 25%;
 
 	@media (max-width: 768px) {
 		width: 100%;
@@ -33,7 +33,7 @@ export const DescribeSkill = styled.div`
 `;
 
 export const SkillArea = styled.div`
-	width: 60%;
+	width: 75%;
 	display: flex;
 	flex-wrap: wrap;
 

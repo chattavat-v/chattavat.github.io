@@ -17,7 +17,7 @@ export const BgActive = {
 };
 
 export const TopicArea = styled.div`
-	width: 40%;
+	width: 25%;
 
 	@media (max-width: 768px) {
 		width: 100%;
@@ -39,7 +39,7 @@ export const DescriptionArea = styled.div`
 `;
 
 export const TrainingArea = styled.div`
-	width: 60%;
+	width: 75%;
 	display: flex;
 	flex-wrap: wrap;
 
@@ -50,13 +50,19 @@ export const TrainingArea = styled.div`
 `;
 
 export const TrainItem = styled.div`
+	width: 48%;
 	background: #ffffff;
 	padding: 1rem;
 	border-radius: 10px;
-	margin-bottom: 1rem;
+	margin: 0 0.5rem 0.5rem 0;
 	transition: all 0.3s linear 0s;
+	box-shadow: ${colors.box_shadow};
 
 	:hover {
-		box-shadow: ${colors.box_shadow};
+		box-shadow: none;
+	}
+
+	@media (max-width: 768px) {
+		width: 100%;
 	}
 `;

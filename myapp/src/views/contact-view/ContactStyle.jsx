@@ -7,7 +7,6 @@ export const BgActive = {
 
 export const WrapperContact = styled.div`
 	display: flex;
-	margin: 1rem auto;
 	padding: 4rem 0rem;
 
 	@media (max-width: 768px) {

@@ -9,6 +9,7 @@ import TrainingView from "../../views/training-view/TrainingView";
 import WorkView from "../../views/work-view/WorkView";
 import ExperinceView from "../../views/experience-view/ExperienceView";
 import ContactView from "../../views/contact-view/ContactView";
+import FooterView from "../../views/footer-view/FooterView";
 
 const MainScreen = (props) => {
 	const [sideDrawerOpen, setSideDrawerOpen] = useState(false);
@@ -54,6 +55,7 @@ const MainScreen = (props) => {
 			<Element name="contact">
 				<ContactView />
 			</Element>
+			<FooterView />
 		</Fragment>
 	);
 };

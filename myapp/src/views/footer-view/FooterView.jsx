@@ -1,5 +1,4 @@
 import React from "react";
-import PropTypes from "prop-types";
 import { H2, P, Capitalize } from "../../styles/Fonts";
 import {
 	WrapperFooter,
@@ -21,7 +20,5 @@ const FooterView = (props) => {
 		</WrapperFooter>
 	);
 };
-
-FooterView.propTypes = {};
 
 export default FooterView;

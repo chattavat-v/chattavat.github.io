@@ -1,6 +1,6 @@
 import React from "react";
 import ContainerComp from "../../components/container-comp/ContainerComp";
-import { H3, H4, P } from "../../styles/Fonts";
+import { H3, P } from "../../styles/Fonts";
 import {
 	BgActive,
 	WrapperContact,
@@ -11,13 +11,14 @@ import {
 	LocationItem,
 	EmailItem,
 } from "./ContactStyle";
+import TopicComp from "../../components/topic-comp/TopicComp";
 
 const ContactView = (props) => {
 	return (
 		<ContainerComp style={BgActive}>
 			<WrapperContact>
 				<TopicArea>
-					<H4>Contacts</H4>
+					<TopicComp title={"Contacts"} />
 					<DescriptionArea>
 						<P>"Here me"</P>
 					</DescriptionArea>

@@ -1,6 +1,6 @@
 import React from "react";
 import ContainerComp from "../../components/container-comp/ContainerComp";
-import { H4, P, H5, Strong } from "../../styles/Fonts";
+import { P, H5, Strong } from "../../styles/Fonts";
 import {
 	ImageBackground,
 	WrapperCareer,
@@ -12,13 +12,14 @@ import {
 	Li,
 } from "./WorkStyle";
 import { calculateYearOfWork, listWork } from "./utils";
+import TopicComp from "../../components/topic-comp/TopicComp";
 
 const WorkView = (props) => {
 	return (
 		<ContainerComp style={ImageBackground}>
 			<WrapperCareer>
 				<TopicArea>
-					<H4>Works</H4>
+					<TopicComp title={"Works"} />
 					<DescriptionArea>
 						<P>"{calculateYearOfWork()} Years Experience Working"</P>
 					</DescriptionArea>

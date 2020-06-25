@@ -12,14 +12,15 @@ import {
 	TextUpper,
 	Line,
 } from "./AboutStyle";
-import { H4, H5, P } from "../../styles/Fonts";
+import { H5, P } from "../../styles/Fonts";
+import TopicComp from "../../components/topic-comp/TopicComp";
 
 const AboutView = () => {
 	return (
 		<ContainerComp>
 			<WrapperAbout>
 				<TopicArea>
-					<H4>My Skills</H4>
+					<TopicComp title={"My Skills"} />
 					<DescribeSkill>
 						<P>
 							"This is my skills to use in jobs and works. All skills involve

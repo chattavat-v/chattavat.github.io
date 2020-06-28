@@ -1,4 +1,5 @@
 import React from "react";
+import PropTypes from "prop-types";
 import * as utils from "./utils";
 import ContainerComp from "../../components/container-comp/ContainerComp";
 import CategoryComp from "../../components/category-comp/CategoryComp";
@@ -16,7 +17,7 @@ import { H5, P } from "../../styles/Fonts";
 import { shuffle } from "../../utils/shuffle";
 import TopicComp from "../../components/topic-comp/TopicComp";
 
-const ExperienceView = (props) => {
+const ExperienceView = ({ onClickExperience }) => {
 	return (
 		<ContainerComp>
 			<WrapperExperience>
@@ -30,10 +31,11 @@ const ExperienceView = (props) => {
 					<CategoryComp list={utils.listCategory} />
 				</CategoryArea>
 				<ExperienceArea className="filter-container">
-					{shuffle(utils.listExperience).map((item, index) => (
+					{utils.listExperience.map((item, index) => (
 						<ExperienceItem
 							key={index}
 							className={`filter-item ${item.category}`}
+							onClick={() => onClickExperience(item)}
 						>
 							<Image src={item.image} alt="" />
 							<TitleArea>
@@ -46,6 +48,10 @@ const ExperienceView = (props) => {
 			</WrapperExperience>
 		</ContainerComp>
 	);
+};
+
+ExperienceView.propTypes = {
+	onClickExperience: PropTypes.func.isRequired,
 };
 
 export default ExperienceView;

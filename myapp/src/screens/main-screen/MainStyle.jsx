@@ -9,3 +9,11 @@ export const ImageMap = styled.img`
 	height: 100%;
 	background-size: cover;
 `;
+
+export const ModalOpen = {
+	display: "block",
+};
+
+export const ModalDefault = {
+	display: "none",
+};

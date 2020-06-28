@@ -1,5 +1,6 @@
 import React, { useState, Fragment } from "react";
 import { Element, scroller } from "react-scroll";
+import { ModalOpen, ModalDefault } from "./MainStyle";
 import HeaderView from "../../views/header-view/HeaderView";
 import SideView from "../../views/side-view/SideView";
 import BackDropView from "../../views/backdrop-view/BackDropView";
@@ -10,9 +11,12 @@ import WorkView from "../../views/work-view/WorkView";
 import ExperinceView from "../../views/experience-view/ExperienceView";
 import ContactView from "../../views/contact-view/ContactView";
 import FooterView from "../../views/footer-view/FooterView";
+import ModalComp from "../../components/modal-comp/ModalComp";
 
 const MainScreen = (props) => {
 	const [sideDrawerOpen, setSideDrawerOpen] = useState(false);
+	const [isModal, setIsModal] = useState(false);
+	const [isExperience, setIsExperience] = useState(null);
 
 	const pathToScroll = (path) => {
 		scroller.scrollTo(path, {
@@ -22,6 +26,13 @@ const MainScreen = (props) => {
 			offset: -75,
 		});
 	};
+
+	const onHandleExperience = (item) => {
+		setIsModal(true);
+		setIsExperience(item);
+	};
+
+	const onSetModal = (item) => setIsModal(item);
 
 	return (
 		<Fragment>
@@ -37,6 +48,9 @@ const MainScreen = (props) => {
 			{sideDrawerOpen && (
 				<BackDropView handlerClick={() => setSideDrawerOpen(false)} />
 			)}
+			<div style={isModal ? ModalOpen : ModalDefault}>
+				<ModalComp onCloseModal={onSetModal} experience={isExperience} />
+			</div>
 			<Element name="home">
 				<HomeView />
 			</Element>
@@ -50,7 +64,7 @@ const MainScreen = (props) => {
 				<WorkView />
 			</Element>
 			<Element name="experience">
-				<ExperinceView />
+				<ExperinceView onClickExperience={onHandleExperience} />
 			</Element>
 			<Element name="contact">
 				<ContactView />

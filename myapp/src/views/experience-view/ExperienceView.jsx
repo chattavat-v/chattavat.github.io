@@ -14,7 +14,7 @@ import {
 	CategoryArea,
 } from "./ExperienceStyle";
 import { H5, P } from "../../styles/Fonts";
-import { shuffle } from "../../utils/shuffle";
+// import { shuffle } from "../../utils/shuffle";
 import TopicComp from "../../components/topic-comp/TopicComp";
 
 const ExperienceView = ({ onClickExperience }) => {

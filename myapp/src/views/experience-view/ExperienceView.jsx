@@ -12,15 +12,16 @@ import {
 	DescriptionArea,
 	CategoryArea,
 } from "./ExperienceStyle";
-import { H4, H5, P } from "../../styles/Fonts";
+import { H5, P } from "../../styles/Fonts";
 import { shuffle } from "../../utils/shuffle";
+import TopicComp from "../../components/topic-comp/TopicComp";
 
 const ExperienceView = (props) => {
 	return (
 		<ContainerComp>
 			<WrapperExperience>
 				<TopicArea>
-					<H4>Experiences</H4>
+					<TopicComp title={"Experiences"} />
 					<DescriptionArea>
 						<P>"Recently done project quality work"</P>
 					</DescriptionArea>

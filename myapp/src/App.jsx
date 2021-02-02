@@ -10,7 +10,7 @@ const App = () => {
 				<Global.GlobalStyle />
 				<Global.GlobalFonts />
 				<Switch>
-					<Route exact path="/chattavat.github.io" component={MainScreen} />
+					<Route exact path="/" component={MainScreen} />
 				</Switch>
 			</Router>
 		</Fragment>

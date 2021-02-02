@@ -16,12 +16,15 @@ export const listSkill = [
 		details: [
 			"C++",
 			"Javascript",
-			"Node JS",
-			"Express Framework",
+			"NodeJS",
+			"Express",
 			"React",
 			"React Native",
+			"React Native For Web",
 			"Redux",
-			"Socket.io",
+			"Redux Thunk",
+			"Redux Saga",
+			"Bull",
 			"HTML5",
 			"CSS3",
 			"Bootstrap 4",
@@ -29,12 +32,13 @@ export const listSkill = [
 	},
 	{
 		type: "database",
-		details: ["MongoDB", "MariaDB", "MySQL"],
+		details: ["MongoDB", "MariaDB", "Redis"],
 	},
 	{
 		type: "other",
 		details: [
 			"Restful API",
+			"Socket.io",
 			"Json",
 			"Docker",
 			"Git version control",
@@ -42,7 +46,7 @@ export const listSkill = [
 		],
 	},
 	{
-		type: "interesting && beginner",
-		details: ["Laravel Framework", "Python", "ROS", "AngularJS", "VueJS"],
+		type: "beginner",
+		details: ["Graphql", "Python", "ROS", "AngularJS", "MySQL"],
 	},
 ];

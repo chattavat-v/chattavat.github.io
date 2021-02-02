@@ -2679,11 +2679,7 @@
               r.a.createElement(
                 s.c,
                 null,
-                r.a.createElement(s.a, {
-                  exact: !0,
-                  path: "/chattavat.github.io",
-                  component: ho,
-                })
+                r.a.createElement(s.a, { exact: !0, path: "/", component: ho })
               )
             )
           );
@@ -2697,4 +2693,4 @@
   ]),
   [[81, 1, 2]],
 ]);
-//# sourceMappingURL=main.02b98ea0.chunk.js.map
+//# sourceMappingURL=main.07e3e0c4.chunk.js.map

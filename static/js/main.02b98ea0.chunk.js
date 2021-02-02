@@ -1,140 +1,138 @@
 (this.webpackJsonpmyapp = this.webpackJsonpmyapp || []).push([
   [0],
   Array(35).concat([
-    function (t, e, n) {
-      t.exports = n.p + "static/media/Roboto-Black.5ebb24ee.ttf";
+    function (e, t, n) {
+      e.exports = n.p + "static/media/Roboto-Black.5ebb24ee.ttf";
     },
-    function (t, e, n) {
-      t.exports = n.p + "static/media/Roboto-BlackItalic.99682a78.ttf";
+    function (e, t, n) {
+      e.exports = n.p + "static/media/Roboto-BlackItalic.99682a78.ttf";
     },
-    function (t, e, n) {
-      t.exports = n.p + "static/media/Roboto-Bold.e07df86c.ttf";
+    function (e, t, n) {
+      e.exports = n.p + "static/media/Roboto-Bold.e07df86c.ttf";
     },
-    function (t, e, n) {
-      t.exports = n.p + "static/media/Roboto-BoldItalic.5b44818d.ttf";
+    function (e, t, n) {
+      e.exports = n.p + "static/media/Roboto-BoldItalic.5b44818d.ttf";
     },
-    function (t, e, n) {
-      t.exports = n.p + "static/media/Roboto-Italic.a720f17a.ttf";
+    function (e, t, n) {
+      e.exports = n.p + "static/media/Roboto-Italic.a720f17a.ttf";
     },
-    function (t, e, n) {
-      t.exports = n.p + "static/media/Roboto-Light.88823c20.ttf";
+    function (e, t, n) {
+      e.exports = n.p + "static/media/Roboto-Light.88823c20.ttf";
     },
-    function (t, e, n) {
-      t.exports = n.p + "static/media/Roboto-LightItalic.a3ce4440.ttf";
+    function (e, t, n) {
+      e.exports = n.p + "static/media/Roboto-LightItalic.a3ce4440.ttf";
     },
-    function (t, e, n) {
-      t.exports = n.p + "static/media/Roboto-Medium.58aef543.ttf";
+    function (e, t, n) {
+      e.exports = n.p + "static/media/Roboto-Medium.58aef543.ttf";
     },
-    function (t, e, n) {
-      t.exports = n.p + "static/media/Roboto-MediumItalic.cf23e1bb.ttf";
+    function (e, t, n) {
+      e.exports = n.p + "static/media/Roboto-MediumItalic.cf23e1bb.ttf";
     },
-    function (t, e, n) {
-      t.exports = n.p + "static/media/Roboto-Regular.11eabca2.ttf";
+    function (e, t, n) {
+      e.exports = n.p + "static/media/Roboto-Regular.11eabca2.ttf";
     },
-    function (t, e, n) {
-      t.exports = n.p + "static/media/Roboto-Thin.321de678.ttf";
+    function (e, t, n) {
+      e.exports = n.p + "static/media/Roboto-Thin.321de678.ttf";
     },
-    function (t, e, n) {
-      t.exports = n.p + "static/media/Roboto-ThinItalic.35a9c89a.ttf";
+    function (e, t, n) {
+      e.exports = n.p + "static/media/Roboto-ThinItalic.35a9c89a.ttf";
     },
     ,
     ,
     ,
-    function (t, e, n) {
-      t.exports = n.p + "static/media/banner.173a6040.png";
+    function (e, t, n) {
+      e.exports = n.p + "static/media/banner.173a6040.png";
     },
-    function (t, e) {
-      t.exports =
+    function (e, t) {
+      e.exports =
         "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAjAAAAE7CAYAAADD3rsxAAAAAXNSR0IArs4c6QAAAAlwSFlzAAAOxAAADsQBlSsOGwAACydJREFUeJzt3ctu6zoSQFH2xf3/f+1ZrIhiD2xFPH3ixA89WNRa0yCAhxtUsfifUkpJAACB/HP0DwAAeJaAAQDCETAAQDgCBgAIR8AAAOEIGAAgHAEDAIQjYACAcAQMABCOgAEAwhEwAEA4AgYACEfAAADhCBgAIBwBAwCEI2AAgHAEDAAQjoABAMIRMABAOAIGAAhHwAAA4QgYACAcAQMAhCNgAIBwBAwAEI6AAQDCETAAQDgCBgAIR8AAAOEIGAAgHAEDAIQjYACAcAQMABCOgAEAwhEwAEA4AgYACEfAAADhCBgAIBwBAwCEI2AAgHAEDAAQjoABAMIRMABAOAIGAAhHwAAA4QgYACCUYUrp36N/BADAb8bpGi6XKaVSBAwA0KhcUrrka7hM5c+/CRgAoBlTuQbLMF1PXe4RMADAoUpKacjXz0O5XD8R/UbAAACHmE9ahvz8/woYAGA3n9MSLo+ctNwjYACATeVy/Tw05L+HcV8lYACA1U3pdoMoXwNmbQIGAFhFPYz70w2iNQgYAOAt866W8cEbRGsQMADA0+Zh3MsLN4jWIGAAgIeMt1X+794gWoOAAQDuytVm3LzxXMszBAwA8IdH1/kfScAAAKmUlIayRMvRn4h+I2AA4MTmVf5Doyct9wgYADiZcb5BFOCk5R4BAwAnkMuyr2Wtdf5HEjAA0KkppXQZbzeIOoiWmoABgI7suc7/SAIGADpwxDr/IwkYAAhqrOZazhAtNQEDAIGMZbn63MMw7qsEDAA0bqpOWnobxn2VgAGABtXDuPkkcy3PEDAA0JD5DaIhH/1L2iZgAOBgZx7GfZWAAYAD9LYZd28CBgB2MpXlE1HPS+b2IGAAYEOlLA8nGsZdj4ABgA3Mg7iDk5ZNCBgAWMk4LactTlq2JWAA4A25mmvJTlt2I2AA4EmGcY8nYADgQZcqWnwiOpaAAYAffM5zLTbjNkXAAMD/ySWlD5txmyZgACClNKXqxWdzLc0TMACcVv3is2HcWAQMAKczn7SMNuOGJWAAOAXDuH0RMAB0ayzLSn8vPvdFwADQlSmldBlvw7iipVsCBoDwDOOej4ABIKx5nf9gruV0BAwAoYxluUXkBtF5CRgAmperaDGMS0oCBoBGefGZnwgYAJpRbtFyud0g8omIewQMAIebB3EHJy08SMAAcIhxWk5bnLTwLAEDwG4M47IWAQPApgzjsgUBA8DqSklpKEu0+ETE2gQMAKsxjMteBAwAb8klpQ+bcdmZgAHgabmaa8lOWziAgAHgISUtN4gM43I0AQPAj76ixWZcGiJgAPjL57xkLh/9S+B7AgaAlNL1hGW+RWTJHK0TMAAnNqWULuNtGFe0EIiAATiZkq6nLBfDuAQmYABOYr72PJhroQMCBqBjY/V4ohtE9ETAAHQml+vnIcO49EzAAHTAi8+cjYABCKoexs2WzHEyAgYgGMO4IGAAQhjnzbiGcSGlJGAAmpWrG0SGceFPAgagIYZx4TECBuBgpaQ0lCVafCKC3wkYgIPMg7iDkxZ4moAB2FEuKX3YjAtvEzAAG8vVXEt22gKrEDAAGyhpuUFkGBfWJ2AAVvQVLTbjwqYEDMCbPuclczbjwm4EDMALDOPCsQQMwIOmlNJlvA3jihY4lIAB+EH94rNhXGiHgAH4hmFcaJuAAbgZq8cTRQu0TcAApzaWZaW/F58hDgEDnM5UnbQYxoWYBAxwCvUwbjbXAuEJGKBr8xtEgyVz0BUBA3RnnDfjGsaFbgkYoAu5mmsxjAv9EzBAWFNZPhFZMgfnImCAUEpJaShLtPhEBOckYIAQ5kHcwUkLkAQM0DDDuMA9AgZoSq7mWrLTFuAOAQMczjAu8CwBAxzmMhnGBV4jYIBdfc5zLTbjAm8QMMDmcknp43aDyEkLsAYBA2xiStWLz+ZagJUJGGA19YvPhnGBLQkY4G3zSctYfCIC9iFggJeM1eOJogXYm4ABHjaWZaW/F5+BIwkY4EdTddKSRQvQCAED/KUexs3mWoAGCRjgy7zOf7BkDmicgIGTM4wLRCRg4IRyFS2GcYGIBAycxJRSuoyGcYE+CBjomM24QK8EDHTIZlygdwIGOmEYFzgTAQOB2YwLnJWAgWBsxgUQMBCCzbgAfxIw0DCbcQG+J2CgMYZxAX4nYKABNuMCPEfAwEGmsnwismQO4DkCBnZUbtFiGBfgPQIGdjAP4g5OWgBWIWBgI+O0nLY4aQFYl4CBFeVqriU7bQHYjICBNxnGBdifgIEXXapo8YkIYF8CBp7wOc+12IwLcCgBA7/IJaUPm3EBmiJg4BtTql58NtcC0BwBAzf1i8+GcQHaJmA4vfmkZbQZFyAMAcMpGcYFiE3AcBpjWVb6e/EZIDYBQ9emlNJlvA3jihaAbggYumMYF6B/AoZuzOv8B3MtAN0TMIQ2luUWkRtEAOchYAgnV9FiGBfgnAQMIXjxGYCagKFZ5RYtl9sNIp+IAJgJGJozD+IOTloAuEPA0IRxWk5bnLQA8BsBw2EM4wLwKgHDrgzjArAGAcPmSklpKEu0+EQEwLsEDJsxjAvAVgQMq8olpQ+bcQHYmIDhbbmaa8lOWwDYgYDhJSUtN4gM4wKwNwHDU76ixWZcAA4kYPjV57xkLh/9SwDgSsDwrbEst4gsmQOgNQKGL1NK6TLehnFFCwANEzAnV9L1lOViGBeAQATMSc3XngdzLQAEJGBOZKweT3SDCIDIBEzncrl+HjKMC0BPBEyHvPgMQO8ETCfqYdxsyRwAnRMwwRnGBeCMBExA47wZ1zAuACclYILI1Q0iw7gAnJ2AaZhhXAD4noBpTCkpDWWJFp+IAOBvAqYR8yDu4KQFAH4lYA6US0ofNuMCwNMEzM5yNdeSnbYAwEsEzA5KWm4QGcYFgPcJmA19RYvNuACwKgGzss95yZzNuACwGQGzAsO4ALAvAfOiKaV0GW/DuKIFAHYlYJ5Qv/hsGBcAjiNgHmAYFwDaImDuGKvHE0ULALRFwFTGsqz09+IzALTr9AEzVScthnEBIIZTBkw9jJvNtQBAOKcKmPkNosGSOQAIrfuAGefNuIZxAaAbXQZMruZaDOMCQH+6CZipLJ+ILJkDgL6FDphSUhrKEi0+EQHAOYQMmHkQd3DSAgCnFCZgDOMCALOmAyZXcy3ZaQsAcNNcwBjGBQB+00zAXCbDuADAYw4NmM95rsVmXADgCbsHTC4pfdxuEDlpAQBesUvATKl68dlcCwDwps0Cpn7x2TAuALCm1QNmPmkZi09EAMA2VgmYsXo8UbQAAFt7OWDGsqz09+IzALCnpwJmqk5asmgBAA7ya8DUw7jZXAsA0IC7ATOv8x8smQMAGvNHwBjGBQAi+DdX0WIYFwCI4N//Dkf/BACA5/xz9A8AAHiWgAEAwhEwAEA4AgYACEfAAADhCBgAIBwBAwCEI2AAgHAEDAAQjoABAMIRMABAOAIGAAhHwAAA4QgYACAcAQMAhCNgAIBwBAwAEI6AAQDCETAAQDgCBgAIR8AAAOEIGAAgHAEDAIQjYACAcAQMABCOgAEAwhEwAEA4AgYACEfAAADhCBgAIBwBAwCEI2AAgHAEDAAQjoABAMIRMABAOAIGAAhHwAAA4QgYACAcAQMAhCNgAIBwBAwAEI6AAQDCETAAQDgCBgAIR8AAAOEIGAAgHAEDAIQjYACAcAQMABCOgAEAwhEwAEA4AgYACEfAAADhCBgAIBwBAwCEI2AAgHAEDAAQjoABAMIRMABAOAIGAAhHwAAA4QgYACAcAQMAhCNgAIBwBAwAEI6AAQDCETAAQDj/A+5K86pYqJ3GAAACGmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSfvu78nIGlkPSdXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQnPz4KPHg6eG1wbWV0YSB4bWxuczp4PSdhZG9iZTpuczptZXRhLycgeDp4bXB0az0nSW1hZ2U6OkV4aWZUb29sIDEwLjgwJz4KPHJkZjpSREYgeG1sbnM6cmRmPSdodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjJz4KCiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0nJwogIHhtbG5zOnBkZj0naHR0cDovL25zLmFkb2JlLmNvbS9wZGYvMS4zLyc+CiAgPHBkZjpBdXRob3I+Q2hhdHRhdmF0IHZhdHRhbmFzaXJpPC9wZGY6QXV0aG9yPgogPC9yZGY6RGVzY3JpcHRpb24+CgogPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9JycKICB4bWxuczp4bXA9J2h0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8nPgogIDx4bXA6Q3JlYXRvclRvb2w+Q2FudmE8L3htcDpDcmVhdG9yVG9vbD4KIDwvcmRmOkRlc2NyaXB0aW9uPgo8L3JkZjpSREY+CjwveDp4bXBtZXRhPgo8P3hwYWNrZXQgZW5kPSdyJz8+lv/nUAAAAABJRU5ErkJggg==";
     },
-    function (t, e, n) {
-      t.exports = n.p + "static/media/logo.98f1369c.png";
+    function (e, t, n) {
+      e.exports = n.p + "static/media/logo.98f1369c.png";
     },
-    function (t, e, n) {
-      t.exports = n.p + "static/media/profile.418d3800.png";
+    function (e, t, n) {
+      e.exports = n.p + "static/media/profile.418d3800.png";
     },
-    function (t, e, n) {
-      t.exports = n.p + "static/media/delivery-robot-banner.9491c8a7.png";
+    function (e, t, n) {
+      e.exports = n.p + "static/media/delivery-robot-banner.9491c8a7.png";
     },
-    function (t, e, n) {
-      t.exports = n.p + "static/media/auto-sorter-banner.4adb4b66.png";
+    function (e, t, n) {
+      e.exports = n.p + "static/media/auto-sorter-banner.4adb4b66.png";
     },
-    function (t, e, n) {
-      t.exports = n.p + "static/media/book-drop-banner.d545e685.png";
+    function (e, t, n) {
+      e.exports = n.p + "static/media/book-drop-banner.d545e685.png";
     },
-    function (t, e, n) {
-      t.exports = n.p + "static/media/access-control-banner.2c42d382.png";
+    function (e, t, n) {
+      e.exports = n.p + "static/media/access-control-banner.2c42d382.png";
     },
-    function (t, e, n) {
-      t.exports = n.p + "static/media/flap-gate-banner.aaff4c53.png";
+    function (e, t, n) {
+      e.exports = n.p + "static/media/flap-gate-banner.aaff4c53.png";
     },
-    function (t, e, n) {
-      t.exports = n.p + "static/media/swing-gate-banner.ec15f494.png";
+    function (e, t, n) {
+      e.exports = n.p + "static/media/swing-gate-banner.ec15f494.png";
     },
-    function (t, e, n) {
-      t.exports = n.p + "static/media/staff-station-banner.71f327b6.png";
+    function (e, t, n) {
+      e.exports = n.p + "static/media/staff-station-banner.71f327b6.png";
     },
-    function (t, e, n) {
-      t.exports = n.p + "static/media/mini-staff-station-banner.c8d21144.png";
+    function (e, t, n) {
+      e.exports = n.p + "static/media/mini-staff-station-banner.c8d21144.png";
     },
-    function (t, e, n) {
-      t.exports = n.p + "static/media/pcb-access-control.512de7fd.png";
+    function (e, t, n) {
+      e.exports = n.p + "static/media/pcb-access-control.512de7fd.png";
     },
-    function (t, e, n) {
-      t.exports = n.p + "static/media/pcb-book-drop.4c765a3e.png";
+    function (e, t, n) {
+      e.exports = n.p + "static/media/pcb-book-drop.4c765a3e.png";
     },
-    function (t, e, n) {
-      t.exports = n.p + "static/media/pcb-charge-module.d39daaea.png";
+    function (e, t, n) {
+      e.exports = n.p + "static/media/pcb-charge-module.d39daaea.png";
     },
-    function (t, e, n) {
-      t.exports = n.p + "static/media/pcb-conveyor-control.50277bac.png";
+    function (e, t, n) {
+      e.exports = n.p + "static/media/pcb-conveyor-control.50277bac.png";
     },
-    function (t, e, n) {
-      t.exports = n.p + "static/media/pcb-drive-control.5844a528.png";
+    function (e, t, n) {
+      e.exports = n.p + "static/media/pcb-drive-control.5844a528.png";
     },
-    function (t, e, n) {
-      t.exports = n.p + "static/media/pcb-logic-convertor.03bfc0ed.png";
+    function (e, t, n) {
+      e.exports = n.p + "static/media/pcb-logic-convertor.03bfc0ed.png";
     },
-    function (t, e, n) {
-      t.exports = n.p + "static/media/pcb-mini-staff.08c1474d.png";
+    function (e, t, n) {
+      e.exports = n.p + "static/media/pcb-mini-staff.08c1474d.png";
     },
-    function (t, e, n) {
-      t.exports = n.p + "static/media/pcb-monitoring-module.a9e4d1df.png";
+    function (e, t, n) {
+      e.exports = n.p + "static/media/pcb-monitoring-module.a9e4d1df.png";
     },
-    function (t, e, n) {
-      t.exports = n.p + "static/media/pcb-switching-module.71e9fafb.png";
+    function (e, t, n) {
+      e.exports = n.p + "static/media/pcb-switching-module.71e9fafb.png";
     },
-    function (t, e, n) {
-      t.exports = n.p + "static/media/pcb-selfcheck.9b0e157c.png";
+    function (e, t, n) {
+      e.exports = n.p + "static/media/pcb-selfcheck.9b0e157c.png";
     },
-    function (t, e, n) {
-      t.exports = n.p + "static/media/pcb-staff-station.630019e0.png";
+    function (e, t, n) {
+      e.exports = n.p + "static/media/pcb-staff-station.630019e0.png";
     },
-    function (t, e, n) {
-      t.exports = n.p + "static/media/pcb-swing-gate.c16f91a5.png";
+    function (e, t, n) {
+      e.exports = n.p + "static/media/pcb-swing-gate.c16f91a5.png";
     },
-    function (t, e, n) {
-      t.exports = n.p + "static/media/web-config-hardware.3ad5a2bf.png";
+    function (e, t, n) {
+      e.exports = n.p + "static/media/web-config-hardware.3ad5a2bf.png";
     },
-    function (t, e, n) {
-      t.exports = n.p + "static/media/web-service-delivery-robot.7ab505b0.png";
+    function (e, t, n) {
+      e.exports = n.p + "static/media/web-service-delivery-robot.7ab505b0.png";
     },
-    function (t, e, n) {
-      t.exports = n.p + "static/media/web-service-swing-gate.8791c75d.png";
+    function (e, t, n) {
+      e.exports = n.p + "static/media/web-service-swing-gate.8791c75d.png";
     },
-    function (t, e, n) {
-      t.exports = n.p + "static/media/web-service-access-control.7dc8c389.png";
+    function (e, t, n) {
+      e.exports = n.p + "static/media/web-service-access-control.7dc8c389.png";
     },
-    function (t, e, n) {
-      t.exports = n.p + "static/media/web-service-hgmc.2b92721f.png";
-    },
-    ,
-    ,
-    function (t, e, n) {
-      t.exports = n(110);
+    function (e, t, n) {
+      e.exports = n.p + "static/media/web-service-hgmc.2b92721f.png";
     },
     ,
     ,
+    function (e, t, n) {
+      e.exports = n(110);
+    },
     ,
     ,
     ,
@@ -161,9 +159,11 @@
     ,
     ,
     ,
-    function (t, e, n) {
+    ,
+    ,
+    function (e, t, n) {
       "use strict";
-      n.r(e);
+      n.r(t);
       var a = n(0),
         r = n.n(a),
         o = n(16),
@@ -218,7 +218,7 @@
         M = n(46),
         N = n.n(M);
       function G() {
-        var t = Object(l.a)([
+        var e = Object(l.a)([
           "\n  @font-face {\n    font-family: 'Roboto-Black';\n    src: url(",
           ");\n  }\n\n  @font-face {\n    font-family: 'Roboto-BlackItalic';\n    src: url(",
           ");\n  }\n\n  @font-face {\n    font-family: 'Roboto-Bold';\n    src: url(",
@@ -235,22 +235,22 @@
         ]);
         return (
           (G = function () {
-            return t;
+            return e;
           }),
-          t
+          e
         );
       }
       function Q() {
-        var t = Object(l.a)([
+        var e = Object(l.a)([
           '\n  html, body {\n    box-sizing: border-box;\n    margin: 0;\n    padding: 0;\n    width: 100%;\n    height: 100%;\n    font-family: -apple-system, \n                  BlinkMacSystemFont, \n                  "Segoe UI",\n                  "Roboto", \n                  "Oxygen", \n                  "Ubuntu", \n                  "Cantarell", \n                  "Fira Sans", \n                  "Droid Sans",\n                  "Helvetica Neue", \n                  sans-serif !important;\n    font-size: 1rem;\n    background-color: ',
           ";\n    color: ",
           ";\n    -webkit-font-smoothing: antialiased;\n    -moz-osx-font-smoothing: grayscale;\n  }\n",
         ]);
         return (
           (Q = function () {
-            return t;
+            return e;
           }),
-          t
+          e
         );
       }
       var P = Object(d.a)(Q(), u.white, u.title),
@@ -272,102 +272,102 @@
         V = n(6),
         Y = n(8);
       function W() {
-        var t = Object(l.a)([
+        var e = Object(l.a)([
           "\n\twidth: 100%;\n\theight: 100%;\n\tbackground-size: cover;\n",
         ]);
         return (
           (W = function () {
-            return t;
+            return e;
           }),
-          t
+          e
         );
       }
-      function F() {
-        var t = Object(l.a)(["\n\theight: 450px;\n"]);
+      function z() {
+        var e = Object(l.a)(["\n\theight: 450px;\n"]);
         return (
-          (F = function () {
-            return t;
+          (z = function () {
+            return e;
           }),
-          t
+          e
         );
       }
-      d.b.div(F()), d.b.img(W());
-      var z = { display: "block" },
+      d.b.div(z()), d.b.img(W());
+      var F = { display: "block" },
         H = { display: "none" };
       function J() {
-        var t = Object(l.a)([
+        var e = Object(l.a)([
           "\n\tmargin: auto 1rem;\n\ttext-transform: uppercase;\n\ttransition: transform 0.2s;\n\n\t:focus {\n\t\toutline: none;\n\t}\n\n\t:active,\n\t:hover {\n\t\ttransform: scale(1.2);\n\t}\n",
         ]);
         return (
           (J = function () {
-            return t;
+            return e;
           }),
-          t
+          e
         );
       }
       function Z() {
-        var t = Object(l.a)([
+        var e = Object(l.a)([
           "\n\tdisplay: flex;\n\tlist-style: none;\n\tmargin: 0;\n\tpadding: 0;\n\n\t@media (max-width: 768px) {\n\t\tdisplay: none;\n\t}\n",
         ]);
         return (
           (Z = function () {
-            return t;
+            return e;
           }),
-          t
+          e
         );
       }
       function U() {
-        var t = Object(l.a)([""]);
+        var e = Object(l.a)([""]);
         return (
           (U = function () {
-            return t;
+            return e;
           }),
-          t
+          e
         );
       }
       function K() {
-        var t = Object(l.a)(["\n\tdisplay: flex;\n"]);
+        var e = Object(l.a)(["\n\tdisplay: flex;\n"]);
         return (
           (K = function () {
-            return t;
+            return e;
           }),
-          t
+          e
         );
       }
       function X() {
-        var t = Object(l.a)([
+        var e = Object(l.a)([
           "\n\tdisplay: flex;\n\theight: 100%;\n\talign-items: center;\n\tjustify-content: space-between;\n\tmargin: auto 1rem;\n",
         ]);
         return (
           (X = function () {
-            return t;
+            return e;
           }),
-          t
+          e
         );
       }
       function q() {
-        var t = Object(l.a)([
+        var e = Object(l.a)([
           "\n\tposition: fixed;\n\ttop: 0;\n\tleft: 0;\n\twidth: 100%;\n\tbackground: ",
           ";\n\theight: 90px;\n\tz-index: 2048;\n\ttransition: 0.5s;\n",
         ]);
         return (
           (q = function () {
-            return t;
+            return e;
           }),
-          t
+          e
         );
       }
       var _ = d.b.div(q(), u.white),
         $ = { boxShadow: "none" },
-        tt = { position: "fixed", height: "70px", boxShadow: u.box_shadow },
-        et = d.b.div(X()),
-        nt = d.b.div(K()),
-        at = { textTransform: "uppercase", color: u.sky },
-        rt = d.b.div(U()),
-        ot = d.b.ul(Z()),
-        it = d.b.li(J()),
-        ct = { marginBottom: "0px", cursor: "pointer", textDecoration: "none" },
-        st = [
+        ee = { position: "fixed", height: "70px", boxShadow: u.box_shadow },
+        te = d.b.div(X()),
+        ne = d.b.div(K()),
+        ae = { textTransform: "uppercase", color: u.sky },
+        re = d.b.div(U()),
+        oe = d.b.ul(Z()),
+        ie = d.b.li(J()),
+        ce = { marginBottom: "0px", cursor: "pointer", textDecoration: "none" },
+        se = [
           { _id: "1", label: "home" },
           { _id: "2", label: "about" },
           { _id: "3", label: "training" },
@@ -375,174 +375,174 @@
           { _id: "6", label: "experience" },
           { _id: "7", label: "contact" },
         ];
-      function lt() {
-        var t = Object(l.a)([
+      function le() {
+        var e = Object(l.a)([
           '\n\tfont-family: "Roboto-Bold";\n\tcolor: ',
           ";\n\tfont-size: 1.25rem;\n",
         ]);
         return (
-          (lt = function () {
-            return t;
+          (le = function () {
+            return e;
           }),
-          t
+          e
         );
       }
-      function dt() {
-        var t = Object(l.a)([
+      function de() {
+        var e = Object(l.a)([
           '\n\tfont-family: "Roboto-Bold";\n\tcolor: ',
           ";\n\tfont-size: 1.5rem;\n",
         ]);
         return (
-          (dt = function () {
-            return t;
+          (de = function () {
+            return e;
           }),
-          t
+          e
         );
       }
-      function ut() {
-        var t = Object(l.a)([
+      function ue() {
+        var e = Object(l.a)([
           '\n\tfont-family: "Roboto-Bold";\n\tcolor: ',
           ";\n\tfont-size: 1.75rem;\n",
         ]);
         return (
-          (ut = function () {
-            return t;
+          (ue = function () {
+            return e;
           }),
-          t
+          e
         );
       }
-      function mt() {
-        var t = Object(l.a)([
+      function me() {
+        var e = Object(l.a)([
           '\n\tfont-family: "Roboto-Bold";\n\tcolor: ',
           ";\n\tfont-size: 2rem;\n",
         ]);
         return (
-          (mt = function () {
-            return t;
+          (me = function () {
+            return e;
           }),
-          t
+          e
         );
       }
-      function pt() {
-        var t = Object(l.a)([
+      function pe() {
+        var e = Object(l.a)([
           '\n\tfont-family: "Roboto-Bold";\n\tcolor: ',
           ";\n\tfont-size: 2.5rem;\n",
         ]);
         return (
-          (pt = function () {
-            return t;
+          (pe = function () {
+            return e;
           }),
-          t
+          e
         );
       }
-      function ht() {
-        var t = Object(l.a)(['\n\tfont-family: "Roboto-Bold";\n']);
+      function he() {
+        var e = Object(l.a)(['\n\tfont-family: "Roboto-Bold";\n']);
         return (
-          (ht = function () {
-            return t;
+          (he = function () {
+            return e;
           }),
-          t
+          e
         );
       }
-      function gt() {
-        var t = Object(l.a)([
+      function ge() {
+        var e = Object(l.a)([
           '\n\tfont-family: "Roboto-Thin";\n\tcolor: ',
           ";\n\tfont-size: 0.75rem;\n\tletter-spacing: 2px;\n",
         ]);
         return (
-          (gt = function () {
-            return t;
+          (ge = function () {
+            return e;
           }),
-          t
+          e
         );
       }
-      function ft() {
-        var t = Object(l.a)([
+      function fe() {
+        var e = Object(l.a)([
           '\n\tfont-family: "Roboto-Regular";\n\tcolor: ',
           ";\n",
         ]);
         return (
-          (ft = function () {
-            return t;
+          (fe = function () {
+            return e;
           }),
-          t
+          e
         );
       }
-      function bt() {
-        var t = Object(l.a)([
+      function be() {
+        var e = Object(l.a)([
           '\n\tfont-family: "Roboto-Regular";\n\tcolor: ',
           ";\n\tmargin-top: 0rem;\n\tmargin-bottom: 1rem;\n\tfont-size: 1rem;\n",
         ]);
         return (
-          (bt = function () {
-            return t;
+          (be = function () {
+            return e;
           }),
-          t
+          e
         );
       }
-      var At = { textTransform: "capitalize" },
-        yt = d.b.p(bt(), u.text),
-        wt = d.b.span(ft(), u.text),
-        vt = (d.b.small(gt(), u.title), d.b.strong(ht())),
-        Et = d.b.h1(pt(), u.title),
-        xt = d.b.h2(mt(), u.title),
-        kt = d.b.h3(ut(), u.title),
-        Dt = d.b.h4(dt(), u.title),
-        Tt = d.b.h5(lt(), u.title);
-      function Bt() {
-        var t = Object(l.a)([
+      var Ae = { textTransform: "capitalize" },
+        ye = d.b.p(be(), u.text),
+        we = d.b.span(fe(), u.text),
+        ve = (d.b.small(ge(), u.title), d.b.strong(he())),
+        Ee = d.b.h1(pe(), u.title),
+        xe = d.b.h2(me(), u.title),
+        ke = d.b.h3(ue(), u.title),
+        De = d.b.h4(de(), u.title),
+        Te = d.b.h5(le(), u.title);
+      function Be() {
+        var e = Object(l.a)([
           "\n\twidth: 35px;\n\theight: 5px;\n\tborder-radius: 5px;\n\tbackground: ",
           ";\n",
         ]);
         return (
-          (Bt = function () {
-            return t;
+          (Be = function () {
+            return e;
           }),
-          t
+          e
         );
       }
-      function Ct() {
-        var t = Object(l.a)([
+      function Ce() {
+        var e = Object(l.a)([
           "\n\tdisplay: flex;\n\tflex-direction: column;\n\tjustify-content: space-around;\n\theight: 35px;\n\twidth: 35px;\n\tbackground: transparent;\n\tborder: none;\n\tcursor: pointer;\n\tpadding: 0;\n\tbox-sizing: border-box;\n\tmargin-bottom: 0.5rem;\n\n\t:focus {\n\t\toutline: none;\n\t}\n",
         ]);
         return (
-          (Ct = function () {
-            return t;
+          (Ce = function () {
+            return e;
           }),
-          t
+          e
         );
       }
-      function St() {
-        var t = Object(l.a)([
+      function Se() {
+        var e = Object(l.a)([
           "\n\t@media (min-width: 768px) {\n\t\tdisplay: none;\n\t}\n",
         ]);
         return (
-          (St = function () {
-            return t;
+          (Se = function () {
+            return e;
           }),
-          t
+          e
         );
       }
-      var Ot = d.b.div(St()),
-        It = d.b.button(Ct()),
-        Rt = d.b.div(Bt(), u.sky),
-        jt = function (t) {
-          var e = t.drawerToggleClickHandler;
+      var Oe = d.b.div(Se()),
+        Ie = d.b.button(Ce()),
+        Re = d.b.div(Be(), u.sky),
+        je = function (e) {
+          var t = e.drawerToggleClickHandler;
           return r.a.createElement(
-            Ot,
+            Oe,
             null,
             r.a.createElement(
-              It,
-              { onClick: e },
-              r.a.createElement(Rt, null),
-              r.a.createElement(Rt, null),
-              r.a.createElement(Rt, null)
+              Ie,
+              { onClick: t },
+              r.a.createElement(Re, null),
+              r.a.createElement(Re, null),
+              r.a.createElement(Re, null)
             )
           );
         },
-        Mt = function (t) {
-          var e = t.drawerToggleClickHandler,
-            n = t.onpathScroll,
+        Me = function (e) {
+          var t = e.drawerToggleClickHandler,
+            n = e.onpathScroll,
             o = Object(a.useState)(window.scrollY),
             i = Object(V.a)(o, 2),
             c = i[0],
@@ -568,7 +568,7 @@
             ),
             Object(a.useEffect)(
               function () {
-                m(c > 70 ? tt : $);
+                m(c > 70 ? ee : $);
               },
               [c]
             ),
@@ -576,34 +576,34 @@
               _,
               { style: u },
               r.a.createElement(
-                et,
+                te,
                 null,
                 r.a.createElement(
-                  nt,
+                  ne,
                   null,
-                  r.a.createElement(xt, { style: At }, "chattavat."),
-                  r.a.createElement(xt, { style: at }, "v")
+                  r.a.createElement(xe, { style: Ae }, "chattavat."),
+                  r.a.createElement(xe, { style: ae }, "v")
                 ),
                 r.a.createElement(
-                  rt,
+                  re,
                   null,
-                  r.a.createElement(jt, { drawerToggleClickHandler: e }),
+                  r.a.createElement(je, { drawerToggleClickHandler: t }),
                   r.a.createElement(
-                    ot,
+                    oe,
                     null,
-                    st.map(function (t) {
+                    se.map(function (e) {
                       return r.a.createElement(
-                        it,
-                        { key: t._id },
+                        ie,
+                        { key: e._id },
                         r.a.createElement(
-                          yt,
+                          ye,
                           {
-                            style: ct,
+                            style: ce,
                             onClick: function () {
-                              return n(t.label);
+                              return n(e.label);
                             },
                           },
-                          t.label
+                          e.label
                         )
                       );
                     })
@@ -613,46 +613,46 @@
             )
           );
         };
-      function Nt() {
-        var t = Object(l.a)([
+      function Ne() {
+        var e = Object(l.a)([
           "\n\ttext-align: center;\n\ttransition: transform 0.2s;\n\tmargin: 0.5rem 0;\n",
         ]);
         return (
-          (Nt = function () {
-            return t;
+          (Ne = function () {
+            return e;
           }),
-          t
+          e
         );
       }
-      function Gt() {
-        var t = Object(l.a)([
+      function Ge() {
+        var e = Object(l.a)([
           "\n\ttext-transform: uppercase;\n\theight: 100%;\n\tlist-style: none;\n\tdisplay: flex;\n\tflex-direction: column;\n\tjustify-content: center;\n\tpadding-left: 0px;\n",
         ]);
         return (
-          (Gt = function () {
-            return t;
+          (Ge = function () {
+            return e;
           }),
-          t
+          e
         );
       }
-      function Qt() {
-        var t = Object(l.a)([
+      function Qe() {
+        var e = Object(l.a)([
           "\n\theight: 80%;\n\tbackground: ",
           ";\n\tposition: fixed;\n\ttop: 0;\n\tleft: 0;\n\twidth: 100%;\n\tz-index: 200;\n\ttransition: transform 0.5s ease-out;\n\n\t@media (min-width: 768px) {\n\t\tdisplay: none;\n\t}\n",
         ]);
         return (
-          (Qt = function () {
-            return t;
+          (Qe = function () {
+            return e;
           }),
-          t
+          e
         );
       }
-      var Pt = d.b.div(Qt(), u.white),
-        Lt = { transform: "translateY(-100%)" },
-        Vt = { transform: "translateY(10%)", boxShadow: u.box_shadow },
-        Yt = d.b.ul(Gt()),
-        Wt = d.b.li(Nt()),
-        Ft = [
+      var Pe = d.b.div(Qe(), u.white),
+        Le = { transform: "translateY(-100%)" },
+        Ve = { transform: "translateY(10%)", boxShadow: u.box_shadow },
+        Ye = d.b.ul(Ge()),
+        We = d.b.li(Ne()),
+        ze = [
           { _id: "1", label: "home" },
           { _id: "2", label: "about" },
           { _id: "3", label: "training" },
@@ -660,197 +660,197 @@
           { _id: "6", label: "experience" },
           { _id: "7", label: "contact" },
         ],
-        zt = function (t) {
-          var e = t.onShowSideDrawer,
-            n = t.drawerToggleClickHandler,
-            a = t.onpathScroll;
+        Fe = function (e) {
+          var t = e.onShowSideDrawer,
+            n = e.drawerToggleClickHandler,
+            a = e.onpathScroll;
           return r.a.createElement(
-            Pt,
-            { style: e ? Vt : Lt },
+            Pe,
+            { style: t ? Ve : Le },
             r.a.createElement(
-              Yt,
+              Ye,
               null,
-              Ft.map(function (t) {
+              ze.map(function (e) {
                 return r.a.createElement(
-                  Wt,
-                  { key: t._id },
+                  We,
+                  { key: e._id },
                   r.a.createElement(
-                    yt,
+                    ye,
                     {
                       onClick: function () {
-                        return (e = t.label), n(), void a(e);
-                        var e;
+                        return (t = e.label), n(), void a(t);
+                        var t;
                       },
                     },
-                    t.label
+                    e.label
                   )
                 );
               })
             )
           );
         };
-      function Ht() {
-        var t = Object(l.a)([
+      function He() {
+        var e = Object(l.a)([
           "\n\tposition: fixed;\n\twidth: 100%;\n\theight: 100%;\n\ttop: 0;\n\tleft: 0;\n\tbackground: rgba(0, 0, 0, 0.3);\n\tz-index: 100;\n",
         ]);
         return (
-          (Ht = function () {
-            return t;
+          (He = function () {
+            return e;
           }),
-          t
+          e
         );
       }
-      var Jt = d.b.div(Ht()),
-        Zt = function (t) {
-          var e = t.handlerClick;
-          return r.a.createElement(Jt, { onClick: e });
+      var Je = d.b.div(He()),
+        Ze = function (e) {
+          var t = e.handlerClick;
+          return r.a.createElement(Je, { onClick: t });
         },
-        Ut = n(50),
-        Kt = n.n(Ut),
-        Xt = n(51),
-        qt = n.n(Xt),
-        _t = n(52),
-        $t = n.n(_t),
-        te = n(53),
-        ee = n.n(te),
-        ne = Kt.a,
-        ae = qt.a,
-        re = ($t.a, ee.a);
-      function oe() {
-        var t = Object(l.a)([
+        Ue = n(50),
+        Ke = n.n(Ue),
+        Xe = n(51),
+        qe = n.n(Xe),
+        _e = n(52),
+        $e = n.n(_e),
+        et = n(53),
+        tt = n.n(et),
+        nt = Ke.a,
+        at = qe.a,
+        rt = ($e.a, tt.a);
+      function ot() {
+        var e = Object(l.a)([
           "\n\twidth: 50%;\n\tmargin: auto;\n\tcolor: ",
           ";\n\n\t@media (max-width: 768px) {\n\t\twidth: 90%;\n\t}\n",
         ]);
         return (
-          (oe = function () {
-            return t;
+          (ot = function () {
+            return e;
           }),
-          t
+          e
         );
       }
-      function ie() {
-        var t = Object(l.a)([
+      function it() {
+        var e = Object(l.a)([
           "\n\tmargin-top: 3rem;\n\ttext-align: center;\n\tletter-spacing: 1px;\n\twidth: 100%;\n\n\t@media (max-width: 768px) {\n\t\tmargin-top: 1rem;\n\t}\n",
         ]);
         return (
-          (ie = function () {
-            return t;
+          (it = function () {
+            return e;
           }),
-          t
+          e
         );
       }
-      function ce() {
-        var t = Object(l.a)([
+      function ct() {
+        var e = Object(l.a)([
           "\n\twidth: 60%;\n\theight: 2px;\n\tborder-radius: 5px;\n\tbackground: black;\n\tmargin-top: 1.4rem;\n\tmargin-left: 1rem;\n\n\t@media (max-width: 768px) {\n\t\twidth: 55%;\n\t}\n",
         ]);
         return (
-          (ce = function () {
-            return t;
+          (ct = function () {
+            return e;
           }),
-          t
+          e
         );
       }
-      function se() {
-        var t = Object(l.a)(["\n\tdisplay: flex;\n\twidth: 100%;\n"]);
+      function st() {
+        var e = Object(l.a)(["\n\tdisplay: flex;\n\twidth: 100%;\n"]);
         return (
-          (se = function () {
-            return t;
+          (st = function () {
+            return e;
           }),
-          t
+          e
         );
       }
-      function le() {
-        var t = Object(l.a)([
+      function lt() {
+        var e = Object(l.a)([
           "\n\tposition: relative;\n\twidth: 60%;\n\tpadding: 1rem;\n\n\t@media (max-width: 768px) {\n\t\twidth: 100%;\n\t}\n",
         ]);
         return (
-          (le = function () {
-            return t;
+          (lt = function () {
+            return e;
           }),
-          t
+          e
         );
       }
-      function de() {
-        var t = Object(l.a)([
+      function dt() {
+        var e = Object(l.a)([
           "\n\twidth: 100%;\n\tborder-radius: 50%;\n\tpadding: 1rem 8rem;\n\n\t@media (max-width: 768px) {\n\t\tpadding: 0.5rem 4rem;\n\t}\n",
         ]);
         return (
-          (de = function () {
-            return t;
+          (dt = function () {
+            return e;
           }),
-          t
+          e
         );
       }
-      function ue() {
-        var t = Object(l.a)([
+      function ut() {
+        var e = Object(l.a)([
           "\n\twidth: 40%;\n\n\t@media (max-width: 768px) {\n\t\twidth: 100%;\n\t}\n",
         ]);
         return (
-          (ue = function () {
-            return t;
+          (ut = function () {
+            return e;
           }),
-          t
+          e
         );
       }
-      function me() {
-        var t = Object(l.a)([
+      function mt() {
+        var e = Object(l.a)([
           "\n\tmargin-top: 90px;\n\tbackground-image: url(",
           ");\n\tbackground-size: cover;\n\theight: 100%;\n\tdisplay: flex;\n\n\t@media (max-width: 768px) {\n\t\tdisplay: block;\n\t\theight: 100%;\n\t}\n",
         ]);
         return (
-          (me = function () {
-            return t;
+          (mt = function () {
+            return e;
           }),
-          t
+          e
         );
       }
-      var pe = d.b.div(me(), ne),
-        he = d.b.div(ue()),
-        ge = d.b.img(de()),
-        fe = d.b.div(le()),
-        be = d.b.div(se()),
-        Ae = d.b.div(ce()),
-        ye = d.b.div(ie()),
-        we = {
+      var pt = d.b.div(mt(), nt),
+        ht = d.b.div(ut()),
+        gt = d.b.img(dt()),
+        ft = d.b.div(lt()),
+        bt = d.b.div(st()),
+        At = d.b.div(ct()),
+        yt = d.b.div(it()),
+        wt = {
           textAlign: "center",
           fontSize: "1.5rem",
           letterSpacing: "5px",
           marginBottom: "2rem",
         },
-        ve = d.b.div(oe(), u.title),
-        Ee = function (t) {
+        vt = d.b.div(ot(), u.title),
+        Et = function (e) {
           return r.a.createElement(
-            pe,
+            pt,
             null,
             r.a.createElement(
-              he,
+              ht,
               null,
-              r.a.createElement(ge, { src: re, alt: re })
+              r.a.createElement(gt, { src: rt, alt: rt })
             ),
             r.a.createElement(
-              fe,
+              ft,
               null,
               r.a.createElement(
-                be,
+                bt,
                 null,
                 r.a.createElement(
-                  Dt,
+                  De,
                   null,
                   "THIS IS ",
-                  r.a.createElement(wt, { style: { color: u.sky } }, "ME")
+                  r.a.createElement(we, { style: { color: u.sky } }, "ME")
                 ),
-                r.a.createElement(Ae, null)
+                r.a.createElement(At, null)
               ),
               r.a.createElement(
-                ye,
+                yt,
                 null,
-                r.a.createElement(Et, null, "CHATTAVAT VATTANASIRI"),
-                r.a.createElement(yt, { style: we }, "Full-Stack Developer"),
+                r.a.createElement(Ee, null, "CHATTAVAT VATTANASIRI"),
+                r.a.createElement(ye, { style: wt }, "Full-Stack Developer"),
                 r.a.createElement(
-                  ve,
+                  vt,
                   null,
                   r.a.createElement(
-                    wt,
+                    we,
                     null,
                     '"Always looking for new idea. exploring in new area and always keep my technical skills up to date - working with new people is always fun and challenging for me"'
                   )
@@ -859,36 +859,36 @@
             )
           );
         };
-      function xe() {
-        var t = Object(l.a)([
+      function xt() {
+        var e = Object(l.a)([
           "\n\twidth: 90%;\n\tmargin: auto;\n\n\t@media (max-width: 700px) {\n\t\twidth: 100%;\n\t\tpadding: 0 1rem;\n\t}\n",
         ]);
         return (
-          (xe = function () {
-            return t;
+          (xt = function () {
+            return e;
           }),
-          t
+          e
         );
       }
-      function ke() {
-        var t = Object(l.a)(["\n\twidth: 100%;\n"]);
+      function kt() {
+        var e = Object(l.a)(["\n\twidth: 100%;\n"]);
         return (
-          (ke = function () {
-            return t;
+          (kt = function () {
+            return e;
           }),
-          t
+          e
         );
       }
-      var De = d.b.div(ke()),
-        Te = d.b.div(xe()),
-        Be = function (t) {
+      var Dt = d.b.div(kt()),
+        Tt = d.b.div(xt()),
+        Bt = function (e) {
           return r.a.createElement(
-            De,
-            t,
-            r.a.createElement(Te, null, t.children)
+            Dt,
+            e,
+            r.a.createElement(Tt, null, e.children)
           );
         },
-        Ce = [
+        Ct = [
           {
             type: "hardware",
             details: [
@@ -906,22 +906,26 @@
             details: [
               "C++",
               "Javascript",
-              "Node JS",
-              "Express Framework",
+              "NodeJS",
+              "Express",
               "React",
               "React Native",
+              "React Native For Web",
               "Redux",
-              "Socket.io",
+              "Redux Thunk",
+              "Redux Saga",
+              "Bull",
               "HTML5",
               "CSS3",
               "Bootstrap 4",
             ],
           },
-          { type: "database", details: ["MongoDB", "MariaDB", "MySQL"] },
+          { type: "database", details: ["MongoDB", "MariaDB", "Redis"] },
           {
             type: "other",
             details: [
               "Restful API",
+              "Socket.io",
               "Json",
               "Docker",
               "Git version control",
@@ -929,178 +933,172 @@
             ],
           },
           {
-            type: "interesting && beginner",
-            details: [
-              "Laravel Framework",
-              "Python",
-              "ROS",
-              "AngularJS",
-              "VueJS",
-            ],
+            type: "beginner",
+            details: ["Graphql", "Python", "ROS", "AngularJS", "MySQL"],
           },
         ];
-      function Se() {
-        var t = Object(l.a)([
+      function St() {
+        var e = Object(l.a)([
           "\n\tmargin-bottom: 1rem;\n\n\t@media (max-width: 768px) {\n\t\tborder-bottom: 1px solid ",
           ";\n\t}\n",
         ]);
         return (
-          (Se = function () {
-            return t;
+          (St = function () {
+            return e;
           }),
-          t
+          e
         );
       }
-      function Oe() {
-        var t = Object(l.a)(["\n\tmargin-right: 0.5rem;\n"]);
+      function Ot() {
+        var e = Object(l.a)(["\n\tmargin-right: 0.5rem;\n"]);
         return (
-          (Oe = function () {
-            return t;
+          (Ot = function () {
+            return e;
           }),
-          t
+          e
         );
       }
-      function Ie() {
-        var t = Object(l.a)([
+      function It() {
+        var e = Object(l.a)([
           "\n\tdisplay: flex;\n\tlist-style: none;\n\tmargin: 0;\n\tpadding: 0;\n\tflex-wrap: wrap;\n",
         ]);
         return (
-          (Ie = function () {
-            return t;
+          (It = function () {
+            return e;
           }),
-          t
+          e
         );
       }
-      function Re() {
-        var t = Object(l.a)([
+      function Rt() {
+        var e = Object(l.a)([
           "\n\tflex: 0 0 50%;\n\tmax-width: 50%;\n\n\t@media (max-width: 768px) {\n\t\tmax-width: 100%;\n\t}\n",
         ]);
         return (
-          (Re = function () {
-            return t;
+          (Rt = function () {
+            return e;
           }),
-          t
+          e
         );
       }
-      function je() {
-        var t = Object(l.a)([
+      function jt() {
+        var e = Object(l.a)([
           "\n\twidth: 75%;\n\tdisplay: flex;\n\tflex-wrap: wrap;\n\n\t@media (max-width: 768px) {\n\t\twidth: 100%;\n\t\tdisplay: block;\n\t}\n",
         ]);
         return (
-          (je = function () {
-            return t;
+          (jt = function () {
+            return e;
           }),
-          t
+          e
         );
       }
-      function Me() {
-        var t = Object(l.a)([
+      function Mt() {
+        var e = Object(l.a)([
           "\n\twidth: 80%;\n\tletter-spacing: 1.5px;\n\tmargin: 1rem auto;\n\tmargin-left: 0px;\n\n\t@media (max-width: 768px) {\n\t\tmargin: auto;\n\t\tmargin-bottom: 2.5rem;\n\t\twidth: 100%;\n\t}\n",
         ]);
         return (
-          (Me = function () {
-            return t;
+          (Mt = function () {
+            return e;
           }),
-          t
+          e
         );
       }
-      function Ne() {
-        var t = Object(l.a)([
+      function Nt() {
+        var e = Object(l.a)([
           "\n\twidth: 25%;\n\n\t@media (max-width: 768px) {\n\t\twidth: 100%;\n\t\ttext-align: center;\n\t}\n",
         ]);
         return (
-          (Ne = function () {
-            return t;
+          (Nt = function () {
+            return e;
           }),
-          t
+          e
         );
       }
-      function Ge() {
-        var t = Object(l.a)([
+      function Gt() {
+        var e = Object(l.a)([
           "\n\tdisplay: flex;\n\tpadding: 4rem 0rem;\n\n\t@media (max-width: 768px) {\n\t\tdisplay: block;\n\t}\n",
         ]);
         return (
-          (Ge = function () {
-            return t;
+          (Gt = function () {
+            return e;
           }),
-          t
+          e
         );
       }
-      var Qe = d.b.div(Ge()),
-        Pe = d.b.div(Ne()),
-        Le = d.b.div(Me()),
-        Ve = d.b.div(je()),
-        Ye = d.b.div(Re()),
-        We = d.b.ul(Ie()),
-        Fe = d.b.li(Oe()),
-        ze = { textTransform: "uppercase" },
-        He = d.b.div(Se(), u.gray);
-      function Je() {
-        var t = Object(l.a)([
+      var Qt = d.b.div(Gt()),
+        Pt = d.b.div(Nt()),
+        Lt = d.b.div(Mt()),
+        Vt = d.b.div(jt()),
+        Yt = d.b.div(Rt()),
+        Wt = d.b.ul(It()),
+        zt = d.b.li(Ot()),
+        Ft = { textTransform: "uppercase" },
+        Ht = d.b.div(St(), u.gray);
+      function Jt() {
+        var e = Object(l.a)([
           '\n\tdisplay: flex;\n\tfont-family: "Roboto-Bold";\n\tcolor: ',
           ";\n\tfont-size: 1.5rem;\n",
         ]);
         return (
-          (Je = function () {
-            return t;
+          (Jt = function () {
+            return e;
           }),
-          t
+          e
         );
       }
-      var Ze = d.b.div(Je(), u.title),
-        Ue = function (t) {
-          var e = t.title;
+      var Zt = d.b.div(Jt(), u.title),
+        Ut = function (e) {
+          var t = e.title;
           return r.a.createElement(
-            Ze,
+            Zt,
             null,
-            r.a.createElement("span", null, e.slice(0, e.length - 1)),
+            r.a.createElement("span", null, t.slice(0, t.length - 1)),
             r.a.createElement(
               "span",
               { style: { color: u.sky } },
-              e.slice(e.length - 1, e.length)
+              t.slice(t.length - 1, t.length)
             )
           );
         },
-        Ke = function () {
+        Kt = function () {
           return r.a.createElement(
-            Be,
+            Bt,
             null,
             r.a.createElement(
-              Qe,
+              Qt,
               null,
               r.a.createElement(
-                Pe,
+                Pt,
                 null,
-                r.a.createElement(Ue, { title: "My Skills" }),
+                r.a.createElement(Ut, { title: "My Skills" }),
                 r.a.createElement(
-                  Le,
+                  Lt,
                   null,
                   r.a.createElement(
-                    yt,
+                    ye,
                     null,
                     '"This is my skills to use in jobs and works. All skills involve working on hardware, machine, interface, web application, mobile app and others."'
                   )
                 )
               ),
               r.a.createElement(
-                Ve,
+                Vt,
                 null,
-                Ce.map(function (t, e) {
+                Ct.map(function (e, t) {
                   return r.a.createElement(
-                    Ye,
-                    { key: e },
-                    r.a.createElement(Tt, { style: ze }, t.type),
-                    r.a.createElement(He, null),
+                    Yt,
+                    { key: t },
+                    r.a.createElement(Te, { style: Ft }, e.type),
+                    r.a.createElement(Ht, null),
                     r.a.createElement(
-                      We,
+                      Wt,
                       null,
-                      t.details.map(function (e, n) {
+                      e.details.map(function (t, n) {
                         return r.a.createElement(
-                          Fe,
+                          zt,
                           { key: n },
-                          t.details.length - 1 === n
-                            ? r.a.createElement(yt, null, "".concat(e))
-                            : r.a.createElement(yt, null, "".concat(e, ","))
+                          e.details.length - 1 === n
+                            ? r.a.createElement(ye, null, "".concat(t))
+                            : r.a.createElement(ye, null, "".concat(t, ","))
                         );
                       })
                     )
@@ -1110,68 +1108,68 @@
             )
           );
         };
-      function Xe() {
-        var t = Object(l.a)([
+      function Xt() {
+        var e = Object(l.a)([
           "\n\twidth: 48%;\n\tbackground: #ffffff;\n\tpadding: 1rem;\n\tborder-radius: 10px;\n\tmargin: 0 0.5rem 0.5rem 0;\n\ttransition: all 0.3s linear 0s;\n\tbox-shadow: ",
           ";\n\n\t:hover {\n\t\tbox-shadow: none;\n\t}\n\n\t@media (max-width: 768px) {\n\t\twidth: 100%;\n\t}\n",
         ]);
         return (
-          (Xe = function () {
-            return t;
+          (Xt = function () {
+            return e;
           }),
-          t
+          e
         );
       }
-      function qe() {
-        var t = Object(l.a)([
+      function qt() {
+        var e = Object(l.a)([
           "\n\twidth: 75%;\n\tdisplay: flex;\n\tflex-wrap: wrap;\n\n\t@media (max-width: 768px) {\n\t\twidth: 100%;\n\t\tdisplay: block;\n\t}\n",
         ]);
         return (
-          (qe = function () {
-            return t;
+          (qt = function () {
+            return e;
           }),
-          t
+          e
         );
       }
-      function _e() {
-        var t = Object(l.a)([
+      function _t() {
+        var e = Object(l.a)([
           "\n\twidth: 80%;\n\tletter-spacing: 1.5px;\n\tmargin: 1rem auto;\n\tmargin-left: 0px;\n\n\t@media (max-width: 768px) {\n\t\tmargin: auto;\n\t\tmargin-bottom: 2.5rem;\n\t\twidth: 100%;\n\t}\n",
         ]);
         return (
-          (_e = function () {
-            return t;
+          (_t = function () {
+            return e;
           }),
-          t
+          e
         );
       }
-      function $e() {
-        var t = Object(l.a)([
+      function $t() {
+        var e = Object(l.a)([
           "\n\twidth: 25%;\n\n\t@media (max-width: 768px) {\n\t\twidth: 100%;\n\t\ttext-align: center;\n\t}\n",
         ]);
         return (
-          ($e = function () {
-            return t;
+          ($t = function () {
+            return e;
           }),
-          t
+          e
         );
       }
-      function tn() {
-        var t = Object(l.a)([
+      function en() {
+        var e = Object(l.a)([
           "\n\tdisplay: flex;\n\tmargin: 1rem auto;\n\tpadding: 4rem 0rem;\n\n\t@media (max-width: 768px) {\n\t\tdisplay: block;\n\t\tpadding: 2rem 0rem;\n\t}\n",
         ]);
         return (
-          (tn = function () {
-            return t;
+          (en = function () {
+            return e;
           }),
-          t
+          e
         );
       }
-      var en = d.b.div(tn()),
+      var tn = d.b.div(en()),
         nn = { background: u.lightsky },
-        an = d.b.div($e()),
-        rn = d.b.div(_e()),
-        on = d.b.div(qe()),
-        cn = d.b.div(Xe(), u.box_shadow),
+        an = d.b.div($t()),
+        rn = d.b.div(_t()),
+        on = d.b.div(qt()),
+        cn = d.b.div(Xt(), u.box_shadow),
         sn = [
           {
             name: "SolidWorks Advance",
@@ -1205,48 +1203,48 @@
             year: "2013",
           },
         ],
-        ln = function (t) {
+        ln = function (e) {
           return r.a.createElement(
-            Be,
+            Bt,
             { style: nn },
             r.a.createElement(
-              en,
+              tn,
               null,
               r.a.createElement(
                 an,
                 null,
-                r.a.createElement(Ue, { title: "Trains" }),
+                r.a.createElement(Ut, { title: "Trains" }),
                 r.a.createElement(
                   rn,
                   null,
-                  r.a.createElement(yt, null, '"History of train me."')
+                  r.a.createElement(ye, null, '"History of train me."')
                 )
               ),
               r.a.createElement(
                 on,
                 null,
-                sn.map(function (t, e) {
+                sn.map(function (e, t) {
                   return r.a.createElement(
                     cn,
-                    { key: e },
-                    r.a.createElement(Tt, null, t.name),
+                    { key: t },
+                    r.a.createElement(Te, null, e.name),
                     r.a.createElement(
-                      yt,
+                      ye,
                       null,
-                      r.a.createElement(vt, null, "Company: "),
-                      t.company
+                      r.a.createElement(ve, null, "Company: "),
+                      e.company
                     ),
                     r.a.createElement(
-                      yt,
+                      ye,
                       null,
-                      r.a.createElement(vt, null, "Desciption: "),
-                      t.description
+                      r.a.createElement(ve, null, "Desciption: "),
+                      e.description
                     ),
                     r.a.createElement(
-                      yt,
+                      ye,
                       null,
-                      r.a.createElement(vt, null, "Year: "),
-                      t.year
+                      r.a.createElement(ve, null, "Year: "),
+                      e.year
                     )
                   );
                 })
@@ -1255,86 +1253,86 @@
           );
         };
       function dn() {
-        var t = Object(l.a)([
+        var e = Object(l.a)([
           '\n\tlist-style-type: none;\n\tposition: relative;\n\tpadding-left: 30px;\n\n\t:before {\n\t\tcontent: "";\n\t\tposition: absolute;\n\t\twidth: 10px;\n\t\theight: 10px;\n\t\tborder: 2px solid #87ceeb;\n\t\tbackground: #fff;\n\t\ttop: 8px;\n\t\tleft: 0px;\n\t\tborder-radius: 50%;\n\t}\n',
         ]);
         return (
           (dn = function () {
-            return t;
+            return e;
           }),
-          t
+          e
         );
       }
       function un() {
-        var t = Object(l.a)([
+        var e = Object(l.a)([
           "\n\tcolor: ",
           ";\n\tfont-size: 1rem;\n\tpadding-left: 0.25rem;\n",
         ]);
         return (
           (un = function () {
-            return t;
+            return e;
           }),
-          t
+          e
         );
       }
       function mn() {
-        var t = Object(l.a)([
+        var e = Object(l.a)([
           "\n\twidth: 32%;\n\tbackground: #ffffff;\n\tpadding: 1rem;\n\tborder-radius: 10px;\n\tmargin-right: 0.5rem;\n\tmargin-bottom: 1rem;\n\ttransition: all 0.3s linear 0s;\n\tbox-shadow: ",
           ";\n\n\t:hover {\n\t\tbox-shadow: none;\n\t}\n\n\t@media (max-width: 768px) {\n\t\twidth: 100%;\n\t\tpadding-right: 0rem;\n\t\tpadding: 1rem;\n\t}\n",
         ]);
         return (
           (mn = function () {
-            return t;
+            return e;
           }),
-          t
+          e
         );
       }
       function pn() {
-        var t = Object(l.a)([
+        var e = Object(l.a)([
           "\n\twidth: 75%;\n\tdisplay: flex;\n\tflex-wrap: wrap;\n\n\t@media (max-width: 768px) {\n\t\twidth: 100%;\n\t\tdisplay: block;\n\t}\n",
         ]);
         return (
           (pn = function () {
-            return t;
+            return e;
           }),
-          t
+          e
         );
       }
       function hn() {
-        var t = Object(l.a)([
+        var e = Object(l.a)([
           "\n\tdisplay: flex;\n\twidth: 80%;\n\tletter-spacing: 1.5px;\n\tmargin: 1rem auto;\n\tmargin-left: 0px;\n\n\t@media (max-width: 768px) {\n\t\tjustify-content: center;\n\t\tmargin: auto;\n\t\tmargin-bottom: 0.5rem;\n\t\twidth: 100%;\n\t}\n",
         ]);
         return (
           (hn = function () {
-            return t;
+            return e;
           }),
-          t
+          e
         );
       }
       function gn() {
-        var t = Object(l.a)([
+        var e = Object(l.a)([
           "\n\twidth: 25%;\n\n\t@media (max-width: 768px) {\n\t\twidth: 100%;\n\t\ttext-align: center;\n\t}\n",
         ]);
         return (
           (gn = function () {
-            return t;
+            return e;
           }),
-          t
+          e
         );
       }
       function fn() {
-        var t = Object(l.a)([
+        var e = Object(l.a)([
           "\n\tdisplay: flex;\n\tmargin: 1rem auto;\n\tpadding: 4rem 0rem;\n\n\t@media (max-width: 768px) {\n\t\tdisplay: block;\n\t\tpadding: 2rem 0rem;\n\t}\n",
         ]);
         return (
           (fn = function () {
-            return t;
+            return e;
           }),
-          t
+          e
         );
       }
       var bn = {
-          backgroundImage: "url(".concat(ae, ")"),
+          backgroundImage: "url(".concat(at, ")"),
           backgroundSize: "cover",
         },
         An = d.b.div(fn()),
@@ -1350,12 +1348,15 @@
           {
             name: "Dplus Intertrade Company Limited, Bangkok",
             date: "2019/11/1 - present",
-            position: "Backend developer",
+            position: "Senior Backend developer",
             description: [
               "Develop application programming interface with node.js, mongoDB",
               "Develop administrator web application with react.js",
               "Develop mobile application with react native",
-              "Develop line bot and interface in service, mobile, web application",
+              "Develop cross platform react native for web",
+              "Develop line messaging api and interface in service, mobile, web application",
+              "Develop firebase messaging in service, mobile, web application",
+              "Develop service time schedule with bull, bull-board and redis",
             ],
           },
           {
@@ -1382,9 +1383,9 @@
             ],
           },
         ],
-        Cn = function (t) {
+        Cn = function (e) {
           return r.a.createElement(
-            Be,
+            Bt,
             { style: bn },
             r.a.createElement(
               An,
@@ -1392,17 +1393,17 @@
               r.a.createElement(
                 yn,
                 null,
-                r.a.createElement(Ue, { title: "Works" }),
+                r.a.createElement(Ut, { title: "Works" }),
                 r.a.createElement(
                   wn,
                   null,
                   r.a.createElement(
-                    yt,
+                    ye,
                     null,
                     '"',
                     (function () {
-                      var t = Tn()([2015, 9, 1]);
-                      return Tn()().diff(t, "years");
+                      var e = Tn()([2015, 9, 1]);
+                      return Tn()().diff(e, "years");
                     })(),
                     ' Years Experience Working"'
                   )
@@ -1411,28 +1412,28 @@
               r.a.createElement(
                 vn,
                 null,
-                Bn.map(function (t, e) {
+                Bn.map(function (e, t) {
                   return r.a.createElement(
                     En,
-                    { key: e },
-                    r.a.createElement(Tt, null, t.name),
-                    r.a.createElement(yt, null, t.date),
+                    { key: t },
+                    r.a.createElement(Te, null, e.name),
+                    r.a.createElement(ye, null, e.date),
                     r.a.createElement(
-                      yt,
+                      ye,
                       null,
-                      r.a.createElement(vt, null, "Position: "),
-                      t.position
+                      r.a.createElement(ve, null, "Position: "),
+                      e.position
                     ),
                     r.a.createElement(
-                      yt,
+                      ye,
                       null,
-                      r.a.createElement(vt, null, "Descriptions: ")
+                      r.a.createElement(ve, null, "Descriptions: ")
                     ),
                     r.a.createElement(
                       xn,
                       null,
-                      t.description.map(function (t, e) {
-                        return r.a.createElement(kn, { key: e }, t);
+                      e.description.map(function (e, t) {
+                        return r.a.createElement(kn, { key: t }, e);
                       })
                     )
                   );
@@ -1455,8 +1456,8 @@
         Vn = n.n(Ln),
         Yn = n(60),
         Wn = n.n(Yn),
-        Fn = n(61),
-        zn = n.n(Fn),
+        zn = n(61),
+        Fn = n.n(zn),
         Hn = n(62),
         Jn = n.n(Hn),
         Zn = n(63),
@@ -1466,9 +1467,9 @@
         qn = n(65),
         _n = n.n(qn),
         $n = n(66),
-        ta = n.n($n),
-        ea = n(67),
-        na = n.n(ea),
+        ea = n.n($n),
+        ta = n(67),
+        na = n.n(ta),
         aa = n(68),
         ra = n.n(aa),
         oa = n(69),
@@ -1498,19 +1499,19 @@
         Sa = Pn.a,
         Oa = Vn.a,
         Ia = Wn.a,
-        Ra = zn.a,
+        Ra = Fn.a,
         ja = Jn.a,
         Ma = Un.a,
         Na = Xn.a,
         Ga = _n.a,
-        Qa = ta.a,
+        Qa = ea.a,
         Pa = na.a,
         La = ra.a,
         Va = ia.a,
         Ya = sa.a,
         Wa = da.a,
-        Fa = ma.a,
-        za = ha.a,
+        za = ma.a,
+        Fa = ha.a,
         Ha = fa.a,
         Ja = Aa.a,
         Za = wa.a,
@@ -1863,7 +1864,7 @@
               "Control circuit for working, borrowing-returning books. The circuit will connect to the RFID reader to read and write the tag information within the book. The circuit can control the color system. To show the working status of the system The main processing system is Atmega2560 and communicates with Serial Comport.",
             location: "Bangkok,Thailand",
             year: "2018",
-            image: Fa,
+            image: za,
             category: "electronics",
             descriptions: [
               "The system can connect and receive and send commands for the RFID Module module.",
@@ -1879,7 +1880,7 @@
               "Signal voltage divider circuit that is part of Swing Gate Version 1.0 for disabled and wheelchair users. The circuit is an extension to the Arduino UNO R3, which is the main processor. The circuit will accept the voltage of the signal with a voltage level of 12 Volt. Decrease the voltage to 5 Volt using the voltage divider principle that is calculated. And the circuit also enhances the connection of the wires to make it easier to install the equipment",
             location: "Bangkok,Thailand",
             year: "2018",
-            image: za,
+            image: Fa,
             category: "electronics",
             descriptions: [
               "Circuit board supporting the operation of Arduino UNO R3 processing system.",
@@ -1985,31 +1986,31 @@
           },
         ];
       function _a() {
-        var t = Object(l.a)(["\n\tmargin-right: 1rem;\n\tcursor: pointer;\n"]);
+        var e = Object(l.a)(["\n\tmargin-right: 1rem;\n\tcursor: pointer;\n"]);
         return (
           (_a = function () {
-            return t;
+            return e;
           }),
-          t
+          e
         );
       }
       function $a() {
-        var t = Object(l.a)([
+        var e = Object(l.a)([
           "\n\tjustify-content: flex-end;\n\tlist-style: none;\n\tdisplay: flex;\n\tflex-wrap: wrap;\n\tmargin-left: 0.5rem;\n\tpadding-left: 0rem;\n\n\t@media (max-width: 768px) {\n\t\tjustify-content: center;\n\t}\n",
         ]);
         return (
           ($a = function () {
-            return t;
+            return e;
           }),
-          t
+          e
         );
       }
-      var tr = d.b.ul($a()),
-        er = d.b.li(_a()),
+      var er = d.b.ul($a()),
+        tr = d.b.li(_a()),
         nr = n(79),
         ar = n.n(nr),
-        rr = function (t) {
-          var e = t.list,
+        rr = function (e) {
+          var t = e.list,
             n = Object(a.useState)(null),
             o = Object(V.a)(n, 2),
             i = o[0],
@@ -2037,103 +2038,103 @@
               [i, d]
             ),
             r.a.createElement(
-              tr,
+              er,
               null,
-              e.map(function (t) {
+              t.map(function (e) {
                 return r.a.createElement(
-                  er,
+                  tr,
                   {
                     onClick: function () {
-                      return u(t.value);
+                      return u(e.value);
                     },
-                    key: t._id,
+                    key: e._id,
                   },
-                  r.a.createElement(vt, null, t.name)
+                  r.a.createElement(ve, null, e.name)
                 );
               })
             )
           );
         };
       function or() {
-        var t = Object(l.a)([""]);
+        var e = Object(l.a)([""]);
         return (
           (or = function () {
-            return t;
+            return e;
           }),
-          t
+          e
         );
       }
       function ir() {
-        var t = Object(l.a)([
+        var e = Object(l.a)([
           "\n\tletter-spacing: 1.5px;\n\tmargin: 1rem auto;\n\tmargin-left: 0px;\n",
         ]);
         return (
           (ir = function () {
-            return t;
+            return e;
           }),
-          t
+          e
         );
       }
       function cr() {
-        var t = Object(l.a)([
+        var e = Object(l.a)([
           "\n\t@media (max-width: 768px) {\n\t\ttext-align: center;\n\t}\n",
         ]);
         return (
           (cr = function () {
-            return t;
+            return e;
           }),
-          t
+          e
         );
       }
       function sr() {
-        var t = Object(l.a)(["\n\tmargin-top: 1rem;\n"]);
+        var e = Object(l.a)(["\n\tmargin-top: 1rem;\n"]);
         return (
           (sr = function () {
-            return t;
+            return e;
           }),
-          t
+          e
         );
       }
       function lr() {
-        var t = Object(l.a)([
+        var e = Object(l.a)([
           "\n\twidth: 100%;\n\theight: 200px;\n\tborder-radius: 5px;\n",
         ]);
         return (
           (lr = function () {
-            return t;
+            return e;
           }),
-          t
+          e
         );
       }
       function dr() {
-        var t = Object(l.a)([
+        var e = Object(l.a)([
           "\n\twidth: 25%;\n\tpadding: 0rem 0.5rem;\n\tcursor: pointer;\n\ttransition: 0.5s;\n\n\t:hover {\n\t\tfilter: brightness(1.1) drop-shadow(1px 8px 30px #b1afaf);\n\t}\n\n\t@media (max-width: 768px) {\n\t\tpadding: 0rem 1rem;\n\t\twidth: 100%;\n\t}\n",
         ]);
         return (
           (dr = function () {
-            return t;
+            return e;
           }),
-          t
+          e
         );
       }
       function ur() {
-        var t = Object(l.a)([
+        var e = Object(l.a)([
           "\n\tflex-wrap: wrap;\n\tdisplay: flex;\n\n\t@media (max-width: 768px) {\n\t\tdisplay: block;\n\t}\n",
         ]);
         return (
           (ur = function () {
-            return t;
+            return e;
           }),
-          t
+          e
         );
       }
       function mr() {
-        var t = Object(l.a)(["\n\tpadding: 4rem 0rem;\n"]);
+        var e = Object(l.a)(["\n\tpadding: 4rem 0rem;\n"]);
         return (
           (mr = function () {
-            return t;
+            return e;
           }),
-          t
+          e
         );
       }
       var pr = d.b.div(mr()),
@@ -2144,10 +2145,10 @@
         Ar = d.b.div(cr()),
         yr = d.b.div(ir()),
         wr = d.b.div(or()),
-        vr = function (t) {
-          var e = t.onClickExperience;
+        vr = function (e) {
+          var t = e.onClickExperience;
           return r.a.createElement(
-            Be,
+            Bt,
             null,
             r.a.createElement(
               pr,
@@ -2155,12 +2156,12 @@
               r.a.createElement(
                 Ar,
                 null,
-                r.a.createElement(Ue, { title: "Experiences" }),
+                r.a.createElement(Ut, { title: "Experiences" }),
                 r.a.createElement(
                   yr,
                   null,
                   r.a.createElement(
-                    yt,
+                    ye,
                     null,
                     '"Recently done project quality work"'
                   )
@@ -2170,22 +2171,22 @@
               r.a.createElement(
                 hr,
                 { className: "filter-container" },
-                qa.map(function (t, n) {
+                qa.map(function (e, n) {
                   return r.a.createElement(
                     gr,
                     {
                       key: n,
-                      className: "filter-item ".concat(t.category),
+                      className: "filter-item ".concat(e.category),
                       onClick: function () {
-                        return e(t);
+                        return t(e);
                       },
                     },
-                    r.a.createElement(fr, { src: t.image, alt: "" }),
+                    r.a.createElement(fr, { src: e.image, alt: "" }),
                     r.a.createElement(
                       br,
                       null,
-                      r.a.createElement(Tt, null, t.name),
-                      r.a.createElement(yt, null, t.location)
+                      r.a.createElement(Te, null, e.name),
+                      r.a.createElement(ye, null, e.location)
                     )
                   );
                 })
@@ -2194,81 +2195,81 @@
           );
         };
       function Er() {
-        var t = Object(l.a)([
+        var e = Object(l.a)([
           "\n\twidth: 33%;\n\tbackground-color: #fff;\n\n\t@media (max-width: 768px) {\n\t\twidth: 100%;\n\t}\n",
         ]);
         return (
           (Er = function () {
-            return t;
+            return e;
           }),
-          t
+          e
         );
       }
       function xr() {
-        var t = Object(l.a)([
+        var e = Object(l.a)([
           "\n\twidth: 33%;\n\tbackground-color: ",
           ";\n\n\tp,\n\th3 {\n\t\tcolor: #fff;\n\t}\n\n\t@media (max-width: 768px) {\n\t\twidth: 100%;\n\t}\n",
         ]);
         return (
           (xr = function () {
-            return t;
+            return e;
           }),
-          t
+          e
         );
       }
       function kr() {
-        var t = Object(l.a)([
+        var e = Object(l.a)([
           "\n\twidth: 33%;\n\tbackground-color: #fff;\n\n\t@media (max-width: 768px) {\n\t\twidth: 100%;\n\t}\n",
         ]);
         return (
           (kr = function () {
-            return t;
+            return e;
           }),
-          t
+          e
         );
       }
       function Dr() {
-        var t = Object(l.a)([
+        var e = Object(l.a)([
           "\n\twidth: 75%;\n\tdisplay: flex;\n\tflex-wrap: wrap;\n\ttext-align: center;\n\n\t> div {\n\t\tpadding: 0.5rem;\n\t}\n\n\th3 {\n\t\tmargin-bottom: 1.5rem;\n\t}\n\n\t@media (max-width: 768px) {\n\t\twidth: 100%;\n\t\tdisplay: block;\n\t}\n",
         ]);
         return (
           (Dr = function () {
-            return t;
+            return e;
           }),
-          t
+          e
         );
       }
       function Tr() {
-        var t = Object(l.a)([
+        var e = Object(l.a)([
           "\n\tdisplay: flex;\n\twidth: 80%;\n\tletter-spacing: 1.5px;\n\tmargin: 1rem auto;\n\tmargin-left: 0px;\n\n\t@media (max-width: 768px) {\n\t\tjustify-content: center;\n\t\tmargin: auto;\n\t\tmargin-bottom: 0.5rem;\n\t\twidth: 100%;\n\t}\n",
         ]);
         return (
           (Tr = function () {
-            return t;
+            return e;
           }),
-          t
+          e
         );
       }
       function Br() {
-        var t = Object(l.a)([
+        var e = Object(l.a)([
           "\n\twidth: 25%;\n\n\t@media (max-width: 768px) {\n\t\twidth: 100%;\n\t\ttext-align: center;\n\t}\n",
         ]);
         return (
           (Br = function () {
-            return t;
+            return e;
           }),
-          t
+          e
         );
       }
       function Cr() {
-        var t = Object(l.a)([
+        var e = Object(l.a)([
           "\n\tdisplay: flex;\n\tpadding: 4rem 0rem;\n\n\t@media (max-width: 768px) {\n\t\tdisplay: block;\n\t\tpadding: 2rem 0rem;\n\t}\n",
         ]);
         return (
           (Cr = function () {
-            return t;
+            return e;
           }),
-          t
+          e
         );
       }
       var Sr = { background: u.lightsky },
@@ -2279,9 +2280,9 @@
         Mr = d.b.div(kr()),
         Nr = d.b.div(xr(), u.sky),
         Gr = d.b.div(Er()),
-        Qr = function (t) {
+        Qr = function (e) {
           return r.a.createElement(
-            Be,
+            Bt,
             { style: Sr },
             r.a.createElement(
               Or,
@@ -2289,11 +2290,11 @@
               r.a.createElement(
                 Ir,
                 null,
-                r.a.createElement(Ue, { title: "Contacts" }),
+                r.a.createElement(Ut, { title: "Contacts" }),
                 r.a.createElement(
                   Rr,
                   null,
-                  r.a.createElement(yt, null, '"Here me"')
+                  r.a.createElement(ye, null, '"Here me"')
                 )
               ),
               r.a.createElement(
@@ -2302,84 +2303,84 @@
                 r.a.createElement(
                   Mr,
                   null,
-                  r.a.createElement(kt, null, "Phone"),
-                  r.a.createElement(yt, null, "+(66) 81-094-7156"),
-                  r.a.createElement(yt, null, "Mon to Fri 10am to 8pm")
+                  r.a.createElement(ke, null, "Phone"),
+                  r.a.createElement(ye, null, "+(66) 81-094-7156"),
+                  r.a.createElement(ye, null, "Mon to Fri 10am to 8pm")
                 ),
                 r.a.createElement(
                   Nr,
                   null,
-                  r.a.createElement(kt, null, "Location"),
+                  r.a.createElement(ke, null, "Location"),
                   r.a.createElement(
-                    yt,
+                    ye,
                     null,
                     "Khwaeng Talat Phlu, Khet Thon Buri"
                   ),
-                  r.a.createElement(yt, null, "Bangkok, Thailand 10900")
+                  r.a.createElement(ye, null, "Bangkok, Thailand 10900")
                 ),
                 r.a.createElement(
                   Gr,
                   null,
-                  r.a.createElement(kt, null, "Email"),
-                  r.a.createElement(yt, null, "chattavat.psu@gmail.com"),
-                  r.a.createElement(yt, null, "Send us your query anytime!")
+                  r.a.createElement(ke, null, "Email"),
+                  r.a.createElement(ye, null, "chattavat.psu@gmail.com"),
+                  r.a.createElement(ye, null, "Send us your query anytime!")
                 )
               )
             )
           );
         };
       function Pr() {
-        var t = Object(l.a)([
+        var e = Object(l.a)([
           "\n\tp {\n\t\tmargin: 0rem;\n\t\tmargin-top: 0.5rem;\n\t}\n\n\t@media (max-width: 768px) {\n\t\ttext-align: center;\n\t}\n",
         ]);
         return (
           (Pr = function () {
-            return t;
+            return e;
           }),
-          t
+          e
         );
       }
       function Lr() {
-        var t = Object(l.a)([
+        var e = Object(l.a)([
           "\n\tdisplay: flex;\n\n\th2 {\n\t\tmargin: auto;\n\t}\n\n\t@media (max-width: 768px) {\n\t\tjustify-content: center;\n\n\t\th2 {\n\t\t\tmargin: 0rem;\n\t\t}\n\t}\n",
         ]);
         return (
           (Lr = function () {
-            return t;
+            return e;
           }),
-          t
+          e
         );
       }
       function Vr() {
-        var t = Object(l.a)([
+        var e = Object(l.a)([
           "\n\tdisplay: flex;\n\tjustify-content: space-between;\n\tmargin: auto 1rem;\n\tpadding: 1rem 0rem;\n\n\t@media (max-width: 768px) {\n\t\tdisplay: block;\n\t}\n",
         ]);
         return (
           (Vr = function () {
-            return t;
+            return e;
           }),
-          t
+          e
         );
       }
       var Yr = { textTransform: "uppercase", color: u.sky },
         Wr = d.b.div(Vr()),
-        Fr = d.b.div(Lr()),
-        zr = d.b.div(Pr()),
-        Hr = function (t) {
+        zr = d.b.div(Lr()),
+        Fr = d.b.div(Pr()),
+        Hr = function (e) {
           return r.a.createElement(
             Wr,
             null,
             r.a.createElement(
-              Fr,
-              null,
-              r.a.createElement(xt, { style: At }, "chattavat."),
-              r.a.createElement(xt, { style: Yr }, "V")
-            ),
-            r.a.createElement(
               zr,
               null,
+              r.a.createElement(xe, { style: Ae }, "chattavat."),
+              r.a.createElement(xe, { style: Yr }, "V")
+            ),
+            r.a.createElement(
+              Fr,
+              null,
               r.a.createElement(
-                yt,
+                ye,
                 null,
                 "\xa9 2020 Chattavat Vattanasiri. All rights reserved."
               )
@@ -2387,118 +2388,118 @@
           );
         };
       function Jr() {
-        var t = Object(l.a)([
+        var e = Object(l.a)([
           '\n\tlist-style-type: none;\n\tposition: relative;\n\tpadding-left: 30px;\n\n\t:before {\n\t\tcontent: "";\n\t\tposition: absolute;\n\t\twidth: 10px;\n\t\theight: 10px;\n\t\tborder: 2px solid #87ceeb;\n\t\tbackground: #fff;\n\t\ttop: 8px;\n\t\tleft: 0px;\n\t\tborder-radius: 50%;\n\t}\n\n\tp {\n\t\tmargin-bottom: 0.5rem;\n\t}\n',
         ]);
         return (
           (Jr = function () {
-            return t;
+            return e;
           }),
-          t
+          e
         );
       }
       function Zr() {
-        var t = Object(l.a)([
+        var e = Object(l.a)([
           "\n\tcolor: ",
           ";\n\tfont-size: 1rem;\n\tpadding-left: 0.25rem;\n",
         ]);
         return (
           (Zr = function () {
-            return t;
+            return e;
           }),
-          t
+          e
         );
       }
       function Ur() {
-        var t = Object(l.a)([
+        var e = Object(l.a)([
           "\n\ttext-align: left;\n\tpadding: 0rem 0.5rem;\n\n\t@media (max-width: 768px) {\n\t\tpadding: 0rem;\n\t}\n",
         ]);
         return (
           (Ur = function () {
-            return t;
+            return e;
           }),
-          t
+          e
         );
       }
       function Kr() {
-        var t = Object(l.a)([
+        var e = Object(l.a)([
           "\n\twidth: 50%;\n\ttext-align: center;\n\tpadding: 0rem 0.5rem;\n\n\t@media (max-width: 768px) {\n\t\twidth: 100%;\n\t}\n",
         ]);
         return (
           (Kr = function () {
-            return t;
+            return e;
           }),
-          t
+          e
         );
       }
       function Xr() {
-        var t = Object(l.a)(["\n\twidth: 100%;\n\tborder-radius: 5px;\n"]);
+        var e = Object(l.a)(["\n\twidth: 100%;\n\tborder-radius: 5px;\n"]);
         return (
           (Xr = function () {
-            return t;
+            return e;
           }),
-          t
+          e
         );
       }
       function qr() {
-        var t = Object(l.a)([
+        var e = Object(l.a)([
           "\n\twidth: 50%;\n\n\t@media (max-width: 768px) {\n\t\twidth: 100%;\n\t\tmargin-bottom: 1rem;\n\t}\n",
         ]);
         return (
           (qr = function () {
-            return t;
+            return e;
           }),
-          t
+          e
         );
       }
       function _r() {
-        var t = Object(l.a)([
+        var e = Object(l.a)([
           "\n\tdisplay: flex;\n\tmargin-top: 2rem;\n\n\t@media (max-width: 768px) {\n\t\tdisplay: block;\n\t}\n",
         ]);
         return (
           (_r = function () {
-            return t;
+            return e;
           }),
-          t
+          e
         );
       }
       function $r() {
-        var t = Object(l.a)([
+        var e = Object(l.a)([
           "\n\tposition: absolute;\n\tcolor: #aaaaaa;\n\tfloat: right;\n\tfont-size: 2rem;\n\tfont-weight: bold;\n\ttop: 0;\n\tright: 15px;\n\n\t:hover,\n\t:focus {\n\t\tcolor: ",
           ";\n\t\tcursor: pointer;\n\t\ttext-decoration: none;\n\t}\n",
         ]);
         return (
           ($r = function () {
-            return t;
+            return e;
           }),
-          t
+          e
         );
       }
-      function to() {
-        var t = Object(l.a)([
+      function eo() {
+        var e = Object(l.a)([
           "\n\tposition: relative;\n\tbackground-color: ",
           ";\n\tborder-radius: 5px;\n\tmargin: auto;\n\tpadding: 1rem;\n\twidth: 90%;\n",
         ]);
         return (
-          (to = function () {
-            return t;
+          (eo = function () {
+            return e;
           }),
-          t
+          e
         );
       }
-      function eo() {
-        var t = Object(l.a)([
+      function to() {
+        var e = Object(l.a)([
           "\n\tposition: fixed;\n\tz-index: 1024;\n\tpadding-top: 100px;\n\tpadding-bottom: 1.5rem;\n\tleft: 0;\n\ttop: 0;\n\twidth: 100%;\n\theight: 100%;\n\toverflow: auto;\n\tbackground-color: rgba(0, 0, 0, 0.4);\n",
         ]);
         return (
-          (eo = function () {
-            return t;
+          (to = function () {
+            return e;
           }),
-          t
+          e
         );
       }
-      var no = d.b.div(eo()),
-        ao = d.b.div(to(), u.light),
+      var no = d.b.div(to()),
+        ao = d.b.div(eo(), u.light),
         ro = d.b.span($r(), u.darkgray),
         oo = d.b.div(_r()),
         io = d.b.div(qr()),
@@ -2507,9 +2508,9 @@
         lo = d.b.div(Ur()),
         uo = d.b.ul(Zr(), u.darkgray),
         mo = d.b.li(Jr()),
-        po = function (t) {
-          var e = t.onCloseModal,
-            n = t.experience;
+        po = function (e) {
+          var t = e.onCloseModal,
+            n = e.experience;
           return (
             console.log(n),
             r.a.createElement(
@@ -2522,7 +2523,7 @@
                   ro,
                   {
                     onClick: function () {
-                      return e(!1);
+                      return t(!1);
                     },
                   },
                   "\xd7"
@@ -2539,33 +2540,33 @@
                     r.a.createElement(
                       so,
                       null,
-                      r.a.createElement(Tt, null, n.name),
-                      r.a.createElement(yt, null, n.title),
+                      r.a.createElement(Te, null, n.name),
+                      r.a.createElement(ye, null, n.title),
                       r.a.createElement(
                         lo,
                         null,
                         r.a.createElement(
-                          yt,
+                          ye,
                           null,
-                          r.a.createElement(vt, null, "Location:"),
+                          r.a.createElement(ve, null, "Location:"),
                           " ",
                           n.location
                         ),
                         r.a.createElement(
-                          yt,
+                          ye,
                           null,
-                          r.a.createElement(vt, null, "Year:"),
+                          r.a.createElement(ve, null, "Year:"),
                           " ",
                           n.year
                         ),
                         r.a.createElement(
                           uo,
                           null,
-                          n.descriptions.map(function (t, e) {
+                          n.descriptions.map(function (e, t) {
                             return r.a.createElement(
                               mo,
-                              { key: e },
-                              r.a.createElement(yt, null, t)
+                              { key: t },
+                              r.a.createElement(ye, null, e)
                             );
                           })
                         )
@@ -2576,9 +2577,9 @@
             )
           );
         },
-        ho = function (t) {
-          var e = Object(a.useState)(!1),
-            n = Object(V.a)(e, 2),
+        ho = function (e) {
+          var t = Object(a.useState)(!1),
+            n = Object(V.a)(t, 2),
             o = n[0],
             i = n[1],
             c = Object(a.useState)(!1),
@@ -2589,8 +2590,8 @@
             m = Object(V.a)(u, 2),
             p = m[0],
             h = m[1],
-            g = function (t) {
-              Y.scroller.scrollTo(t, {
+            g = function (e) {
+              Y.scroller.scrollTo(e, {
                 duration: 1500,
                 delay: 50,
                 smooth: !0,
@@ -2600,13 +2601,13 @@
           return r.a.createElement(
             a.Fragment,
             null,
-            r.a.createElement(Mt, {
+            r.a.createElement(Me, {
               drawerToggleClickHandler: function () {
                 return i(!o);
               },
               onpathScroll: g,
             }),
-            r.a.createElement(zt, {
+            r.a.createElement(Fe, {
               onShowSideDrawer: o,
               onpathScroll: g,
               drawerToggleClickHandler: function () {
@@ -2614,17 +2615,17 @@
               },
             }),
             o &&
-              r.a.createElement(Zt, {
+              r.a.createElement(Ze, {
                 handlerClick: function () {
                   return i(!1);
                 },
               }),
             r.a.createElement(
               "div",
-              { style: l ? z : H },
+              { style: l ? F : H },
               r.a.createElement(po, {
-                onCloseModal: function (t) {
-                  return d(t);
+                onCloseModal: function (e) {
+                  return d(e);
                 },
                 experience: p,
               })
@@ -2632,12 +2633,12 @@
             r.a.createElement(
               Y.Element,
               { name: "home" },
-              r.a.createElement(Ee, null)
+              r.a.createElement(Et, null)
             ),
             r.a.createElement(
               Y.Element,
               { name: "about" },
-              r.a.createElement(Ke, null)
+              r.a.createElement(Kt, null)
             ),
             r.a.createElement(
               Y.Element,
@@ -2653,8 +2654,8 @@
               Y.Element,
               { name: "experience" },
               r.a.createElement(vr, {
-                onClickExperience: function (t) {
-                  d(!0), h(t);
+                onClickExperience: function (e) {
+                  d(!0), h(e);
                 },
               })
             ),
@@ -2696,4 +2697,4 @@
   ]),
   [[81, 1, 2]],
 ]);
-//# sourceMappingURL=main.0728b57c.chunk.js.map
+//# sourceMappingURL=main.02b98ea0.chunk.js.map

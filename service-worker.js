@@ -16,7 +16,7 @@ importScripts(
 );
 
 importScripts(
-  "/chattavat.github.io/precache-manifest.f390ceb50121dcab2020c9ba80417a8c.js"
+  "/chattavat.github.io/precache-manifest.f27fd72325de04f822348cfa5a226d68.js"
 );
 
 self.addEventListener("message", (event) => {
@@ -38,6 +38,6 @@ workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 workbox.routing.registerNavigationRoute(
   workbox.precaching.getCacheKeyForURL("/chattavat.github.io/index.html"),
   {
-    blacklist: [/^\/_/, /\/[^\/?]+\.[^\/]+$/],
+    blacklist: [/^\/_/, /\/[^/?]+\.[^/]+$/],
   }
 );

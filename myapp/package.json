@@ -22,8 +22,8 @@
 		"styled-components": "^5.1.0"
 	},
 	"scripts": {
-		"start_window": "set PORT=9020 && react-scripts start",
-		"start_linux": "PORT=9020 react-scripts start",
+		"start:window": "set PORT=9020 && react-scripts start",
+		"start:linux": "PORT=9020 react-scripts start",
 		"start": "react-scripts start",
 		"build": "react-scripts build",
 		"test": "react-scripts test",

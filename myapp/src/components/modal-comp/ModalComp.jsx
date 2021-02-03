@@ -15,8 +15,6 @@ import {
 import { H5, P, Strong } from "../../styles/Fonts";
 
 const ModalComp = ({ onCloseModal, experience }) => {
-	console.log(experience);
-
 	return (
 		<WrapperModal>
 			<ContentModal>

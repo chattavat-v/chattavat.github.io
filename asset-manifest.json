@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/chattavat.github.io/static/js/main.d710b2cd.chunk.js",
-    "main.js.map": "/chattavat.github.io/static/js/main.d710b2cd.chunk.js.map",
+    "main.js": "/chattavat.github.io/static/js/main.02b98ea0.chunk.js",
+    "main.js.map": "/chattavat.github.io/static/js/main.02b98ea0.chunk.js.map",
     "runtime-main.js": "/chattavat.github.io/static/js/runtime-main.bdec6c77.js",
     "runtime-main.js.map": "/chattavat.github.io/static/js/runtime-main.bdec6c77.js.map",
     "static/css/2.af3c1da9.chunk.css": "/chattavat.github.io/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.39ffafc2.chunk.js": "/chattavat.github.io/static/js/2.39ffafc2.chunk.js",
-    "static/js/2.39ffafc2.chunk.js.map": "/chattavat.github.io/static/js/2.39ffafc2.chunk.js.map",
+    "static/js/2.090c9ebb.chunk.js": "/chattavat.github.io/static/js/2.090c9ebb.chunk.js",
+    "static/js/2.090c9ebb.chunk.js.map": "/chattavat.github.io/static/js/2.090c9ebb.chunk.js.map",
     "index.html": "/chattavat.github.io/index.html",
-    "precache-manifest.f390ceb50121dcab2020c9ba80417a8c.js": "/chattavat.github.io/precache-manifest.f390ceb50121dcab2020c9ba80417a8c.js",
+    "precache-manifest.5dd6a5c25b14f7091bf6c494c1a09f33.js": "/chattavat.github.io/precache-manifest.5dd6a5c25b14f7091bf6c494c1a09f33.js",
     "service-worker.js": "/chattavat.github.io/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/chattavat.github.io/static/css/2.af3c1da9.chunk.css.map",
-    "static/js/2.39ffafc2.chunk.js.LICENSE.txt": "/chattavat.github.io/static/js/2.39ffafc2.chunk.js.LICENSE.txt",
+    "static/js/2.090c9ebb.chunk.js.LICENSE.txt": "/chattavat.github.io/static/js/2.090c9ebb.chunk.js.LICENSE.txt",
     "static/media/Roboto-Black.ttf": "/chattavat.github.io/static/media/Roboto-Black.5ebb24ee.ttf",
     "static/media/Roboto-BlackItalic.ttf": "/chattavat.github.io/static/media/Roboto-BlackItalic.99682a78.ttf",
     "static/media/Roboto-Bold.ttf": "/chattavat.github.io/static/media/Roboto-Bold.e07df86c.ttf",
@@ -32,14 +32,31 @@
     "static/media/flap-gate-banner.png": "/chattavat.github.io/static/media/flap-gate-banner.aaff4c53.png",
     "static/media/logo.png": "/chattavat.github.io/static/media/logo.98f1369c.png",
     "static/media/mini-staff-station-banner.png": "/chattavat.github.io/static/media/mini-staff-station-banner.c8d21144.png",
+    "static/media/pcb-access-control.png": "/chattavat.github.io/static/media/pcb-access-control.512de7fd.png",
+    "static/media/pcb-book-drop.png": "/chattavat.github.io/static/media/pcb-book-drop.4c765a3e.png",
+    "static/media/pcb-charge-module.png": "/chattavat.github.io/static/media/pcb-charge-module.d39daaea.png",
+    "static/media/pcb-conveyor-control.png": "/chattavat.github.io/static/media/pcb-conveyor-control.50277bac.png",
+    "static/media/pcb-drive-control.png": "/chattavat.github.io/static/media/pcb-drive-control.5844a528.png",
+    "static/media/pcb-logic-convertor.png": "/chattavat.github.io/static/media/pcb-logic-convertor.03bfc0ed.png",
+    "static/media/pcb-mini-staff.png": "/chattavat.github.io/static/media/pcb-mini-staff.08c1474d.png",
+    "static/media/pcb-monitoring-module.png": "/chattavat.github.io/static/media/pcb-monitoring-module.a9e4d1df.png",
+    "static/media/pcb-selfcheck.png": "/chattavat.github.io/static/media/pcb-selfcheck.9b0e157c.png",
+    "static/media/pcb-staff-station.png": "/chattavat.github.io/static/media/pcb-staff-station.630019e0.png",
+    "static/media/pcb-swing-gate.png": "/chattavat.github.io/static/media/pcb-swing-gate.c16f91a5.png",
+    "static/media/pcb-switching-module.png": "/chattavat.github.io/static/media/pcb-switching-module.71e9fafb.png",
     "static/media/profile.png": "/chattavat.github.io/static/media/profile.418d3800.png",
     "static/media/staff-station-banner.png": "/chattavat.github.io/static/media/staff-station-banner.71f327b6.png",
-    "static/media/swing-gate-banner.png": "/chattavat.github.io/static/media/swing-gate-banner.ec15f494.png"
+    "static/media/swing-gate-banner.png": "/chattavat.github.io/static/media/swing-gate-banner.ec15f494.png",
+    "static/media/web-config-hardware.png": "/chattavat.github.io/static/media/web-config-hardware.3ad5a2bf.png",
+    "static/media/web-service-access-control.png": "/chattavat.github.io/static/media/web-service-access-control.7dc8c389.png",
+    "static/media/web-service-delivery-robot.png": "/chattavat.github.io/static/media/web-service-delivery-robot.7ab505b0.png",
+    "static/media/web-service-hgmc.png": "/chattavat.github.io/static/media/web-service-hgmc.2b92721f.png",
+    "static/media/web-service-swing-gate.png": "/chattavat.github.io/static/media/web-service-swing-gate.8791c75d.png"
   },
   "entrypoints": [
     "static/js/runtime-main.bdec6c77.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.39ffafc2.chunk.js",
-    "static/js/main.d710b2cd.chunk.js"
+    "static/js/2.090c9ebb.chunk.js",
+    "static/js/main.02b98ea0.chunk.js"
   ]
 }

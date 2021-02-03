@@ -9,14 +9,17 @@ export const calculateYearOfWork = () => {
 
 export const listWork = [
 	{
-		name: "Dplus Intertrade",
+		name: "Dplus Intertrade Company Limited, Bangkok",
 		date: "2019/11/1 - present",
-		position: "Backend developer",
+		position: "Senior Backend developer",
 		description: [
 			"Develop application programming interface with node.js, mongoDB",
 			"Develop administrator web application with react.js",
 			"Develop mobile application with react native",
-			"Develop line bot and interface in service, mobile, web application",
+			"Develop cross platform react native for web",
+			"Develop line messaging api and interface in service, mobile, web application",
+			"Develop firebase messaging in service, mobile, web application",
+			"Develop service time schedule with bull, bull-board and redis",
 		],
 	},
 	{

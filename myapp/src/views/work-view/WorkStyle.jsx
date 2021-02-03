@@ -19,7 +19,7 @@ export const WrapperCareer = styled.div`
 `;
 
 export const TopicArea = styled.div`
-	width: 40%;
+	width: 25%;
 
 	@media (max-width: 768px) {
 		width: 100%;
@@ -35,6 +35,7 @@ export const DescriptionArea = styled.div`
 	margin-left: 0px;
 
 	@media (max-width: 768px) {
+		justify-content: center;
 		margin: auto;
 		margin-bottom: 0.5rem;
 		width: 100%;
@@ -42,7 +43,7 @@ export const DescriptionArea = styled.div`
 `;
 
 export const DetailWork = styled.div`
-	width: 60%;
+	width: 75%;
 	display: flex;
 	flex-wrap: wrap;
 
@@ -53,21 +54,30 @@ export const DetailWork = styled.div`
 `;
 
 export const WorkItem = styled.div`
-	width: 100%;
+	width: 32%;
 	background: #ffffff;
 	padding: 1rem;
 	border-radius: 10px;
+	margin-right: 0.5rem;
 	margin-bottom: 1rem;
 	transition: all 0.3s linear 0s;
+	box-shadow: ${colors.box_shadow};
 
 	:hover {
-		box-shadow: ${colors.box_shadow};
+		box-shadow: none;
+	}
+
+	@media (max-width: 768px) {
+		width: 100%;
+		padding-right: 0rem;
+		padding: 1rem;
 	}
 `;
 
 export const Ul = styled.ul`
 	color: ${colors.darkgray};
 	font-size: 1rem;
+	padding-left: 0.25rem;
 `;
 
 export const Li = styled.li`

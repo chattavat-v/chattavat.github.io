@@ -1,6 +1,6 @@
 import React from "react";
 import ContainerComp from "../../components/container-comp/ContainerComp";
-import { H4, H5, P, Strong } from "../../styles/Fonts";
+import { H5, P, Strong } from "../../styles/Fonts";
 import {
 	WrapperTraining,
 	TopicArea,
@@ -10,13 +10,14 @@ import {
 	BgActive,
 } from "./TrainingStyle";
 import * as utils from "./utils";
+import TopicComp from "../../components/topic-comp/TopicComp";
 
 const TrainingView = (props) => {
 	return (
 		<ContainerComp style={BgActive}>
 			<WrapperTraining>
 				<TopicArea>
-					<H4>Trains</H4>
+					<TopicComp title={"Trains"} />
 					<DescriptionArea>
 						<P>"History of train me."</P>
 					</DescriptionArea>

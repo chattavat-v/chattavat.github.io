@@ -1,5 +1,9 @@
 import styled from "styled-components";
 
+export const WrapperExperience = styled.div`
+	padding: 4rem 0rem;
+`;
+
 export const ExperienceArea = styled.div`
 	flex-wrap: wrap;
 	display: flex;
@@ -27,10 +31,24 @@ export const ExperienceItem = styled.div`
 
 export const Image = styled.img`
 	width: 100%;
-	height: 180px;
+	height: 200px;
 	border-radius: 5px;
 `;
 
 export const TitleArea = styled.div`
 	margin-top: 1rem;
 `;
+
+export const TopicArea = styled.div`
+	@media (max-width: 768px) {
+		text-align: center;
+	}
+`;
+
+export const DescriptionArea = styled.div`
+	letter-spacing: 1.5px;
+	margin: 1rem auto;
+	margin-left: 0px;
+`;
+
+export const CategoryArea = styled.div``;

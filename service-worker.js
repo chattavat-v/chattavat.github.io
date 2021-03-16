@@ -16,7 +16,7 @@ importScripts(
 );
 
 importScripts(
-  "/chattavat.github.io/precache-manifest.f9a568f6786da23bcf6e3cce8ea6e67a.js"
+  "/chattavat.github.io/precache-manifest.acc51b149f7014a39a728456919f0646.js"
 );
 
 self.addEventListener("message", (event) => {

@@ -137,10 +137,13 @@
     function (e, t, n) {
       e.exports = n.p + "static/media/linebot.7c50b1bf.png";
     },
+    function (e, t, n) {
+      e.exports = n.p + "static/media/jobfinfin.11fedffd.png";
+    },
     ,
     ,
     function (e, t, n) {
-      e.exports = n(113);
+      e.exports = n(114);
     },
     ,
     ,
@@ -177,7 +180,7 @@
         r = n.n(a),
         o = n(16),
         i = n.n(o),
-        c = n(83),
+        c = n(84),
         s = n(3),
         l = n(1),
         d = n(2),
@@ -220,8 +223,8 @@
         B = n.n(T),
         C = n(43),
         S = n.n(C),
-        O = n(44),
-        I = n.n(O),
+        I = n(44),
+        O = n.n(I),
         R = n(45),
         j = n.n(R),
         M = n(46),
@@ -274,7 +277,7 @@
           D.a,
           B.a,
           S.a,
-          I.a,
+          O.a,
           j.a,
           N.a
         ),
@@ -532,16 +535,16 @@
           e
         );
       }
-      var Oe = d.b.div(Se()),
-        Ie = d.b.button(Ce()),
+      var Ie = d.b.div(Se()),
+        Oe = d.b.button(Ce()),
         Re = d.b.div(Be(), m.sky),
         je = function (e) {
           var t = e.drawerToggleClickHandler;
           return r.a.createElement(
-            Oe,
+            Ie,
             null,
             r.a.createElement(
-              Ie,
+              Oe,
               { onClick: t },
               r.a.createElement(Re, null),
               r.a.createElement(Re, null),
@@ -958,21 +961,21 @@
           e
         );
       }
-      function Ot() {
+      function It() {
         var e = Object(l.a)(["\n\tmargin-right: 0.5rem;\n"]);
         return (
-          (Ot = function () {
+          (It = function () {
             return e;
           }),
           e
         );
       }
-      function It() {
+      function Ot() {
         var e = Object(l.a)([
           "\n\tdisplay: flex;\n\tlist-style: none;\n\tmargin: 0;\n\tpadding: 0;\n\tflex-wrap: wrap;\n",
         ]);
         return (
-          (It = function () {
+          (Ot = function () {
             return e;
           }),
           e
@@ -1038,8 +1041,8 @@
         Lt = d.b.div(Mt()),
         Vt = d.b.div(jt()),
         Yt = d.b.div(Rt()),
-        Wt = d.b.ul(It()),
-        Ft = d.b.li(Ot()),
+        Wt = d.b.ul(Ot()),
+        Ft = d.b.li(It()),
         zt = { textTransform: "uppercase" },
         Ht = d.b.div(St(), m.gray);
       function Jt() {
@@ -1452,9 +1455,9 @@
           );
         },
         Sn = n(54),
-        On = n.n(Sn),
-        In = n(55),
-        Rn = n.n(In),
+        In = n.n(Sn),
+        On = n(55),
+        Rn = n.n(On),
         jn = n(56),
         Mn = n.n(jn),
         Nn = n(57),
@@ -1506,49 +1509,52 @@
         Ba = n(80),
         Ca = n.n(Ba),
         Sa = n(81),
-        Oa = n.n(Sa),
-        Ia = On.a,
-        Ra = Rn.a,
-        ja = Mn.a,
-        Ma = Gn.a,
-        Na = Qn.a,
-        Ga = Vn.a,
-        Pa = Wn.a,
-        Qa = zn.a,
-        La = Jn.a,
-        Va = Un.a,
-        Ya = Xn.a,
-        Wa = _n.a,
-        Fa = ea.a,
-        za = na.a,
-        Ha = ra.a,
-        Ja = ia.a,
-        Za = sa.a,
-        Ua = da.a,
-        Ka = ua.a,
-        Xa = ha.a,
-        qa = fa.a,
-        _a = Aa.a,
-        $a = wa.a,
-        er = Ea.a,
-        tr = ka.a,
-        nr = Ta.a,
-        ar = Ca.a,
-        rr = Oa.a,
-        or = [
+        Ia = n.n(Sa),
+        Oa = n(82),
+        Ra = n.n(Oa),
+        ja = In.a,
+        Ma = Rn.a,
+        Na = Mn.a,
+        Ga = Gn.a,
+        Pa = Qn.a,
+        Qa = Vn.a,
+        La = Wn.a,
+        Va = zn.a,
+        Ya = Jn.a,
+        Wa = Un.a,
+        Fa = Xn.a,
+        za = _n.a,
+        Ha = ea.a,
+        Ja = na.a,
+        Za = ra.a,
+        Ua = ia.a,
+        Ka = sa.a,
+        Xa = da.a,
+        qa = ua.a,
+        _a = ha.a,
+        $a = fa.a,
+        er = Aa.a,
+        tr = wa.a,
+        nr = Ea.a,
+        ar = ka.a,
+        rr = Ta.a,
+        or = Ca.a,
+        ir = Ia.a,
+        cr = Ra.a,
+        sr = [
           { _id: "1", value: "*", name: "ALL" },
           { _id: "2", value: "hardware", name: "HARDWARE" },
           { _id: "3", value: "software", name: "SOFTWARE" },
           { _id: "4", value: "electronics", name: "ELECTRONICS" },
         ],
-        ir = [
+        lr = [
           {
             name: "DELIVERY ROBOT VERSION 2.0",
             title:
               "The Book Drop is an all-in-one self-service library assets return tower model.Its large touch screen and simple interface allow for easy touch interactivity.Scan ID for userauthentication, print out proof of transaction and capture your image. The Book Drop incorporates auto-shutter technology, smart conveyor and built in sensors for exceptional intelligent. The book return system allows the robot to deliver books to the storage bin that has been sorted. Comes from RFID screening system",
             location: "Sakhonnakorn, Thailand",
             year: "2018",
-            image: Ia,
+            image: ja,
             category: "hardware",
             descriptions: [
               "Research and development of book return systems and sorting into books.",
@@ -1566,7 +1572,7 @@
               "The Book Drop is an all-in-one self-service library assets return tower model.Its large touch screen and simple interface allow for easy touch interactivity.Scan ID for userauthentication, print out proof of transaction and capture your image. The Book Drop incorporates auto-shutter technology, smart conveyor and built in sensors for exceptional intelligent. The Book Drop T1, experience the newer and smarter way.",
             location: "Nakron Ratchasima",
             year: "2016",
-            image: Ra,
+            image: Ma,
             category: "hardware",
             descriptions: [
               "Research and development of book return systems and sorting into books.",
@@ -1583,7 +1589,7 @@
               "The Book Drop is an all-in-one self-service library assets return tower model.Its large touch screen and simple interface allow for easy touch interactivity.Scan ID for userauthentication, print out proof of transaction and capture your image. The Book Drop incorporates auto-shutter technology, smart conveyor and built in sensors for exceptional intelligent. The Book Drop T1, experience the newer and smarter way.",
             location: "Nakhon pathom, Thailand",
             year: "2016",
-            image: ja,
+            image: Na,
             category: "hardware",
             descriptions: [
               "Research and development of book return systems.",
@@ -1601,7 +1607,7 @@
               "Automatic access control system design Is designed to determine access rights To relevant internal personnel And prevent misfortune that may be caused by outsiders",
             location: "Bangkok,Thailand",
             year: "2018",
-            image: Ma,
+            image: Ga,
             category: "hardware",
             descriptions: [
               "Electronics circuit design.",
@@ -1616,7 +1622,7 @@
               "The flip gate is more than just a gate. With built in sensors and identification technology, the flip gate accurately identify and generate useful reports. Both elegant and safe, the flip gate can be integrated with the security gate or third parties security systems. Flip gate, the next level in accessibility.",
             location: "Rayong, Thailand",
             year: "2016",
-            image: Na,
+            image: Pa,
             category: "hardware",
             descriptions: [
               "Solve the problem of receiving the user card code from the card reader.",
@@ -1633,7 +1639,7 @@
               "The flip gate is more than just a gate. With built in sensors and identification technology, the flip gate accurately identify and generate useful reports. Both elegant and safe, the flip gate can be integrated with the security gate or third parties security systems. Flip gate, the next level in accessibility.",
             location: "Bangkok,Thailand",
             year: "2018",
-            image: Ga,
+            image: Qa,
             category: "hardware",
             descriptions: [
               "Research and development of automatic entry",
@@ -1651,7 +1657,7 @@
               "The Staff Station T1 with its simple design, it can be placed atop or hidden under the desktop. Connect to a personal computer and perform tasks with ease. Place tagged library assets in any orientation within the read-zone and process multiple tagged library assets at once.",
             location: "Bangkok,Thailand",
             year: "2018",
-            image: Pa,
+            image: La,
             category: "hardware",
             descriptions: [
               "Research and development of a borrow and return system with a new RFID system.",
@@ -1665,7 +1671,7 @@
               "Mini staff station is designed to sit well on the tabletop. This is achieved by its moderate size and weight design. It is also designed to be aesthetically appealing with its sleek surface design and LED illuminations while keeping its functionality. The mini staff station can be easily connected to a computer via USB. It is a simple plug and play contactless card reader solution.",
             location: "Bangkok,Thailand",
             year: "2018",
-            image: Qa,
+            image: Va,
             category: "hardware",
             descriptions: [
               "Research and development of a borrow and return system with a new RFID system.",
@@ -1679,7 +1685,7 @@
               "Automatic access control design circuit Designed to be used to assign access rights To related insiders And prevent the occurrence of bad events that may be caused by outsiders There are many ways to request permission to enter. May check the eligibility by using the code, mifare card, QR code or fingerprint Can be either or used together to increase security even more",
             location: "Bangkok,Thailand",
             year: "2018",
-            image: La,
+            image: Ya,
             category: "electronics",
             descriptions: [
               "The system has a card reader Mifare Reader.",
@@ -1700,7 +1706,7 @@
               "Control system of the book return system Is an important part of the work of the product system. Book drop version 2.0 There are two main processing systems, Atmega2560, which are part of the motor mechanism or sensor used within the book drop. The processing system used to reset the RFID reader is Atmega328P. The control circuit system mentioned above Will connect to the operating system Raspberry Pi with Linux in the Serial Port communication channel.",
             location: "Sakhonnakorn, Thailand",
             year: "2018",
-            image: Va,
+            image: Wa,
             category: "electronics",
             descriptions: [
               "The system can connect and receive and send commands for the RFID Module module.",
@@ -1721,7 +1727,7 @@
               "Control system of the book return system Is a part that manages the battery sarting system that is inside the robot that is used to transport books to the sorting tank There is the main processing system, Atmega2560, which is part of the battery configuration and management. To control battery charging safely and efficiently Within the circuit there is a system to check the current and voltage levels of the battery while charging. Send-receive data can be sent as far as 1 kilometer.",
             location: "Sakhonnakorn, Thailand",
             year: "2018",
-            image: Ya,
+            image: Fa,
             category: "electronics",
             descriptions: [
               "The system can connect and receive and send commands via Hardware Serial.",
@@ -1743,7 +1749,7 @@
               "Control circuits of small conveyor systems Is part of the work system of the book return machine That is responsible for controlling and sequencing the work of the conveying system in conveying books to the sorting tank by the robot There is a main processing system, Atmega2560. Within the circuit, there are 2 step stepper motor drive systems and can send - receive data up to 1 kilometer.",
             location: "Sakhonnakorn, Thailand",
             year: "2018",
-            image: Wa,
+            image: za,
             category: "electronics",
             descriptions: [
               "The system can connect and receive and send commands via Hardware Serial.",
@@ -1765,7 +1771,7 @@
               "Control circuit of the robot's drive system Is part of the Book Drop Version 2.0 product And can receive sensor information that is used to monitor movement around In addition to having a core processing system Within the circuit, there is a sub-processing system, Atmega328P, which manages the main sensor used to monitor the movement of the surrounding area To reduce the work load of the main processing system and become more independent in the operation of the system",
             location: "Sakhonnakorn, Thailand",
             year: "2018",
-            image: Fa,
+            image: Ha,
             category: "electronics",
             descriptions: [
               "The system can connect and receive and send commands by Hardware Serial up to 3 channels.",
@@ -1786,7 +1792,7 @@
               "The main circuit that is part of the Swing Gate Version 1.0 product. The circuit is responsible for receiving data from the sensor and converting the voltage level of the data received. The main processing system can be read. Without damage to the main processing system Within the circuit, there is a cooling system installed for the main processing system to reduce the deterioration of the system, not causing excessive heat to the level that can be received.",
             location: "Bangkok,Thailand",
             year: "2018",
-            image: za,
+            image: Ja,
             category: "electronics",
             descriptions: [
               "The system can connect to receive and send commands by Hardware Serial up to 3 channels.",
@@ -1806,7 +1812,7 @@
               "Mifare card reader circuit is the main circuit of the product. Mini Staff Verison 1.1 Inside the circuit, the main processing system is Atmega32U4, which can be connected and used like a mouse or keyboard. The circuit can be connected to the mifare reader by plugging in and connecting to each other. The main function of the system is to read the information of the card or save the data to the card.",
             location: "Bangkok,Thailand",
             year: "2018",
-            image: Ha,
+            image: Za,
             category: "electronics",
             descriptions: [
               "Processing with chip Atmega32U4.",
@@ -1821,7 +1827,7 @@
               "Book Drop Version 2.0 product status display circuit is a part of the robot system that acts as a book to sorting tanks. The main function of the circuit is to Check the current and voltage of the robot To observe the energy consumption behavior of the system There are 4 systems that support sensor, temperature and humidity connections within the robot and the cooling control system that supports connecting to 2 sets of cooling fans There is a screen that displays the temperature values. Current and voltage To make it easier to maintain and check for alternatives",
             location: "Sakhonnakorn, Thailand",
             year: "2018",
-            image: Ja,
+            image: Ua,
             category: "electronics",
             descriptions: [
               "The system can display the screen. And will show the temperature, current level.",
@@ -1842,7 +1848,7 @@
               "A switching power supply circuit is a circuit that reduces voltage levels Can receive 7-35 volt inlet pressure and have 2 output voltages for static, 5 volt and up to 30 volt. The circuit can supply a maximum of 3 Amp within the circuit that supports and uses up to 3 sets.",
             location: "Sakhonnakorn, Thailand",
             year: "2018",
-            image: Za,
+            image: Ka,
             category: "electronics",
             descriptions: [
               "Step down voltage regulator 3 channels.",
@@ -1859,7 +1865,7 @@
               "The control circuit of the self check version 2.0 is the center of all work within the machine. Within the circuit there is the main processing system, Atmega2560, which controls and manages all system operations. Within the circuit can connect the speaker and can play the sound out Supports temperature and humidity reading in machines Within the circuit supports connection to communicate with other operating systems such as window, linux using USB comport.",
             location: "Bangkok,Thailand",
             year: "2018",
-            image: Ua,
+            image: Xa,
             category: "electronics",
             descriptions: [
               "The system can connect and receive and send commands for the RFID Module module.",
@@ -1882,7 +1888,7 @@
               "Control circuit for working, borrowing-returning books. The circuit will connect to the RFID reader to read and write the tag information within the book. The circuit can control the color system. To show the working status of the system The main processing system is Atmega2560 and communicates with Serial Comport.",
             location: "Bangkok,Thailand",
             year: "2018",
-            image: Ka,
+            image: qa,
             category: "electronics",
             descriptions: [
               "The system can connect and receive and send commands for the RFID Module module.",
@@ -1898,7 +1904,7 @@
               "Signal voltage divider circuit that is part of Swing Gate Version 1.0 for disabled and wheelchair users. The circuit is an extension to the Arduino UNO R3, which is the main processor. The circuit will accept the voltage of the signal with a voltage level of 12 Volt. Decrease the voltage to 5 Volt using the voltage divider principle that is calculated. And the circuit also enhances the connection of the wires to make it easier to install the equipment",
             location: "Bangkok,Thailand",
             year: "2018",
-            image: Xa,
+            image: _a,
             category: "electronics",
             descriptions: [
               "Circuit board supporting the operation of Arduino UNO R3 processing system.",
@@ -1912,7 +1918,7 @@
               "This project web application config module hardware. Develop this project for easier to config parameter module before bring module to integrate in main system. This we build API for connect and communicate with hardware module because hardware module is running by python language.",
             location: "Bangkok,Thailand",
             year: "2019",
-            image: qa,
+            image: $a,
             category: "software",
             descriptions: [
               "Develop frontend by React, react hook, axios",
@@ -1926,7 +1932,7 @@
               "Web application that controls the operation of the robot that is part of the Book Drop Version 2.0 product, which is responsible for transporting books to the sorting tank by the service. There are many functions that can be configured serial comport, Ip address and display. The config data can be checked for the battery and the temperature received from hardware in real time by socket.io",
             location: "Sakhonnakorn, Thailand",
             year: "2018",
-            image: _a,
+            image: er,
             category: "software",
             descriptions: [
               "Web application that controls the operation of the robot that is part of the Book Drop Version 2.0 product, which is responsible for transporting books to the sorting tank by the service.",
@@ -1948,7 +1954,7 @@
               "Is an application that runs on linux operating systems using the Raspberry Pi as a system processing system. Web service is a part of the Swing gate Version 1.0 product. Web Service is developed with Nodejs and uses the EJS Template engine as fronted. The system can connect to hardware that has The system to order the product, whether it is the order to open and close the light and sound system of the web application, the user must login before using the service within the user system. If config serial port and ip address or can open, close the door The system has to receive the information of the user card while touching the mifare card or reading the barcode as a real time format using socket.io",
             location: "Bangkok,Thailand",
             year: "2018",
-            image: $a,
+            image: tr,
             category: "software",
             descriptions: [
               "Is an application that runs on linux operating systems using the Raspberry Pi to process the operating system. The purpose of the API is to connect hardware with the user interface to access the system.",
@@ -1968,7 +1974,7 @@
               "Is an application that runs on the linux operating system using the Raspberry Pi as a system processing system. Web service is a part of the Access Control product version 1.1. Web Service is developed with Nodejs and uses the EJS Template engine as fronted. The system can receive data from Mifare, QR code and Finger scan reader by sending data from Hardware that will use Socket.io which has the data sent as Real time. The system can config comport of the processing hardware that is sent. - Receive data with Serial port and have ip config system address used The web service running and socket system can be turned on or off through the front door and a web application can be derived from a photo taken. Camera connected to hardware to display on the web application by accessing data, time and pictures while access is stored in the database with MongoDB.",
             location: "Bangkok,Thailand",
             year: "2018",
-            image: er,
+            image: nr,
             category: "software",
             descriptions: [
               "Developed with html, css, javascript so that the user can use it as quickly and easily as possible.",
@@ -1987,7 +1993,7 @@
               "Design and update the Web service as well as customize Sequence of the system within the robot with robot operation system. This web application can control robots and response data or action robot with realtime system.",
             location: "Bangkok,Thailand",
             year: "2019",
-            image: tr,
+            image: ar,
             category: "software",
             descriptions: [
               "Web application that controls and displays the response of the robot.",
@@ -2007,7 +2013,7 @@
             title: "Design web application for management user on system",
             location: "Bangkok,Thailand",
             year: "2020",
-            image: nr,
+            image: rr,
             category: "software",
             descriptions: [
               "Develop web application with react, redux, redux thunk",
@@ -2021,7 +2027,7 @@
             title: "Design application for android and ios",
             location: "Bangkok,Thailand",
             year: "2020",
-            image: ar,
+            image: or,
             category: "software",
             descriptions: [
               "Application for management payment member and owner",
@@ -2038,7 +2044,7 @@
             title: "Design linebot with line messaging api",
             location: "Bangkok,Thailand",
             year: "2020",
-            image: rr,
+            image: ir,
             category: "software",
             descriptions: [
               "Facilitates the users to display information",
@@ -2048,32 +2054,47 @@
               "management message and command",
             ],
           },
+          {
+            name: "JOBFINFIN",
+            title: "web application for recuiter job",
+            location: "Bangkok,Thailand",
+            year: "2021",
+            image: cr,
+            category: "software",
+            descriptions: [
+              "Develop service with nodejs express framework",
+              "Design database system using NoSQL (MongoDB)",
+              "Develop firebase in service, web application",
+              "Develop service time schedule with bull, bull-board and redis",
+              "Develop web application by react native for web",
+            ],
+          },
         ];
-      function cr() {
+      function dr() {
         var e = Object(l.a)(["\n\tmargin-right: 1rem;\n\tcursor: pointer;\n"]);
         return (
-          (cr = function () {
+          (dr = function () {
             return e;
           }),
           e
         );
       }
-      function sr() {
+      function mr() {
         var e = Object(l.a)([
           "\n\tjustify-content: flex-end;\n\tlist-style: none;\n\tdisplay: flex;\n\tflex-wrap: wrap;\n\tmargin-left: 0.5rem;\n\tpadding-left: 0rem;\n\n\t@media (max-width: 768px) {\n\t\tjustify-content: center;\n\t}\n",
         ]);
         return (
-          (sr = function () {
+          (mr = function () {
             return e;
           }),
           e
         );
       }
-      var lr = d.b.ul(sr()),
-        dr = d.b.li(cr()),
-        mr = n(82),
-        ur = n.n(mr),
-        pr = function (e) {
+      var ur = d.b.ul(mr()),
+        pr = d.b.li(dr()),
+        hr = n(83),
+        gr = n.n(hr),
+        fr = function (e) {
           var t = e.list,
             n = Object(a.useState)(null),
             o = Object(V.a)(n, 2),
@@ -2086,7 +2107,7 @@
           return (
             Object(a.useEffect)(function () {
               c(
-                new ur.a(".filter-container", {
+                new gr.a(".filter-container", {
                   itemSelector: ".filter-item",
                   layoutMode: "fitRows",
                 })
@@ -2102,11 +2123,11 @@
               [i, d]
             ),
             r.a.createElement(
-              lr,
+              ur,
               null,
               t.map(function (e) {
                 return r.a.createElement(
-                  dr,
+                  pr,
                   {
                     onClick: function () {
                       return m(e.value);
@@ -2119,39 +2140,8 @@
             )
           );
         };
-      function hr() {
-        var e = Object(l.a)([""]);
-        return (
-          (hr = function () {
-            return e;
-          }),
-          e
-        );
-      }
-      function gr() {
-        var e = Object(l.a)([
-          "\n\tletter-spacing: 1.5px;\n\tmargin: 1rem auto;\n\tmargin-left: 0px;\n",
-        ]);
-        return (
-          (gr = function () {
-            return e;
-          }),
-          e
-        );
-      }
-      function fr() {
-        var e = Object(l.a)([
-          "\n\t@media (max-width: 768px) {\n\t\ttext-align: center;\n\t}\n",
-        ]);
-        return (
-          (fr = function () {
-            return e;
-          }),
-          e
-        );
-      }
       function br() {
-        var e = Object(l.a)(["\n\tmargin-top: 1rem;\n"]);
+        var e = Object(l.a)([""]);
         return (
           (br = function () {
             return e;
@@ -2161,7 +2151,7 @@
       }
       function Ar() {
         var e = Object(l.a)([
-          "\n\twidth: 100%;\n\theight: 200px;\n\tborder-radius: 5px;\n",
+          "\n\tletter-spacing: 1.5px;\n\tmargin: 1rem auto;\n\tmargin-left: 0px;\n",
         ]);
         return (
           (Ar = function () {
@@ -2172,7 +2162,7 @@
       }
       function yr() {
         var e = Object(l.a)([
-          "\n\twidth: 25%;\n\tpadding: 0rem 0.5rem;\n\tcursor: pointer;\n\ttransition: 0.5s;\n\n\t:hover {\n\t\tfilter: brightness(1.1) drop-shadow(1px 8px 30px #b1afaf);\n\t}\n\n\t@media (max-width: 768px) {\n\t\tpadding: 0rem 1rem;\n\t\twidth: 100%;\n\t}\n",
+          "\n\t@media (max-width: 768px) {\n\t\ttext-align: center;\n\t}\n",
         ]);
         return (
           (yr = function () {
@@ -2182,9 +2172,7 @@
         );
       }
       function wr() {
-        var e = Object(l.a)([
-          "\n\tflex-wrap: wrap;\n\tdisplay: flex;\n\n\t@media (max-width: 768px) {\n\t\tdisplay: block;\n\t}\n",
-        ]);
+        var e = Object(l.a)(["\n\tmargin-top: 1rem;\n"]);
         return (
           (wr = function () {
             return e;
@@ -2193,7 +2181,9 @@
         );
       }
       function vr() {
-        var e = Object(l.a)(["\n\tpadding: 4rem 0rem;\n"]);
+        var e = Object(l.a)([
+          "\n\twidth: 100%;\n\theight: 200px;\n\tborder-radius: 5px;\n",
+        ]);
         return (
           (vr = function () {
             return e;
@@ -2201,28 +2191,59 @@
           e
         );
       }
-      var Er = d.b.div(vr()),
-        xr = d.b.div(wr()),
-        kr = d.b.div(yr()),
-        Dr = d.b.img(Ar()),
-        Tr = d.b.div(br()),
-        Br = d.b.div(fr()),
-        Cr = d.b.div(gr()),
-        Sr = d.b.div(hr()),
-        Or = function (e) {
+      function Er() {
+        var e = Object(l.a)([
+          "\n\twidth: 25%;\n\tpadding: 0rem 0.5rem;\n\tcursor: pointer;\n\ttransition: 0.5s;\n\n\t:hover {\n\t\tfilter: brightness(1.1) drop-shadow(1px 8px 30px #b1afaf);\n\t}\n\n\t@media (max-width: 768px) {\n\t\tpadding: 0rem 1rem;\n\t\twidth: 100%;\n\t}\n",
+        ]);
+        return (
+          (Er = function () {
+            return e;
+          }),
+          e
+        );
+      }
+      function xr() {
+        var e = Object(l.a)([
+          "\n\tflex-wrap: wrap;\n\tdisplay: flex;\n\n\t@media (max-width: 768px) {\n\t\tdisplay: block;\n\t}\n",
+        ]);
+        return (
+          (xr = function () {
+            return e;
+          }),
+          e
+        );
+      }
+      function kr() {
+        var e = Object(l.a)(["\n\tpadding: 4rem 0rem;\n"]);
+        return (
+          (kr = function () {
+            return e;
+          }),
+          e
+        );
+      }
+      var Dr = d.b.div(kr()),
+        Tr = d.b.div(xr()),
+        Br = d.b.div(Er()),
+        Cr = d.b.img(vr()),
+        Sr = d.b.div(wr()),
+        Ir = d.b.div(yr()),
+        Or = d.b.div(Ar()),
+        Rr = d.b.div(br()),
+        jr = function (e) {
           var t = e.onClickExperience;
           return r.a.createElement(
             Bt,
             null,
             r.a.createElement(
-              Er,
+              Dr,
               null,
               r.a.createElement(
-                Br,
+                Ir,
                 null,
                 r.a.createElement(Ut, { title: "Experiences" }),
                 r.a.createElement(
-                  Cr,
+                  Or,
                   null,
                   r.a.createElement(
                     ye,
@@ -2231,13 +2252,13 @@
                   )
                 )
               ),
-              r.a.createElement(Sr, null, r.a.createElement(pr, { list: or })),
+              r.a.createElement(Rr, null, r.a.createElement(fr, { list: sr })),
               r.a.createElement(
-                xr,
+                Tr,
                 { className: "filter-container" },
-                ir.map(function (e, n) {
+                lr.map(function (e, n) {
                   return r.a.createElement(
-                    kr,
+                    Br,
                     {
                       key: n,
                       className: "filter-item ".concat(e.category),
@@ -2245,9 +2266,9 @@
                         return t(e);
                       },
                     },
-                    r.a.createElement(Dr, { src: e.image, alt: "" }),
+                    r.a.createElement(Cr, { src: e.image, alt: "" }),
                     r.a.createElement(
-                      Tr,
+                      Sr,
                       null,
                       r.a.createElement(Te, null, e.name),
                       r.a.createElement(ye, null, e.location)
@@ -2258,43 +2279,9 @@
             )
           );
         };
-      function Ir() {
-        var e = Object(l.a)([
-          "\n\twidth: 33%;\n\tbackground-color: #fff;\n\n\t@media (max-width: 768px) {\n\t\twidth: 100%;\n\t}\n",
-        ]);
-        return (
-          (Ir = function () {
-            return e;
-          }),
-          e
-        );
-      }
-      function Rr() {
-        var e = Object(l.a)([
-          "\n\twidth: 33%;\n\tbackground-color: ",
-          ";\n\n\tp,\n\th3 {\n\t\tcolor: #fff;\n\t}\n\n\t@media (max-width: 768px) {\n\t\twidth: 100%;\n\t}\n",
-        ]);
-        return (
-          (Rr = function () {
-            return e;
-          }),
-          e
-        );
-      }
-      function jr() {
-        var e = Object(l.a)([
-          "\n\twidth: 33%;\n\tbackground-color: #fff;\n\n\t@media (max-width: 768px) {\n\t\twidth: 100%;\n\t}\n",
-        ]);
-        return (
-          (jr = function () {
-            return e;
-          }),
-          e
-        );
-      }
       function Mr() {
         var e = Object(l.a)([
-          "\n\twidth: 75%;\n\tdisplay: flex;\n\tflex-wrap: wrap;\n\ttext-align: center;\n\n\t> div {\n\t\tpadding: 0.5rem;\n\t}\n\n\th3 {\n\t\tmargin-bottom: 1.5rem;\n\t}\n\n\t@media (max-width: 768px) {\n\t\twidth: 100%;\n\t\tdisplay: block;\n\t}\n",
+          "\n\twidth: 33%;\n\tbackground-color: #fff;\n\n\t@media (max-width: 768px) {\n\t\twidth: 100%;\n\t}\n",
         ]);
         return (
           (Mr = function () {
@@ -2305,7 +2292,8 @@
       }
       function Nr() {
         var e = Object(l.a)([
-          "\n\tdisplay: flex;\n\twidth: 80%;\n\tletter-spacing: 1.5px;\n\tmargin: 1rem auto;\n\tmargin-left: 0px;\n\n\t@media (max-width: 768px) {\n\t\tjustify-content: center;\n\t\tmargin: auto;\n\t\tmargin-bottom: 0.5rem;\n\t\twidth: 100%;\n\t}\n",
+          "\n\twidth: 33%;\n\tbackground-color: ",
+          ";\n\n\tp,\n\th3 {\n\t\tcolor: #fff;\n\t}\n\n\t@media (max-width: 768px) {\n\t\twidth: 100%;\n\t}\n",
         ]);
         return (
           (Nr = function () {
@@ -2316,7 +2304,7 @@
       }
       function Gr() {
         var e = Object(l.a)([
-          "\n\twidth: 25%;\n\n\t@media (max-width: 768px) {\n\t\twidth: 100%;\n\t\ttext-align: center;\n\t}\n",
+          "\n\twidth: 33%;\n\tbackground-color: #fff;\n\n\t@media (max-width: 768px) {\n\t\twidth: 100%;\n\t}\n",
         ]);
         return (
           (Gr = function () {
@@ -2327,7 +2315,7 @@
       }
       function Pr() {
         var e = Object(l.a)([
-          "\n\tdisplay: flex;\n\tpadding: 4rem 0rem;\n\n\t@media (max-width: 768px) {\n\t\tdisplay: block;\n\t\tpadding: 2rem 0rem;\n\t}\n",
+          "\n\twidth: 75%;\n\tdisplay: flex;\n\tflex-wrap: wrap;\n\ttext-align: center;\n\n\t> div {\n\t\tpadding: 0.5rem;\n\t}\n\n\th3 {\n\t\tmargin-bottom: 1.5rem;\n\t}\n\n\t@media (max-width: 768px) {\n\t\twidth: 100%;\n\t\tdisplay: block;\n\t}\n",
         ]);
         return (
           (Pr = function () {
@@ -2336,43 +2324,76 @@
           e
         );
       }
-      var Qr = { background: m.lightsky },
-        Lr = d.b.div(Pr()),
-        Vr = d.b.div(Gr()),
-        Yr = d.b.div(Nr()),
-        Wr = d.b.div(Mr()),
-        Fr = d.b.div(jr()),
-        zr = d.b.div(Rr(), m.sky),
-        Hr = d.b.div(Ir()),
-        Jr = function (e) {
+      function Qr() {
+        var e = Object(l.a)([
+          "\n\tdisplay: flex;\n\twidth: 80%;\n\tletter-spacing: 1.5px;\n\tmargin: 1rem auto;\n\tmargin-left: 0px;\n\n\t@media (max-width: 768px) {\n\t\tjustify-content: center;\n\t\tmargin: auto;\n\t\tmargin-bottom: 0.5rem;\n\t\twidth: 100%;\n\t}\n",
+        ]);
+        return (
+          (Qr = function () {
+            return e;
+          }),
+          e
+        );
+      }
+      function Lr() {
+        var e = Object(l.a)([
+          "\n\twidth: 25%;\n\n\t@media (max-width: 768px) {\n\t\twidth: 100%;\n\t\ttext-align: center;\n\t}\n",
+        ]);
+        return (
+          (Lr = function () {
+            return e;
+          }),
+          e
+        );
+      }
+      function Vr() {
+        var e = Object(l.a)([
+          "\n\tdisplay: flex;\n\tpadding: 4rem 0rem;\n\n\t@media (max-width: 768px) {\n\t\tdisplay: block;\n\t\tpadding: 2rem 0rem;\n\t}\n",
+        ]);
+        return (
+          (Vr = function () {
+            return e;
+          }),
+          e
+        );
+      }
+      var Yr = { background: m.lightsky },
+        Wr = d.b.div(Vr()),
+        Fr = d.b.div(Lr()),
+        zr = d.b.div(Qr()),
+        Hr = d.b.div(Pr()),
+        Jr = d.b.div(Gr()),
+        Zr = d.b.div(Nr(), m.sky),
+        Ur = d.b.div(Mr()),
+        Kr = function (e) {
           return r.a.createElement(
             Bt,
-            { style: Qr },
+            { style: Yr },
             r.a.createElement(
-              Lr,
+              Wr,
               null,
               r.a.createElement(
-                Vr,
+                Fr,
                 null,
                 r.a.createElement(Ut, { title: "Contacts" }),
                 r.a.createElement(
-                  Yr,
+                  zr,
                   null,
                   r.a.createElement(ye, null, '"Here me"')
                 )
               ),
               r.a.createElement(
-                Wr,
+                Hr,
                 null,
                 r.a.createElement(
-                  Fr,
+                  Jr,
                   null,
                   r.a.createElement(ke, null, "Phone"),
                   r.a.createElement(ye, null, "+(66) 81-094-7156"),
                   r.a.createElement(ye, null, "Mon to Fri 10am to 8pm")
                 ),
                 r.a.createElement(
-                  zr,
+                  Zr,
                   null,
                   r.a.createElement(ke, null, "Location"),
                   r.a.createElement(
@@ -2383,7 +2404,7 @@
                   r.a.createElement(ye, null, "Bangkok, Thailand 10900")
                 ),
                 r.a.createElement(
-                  Hr,
+                  Ur,
                   null,
                   r.a.createElement(ke, null, "Email"),
                   r.a.createElement(ye, null, "chattavat.psu@gmail.com"),
@@ -2393,55 +2414,55 @@
             )
           );
         };
-      function Zr() {
+      function Xr() {
         var e = Object(l.a)([
           "\n\tp {\n\t\tmargin: 0rem;\n\t\tmargin-top: 0.5rem;\n\t}\n\n\t@media (max-width: 768px) {\n\t\ttext-align: center;\n\t}\n",
         ]);
         return (
-          (Zr = function () {
+          (Xr = function () {
             return e;
           }),
           e
         );
       }
-      function Ur() {
+      function qr() {
         var e = Object(l.a)([
           "\n\tdisplay: flex;\n\n\th2 {\n\t\tmargin: auto;\n\t}\n\n\t@media (max-width: 768px) {\n\t\tjustify-content: center;\n\n\t\th2 {\n\t\t\tmargin: 0rem;\n\t\t}\n\t}\n",
         ]);
         return (
-          (Ur = function () {
+          (qr = function () {
             return e;
           }),
           e
         );
       }
-      function Kr() {
+      function _r() {
         var e = Object(l.a)([
           "\n\tdisplay: flex;\n\tjustify-content: space-between;\n\tmargin: auto 1rem;\n\tpadding: 1rem 0rem;\n\n\t@media (max-width: 768px) {\n\t\tdisplay: block;\n\t}\n",
         ]);
         return (
-          (Kr = function () {
+          (_r = function () {
             return e;
           }),
           e
         );
       }
-      var Xr = { textTransform: "uppercase", color: m.sky },
-        qr = d.b.div(Kr()),
-        _r = d.b.div(Ur()),
-        $r = d.b.div(Zr()),
-        eo = function (e) {
+      var $r = { textTransform: "uppercase", color: m.sky },
+        eo = d.b.div(_r()),
+        to = d.b.div(qr()),
+        no = d.b.div(Xr()),
+        ao = function (e) {
           return r.a.createElement(
-            qr,
+            eo,
             null,
             r.a.createElement(
-              _r,
+              to,
               null,
               r.a.createElement(xe, { style: Ae }, "chattavat."),
-              r.a.createElement(xe, { style: Xr }, "V")
+              r.a.createElement(xe, { style: $r }, "V")
             ),
             r.a.createElement(
-              $r,
+              no,
               null,
               r.a.createElement(
                 ye,
@@ -2451,43 +2472,9 @@
             )
           );
         };
-      function to() {
-        var e = Object(l.a)([
-          '\n\tlist-style-type: none;\n\tposition: relative;\n\tpadding-left: 30px;\n\n\t:before {\n\t\tcontent: "";\n\t\tposition: absolute;\n\t\twidth: 10px;\n\t\theight: 10px;\n\t\tborder: 2px solid #87ceeb;\n\t\tbackground: #fff;\n\t\ttop: 8px;\n\t\tleft: 0px;\n\t\tborder-radius: 50%;\n\t}\n\n\tp {\n\t\tmargin-bottom: 0.5rem;\n\t}\n',
-        ]);
-        return (
-          (to = function () {
-            return e;
-          }),
-          e
-        );
-      }
-      function no() {
-        var e = Object(l.a)([
-          "\n\tcolor: ",
-          ";\n\tfont-size: 1rem;\n\tpadding-left: 0.25rem;\n",
-        ]);
-        return (
-          (no = function () {
-            return e;
-          }),
-          e
-        );
-      }
-      function ao() {
-        var e = Object(l.a)([
-          "\n\ttext-align: left;\n\tpadding: 0rem 0.5rem;\n\n\t@media (max-width: 768px) {\n\t\tpadding: 0rem;\n\t}\n",
-        ]);
-        return (
-          (ao = function () {
-            return e;
-          }),
-          e
-        );
-      }
       function ro() {
         var e = Object(l.a)([
-          "\n\twidth: 50%;\n\ttext-align: center;\n\tpadding: 0rem 0.5rem;\n\n\t@media (max-width: 768px) {\n\t\twidth: 100%;\n\t}\n",
+          '\n\tlist-style-type: none;\n\tposition: relative;\n\tpadding-left: 30px;\n\n\t:before {\n\t\tcontent: "";\n\t\tposition: absolute;\n\t\twidth: 10px;\n\t\theight: 10px;\n\t\tborder: 2px solid #87ceeb;\n\t\tbackground: #fff;\n\t\ttop: 8px;\n\t\tleft: 0px;\n\t\tborder-radius: 50%;\n\t}\n\n\tp {\n\t\tmargin-bottom: 0.5rem;\n\t}\n',
         ]);
         return (
           (ro = function () {
@@ -2497,7 +2484,10 @@
         );
       }
       function oo() {
-        var e = Object(l.a)(["\n\twidth: 100%;\n\tborder-radius: 5px;\n"]);
+        var e = Object(l.a)([
+          "\n\tcolor: ",
+          ";\n\tfont-size: 1rem;\n\tpadding-left: 0.25rem;\n",
+        ]);
         return (
           (oo = function () {
             return e;
@@ -2507,7 +2497,7 @@
       }
       function io() {
         var e = Object(l.a)([
-          "\n\twidth: 50%;\n\n\t@media (max-width: 768px) {\n\t\twidth: 100%;\n\t\tmargin-bottom: 1rem;\n\t}\n",
+          "\n\ttext-align: left;\n\tpadding: 0rem 0.5rem;\n\n\t@media (max-width: 768px) {\n\t\tpadding: 0rem;\n\t}\n",
         ]);
         return (
           (io = function () {
@@ -2518,7 +2508,7 @@
       }
       function co() {
         var e = Object(l.a)([
-          "\n\tdisplay: flex;\n\tmargin-top: 2rem;\n\n\t@media (max-width: 768px) {\n\t\tdisplay: block;\n\t}\n",
+          "\n\twidth: 50%;\n\ttext-align: center;\n\tpadding: 0rem 0.5rem;\n\n\t@media (max-width: 768px) {\n\t\twidth: 100%;\n\t}\n",
         ]);
         return (
           (co = function () {
@@ -2528,10 +2518,7 @@
         );
       }
       function so() {
-        var e = Object(l.a)([
-          "\n\tposition: absolute;\n\tcolor: #aaaaaa;\n\tfloat: right;\n\tfont-size: 2rem;\n\tfont-weight: bold;\n\ttop: 0;\n\tright: 15px;\n\n\t:hover,\n\t:focus {\n\t\tcolor: ",
-          ";\n\t\tcursor: pointer;\n\t\ttext-decoration: none;\n\t}\n",
-        ]);
+        var e = Object(l.a)(["\n\twidth: 100%;\n\tborder-radius: 5px;\n"]);
         return (
           (so = function () {
             return e;
@@ -2541,8 +2528,7 @@
       }
       function lo() {
         var e = Object(l.a)([
-          "\n\tposition: relative;\n\tbackground-color: ",
-          ";\n\tborder-radius: 5px;\n\tmargin: auto;\n\tpadding: 1rem;\n\twidth: 90%;\n",
+          "\n\twidth: 50%;\n\n\t@media (max-width: 768px) {\n\t\twidth: 100%;\n\t\tmargin-bottom: 1rem;\n\t}\n",
         ]);
         return (
           (lo = function () {
@@ -2553,7 +2539,7 @@
       }
       function mo() {
         var e = Object(l.a)([
-          "\n\tposition: fixed;\n\tz-index: 1024;\n\tpadding-top: 100px;\n\tpadding-bottom: 1.5rem;\n\tleft: 0;\n\ttop: 0;\n\twidth: 100%;\n\theight: 100%;\n\toverflow: auto;\n\tbackground-color: rgba(0, 0, 0, 0.4);\n",
+          "\n\tdisplay: flex;\n\tmargin-top: 2rem;\n\n\t@media (max-width: 768px) {\n\t\tdisplay: block;\n\t}\n",
         ]);
         return (
           (mo = function () {
@@ -2562,27 +2548,62 @@
           e
         );
       }
-      var uo = d.b.div(mo()),
-        po = d.b.div(lo(), m.light),
-        ho = d.b.span(so(), m.darkgray),
-        go = d.b.div(co()),
-        fo = d.b.div(io()),
-        bo = d.b.img(oo()),
-        Ao = d.b.div(ro()),
-        yo = d.b.div(ao()),
-        wo = d.b.ul(no(), m.darkgray),
-        vo = d.b.li(to()),
-        Eo = function (e) {
+      function uo() {
+        var e = Object(l.a)([
+          "\n\tposition: absolute;\n\tcolor: #aaaaaa;\n\tfloat: right;\n\tfont-size: 2rem;\n\tfont-weight: bold;\n\ttop: 0;\n\tright: 15px;\n\n\t:hover,\n\t:focus {\n\t\tcolor: ",
+          ";\n\t\tcursor: pointer;\n\t\ttext-decoration: none;\n\t}\n",
+        ]);
+        return (
+          (uo = function () {
+            return e;
+          }),
+          e
+        );
+      }
+      function po() {
+        var e = Object(l.a)([
+          "\n\tposition: relative;\n\tbackground-color: ",
+          ";\n\tborder-radius: 5px;\n\tmargin: auto;\n\tpadding: 1rem;\n\twidth: 90%;\n",
+        ]);
+        return (
+          (po = function () {
+            return e;
+          }),
+          e
+        );
+      }
+      function ho() {
+        var e = Object(l.a)([
+          "\n\tposition: fixed;\n\tz-index: 1024;\n\tpadding-top: 100px;\n\tpadding-bottom: 1.5rem;\n\tleft: 0;\n\ttop: 0;\n\twidth: 100%;\n\theight: 100%;\n\toverflow: auto;\n\tbackground-color: rgba(0, 0, 0, 0.4);\n",
+        ]);
+        return (
+          (ho = function () {
+            return e;
+          }),
+          e
+        );
+      }
+      var go = d.b.div(ho()),
+        fo = d.b.div(po(), m.light),
+        bo = d.b.span(uo(), m.darkgray),
+        Ao = d.b.div(mo()),
+        yo = d.b.div(lo()),
+        wo = d.b.img(so()),
+        vo = d.b.div(co()),
+        Eo = d.b.div(io()),
+        xo = d.b.ul(oo(), m.darkgray),
+        ko = d.b.li(ro()),
+        Do = function (e) {
           var t = e.onCloseModal,
             n = e.experience;
           return r.a.createElement(
-            uo,
+            go,
             null,
             r.a.createElement(
-              po,
+              fo,
               null,
               r.a.createElement(
-                ho,
+                bo,
                 {
                   onClick: function () {
                     return t(!1);
@@ -2592,20 +2613,20 @@
               ),
               n &&
                 r.a.createElement(
-                  go,
+                  Ao,
                   null,
                   r.a.createElement(
-                    fo,
+                    yo,
                     null,
-                    r.a.createElement(bo, { src: n.image, alt: n.image })
+                    r.a.createElement(wo, { src: n.image, alt: n.image })
                   ),
                   r.a.createElement(
-                    Ao,
+                    vo,
                     null,
                     r.a.createElement(Te, null, n.name),
                     r.a.createElement(ye, null, n.title),
                     r.a.createElement(
-                      yo,
+                      Eo,
                       null,
                       r.a.createElement(
                         ye,
@@ -2622,11 +2643,11 @@
                         n.year
                       ),
                       r.a.createElement(
-                        wo,
+                        xo,
                         null,
                         n.descriptions.map(function (e, t) {
                           return r.a.createElement(
-                            vo,
+                            ko,
                             { key: t },
                             r.a.createElement(ye, null, e)
                           );
@@ -2638,7 +2659,7 @@
             )
           );
         },
-        xo = function (e) {
+        To = function (e) {
           var t = Object(a.useState)(!1),
             n = Object(V.a)(t, 2),
             o = n[0],
@@ -2684,7 +2705,7 @@
             r.a.createElement(
               "div",
               { style: l ? z : H },
-              r.a.createElement(Eo, {
+              r.a.createElement(Do, {
                 onCloseModal: function (e) {
                   return d(e);
                 },
@@ -2714,7 +2735,7 @@
             r.a.createElement(
               Y.Element,
               { name: "experience" },
-              r.a.createElement(Or, {
+              r.a.createElement(jr, {
                 onClickExperience: function (e) {
                   d(!0), h(e);
                 },
@@ -2723,12 +2744,12 @@
             r.a.createElement(
               Y.Element,
               { name: "contact" },
-              r.a.createElement(Jr, null)
+              r.a.createElement(Kr, null)
             ),
-            r.a.createElement(eo, null)
+            r.a.createElement(ao, null)
           );
         },
-        ko = function () {
+        Bo = function () {
           return r.a.createElement(
             a.Fragment,
             null,
@@ -2743,19 +2764,19 @@
                 r.a.createElement(s.a, {
                   exact: !0,
                   path: "/chattavat.github.io",
-                  component: xo,
+                  component: To,
                 })
               )
             )
           );
         };
-      n(108), n(109), n(112);
+      n(109), n(110), n(113);
       i.a.render(
-        r.a.createElement(r.a.StrictMode, null, r.a.createElement(ko, null)),
+        r.a.createElement(r.a.StrictMode, null, r.a.createElement(Bo, null)),
         document.getElementById("root")
       );
     },
   ]),
-  [[84, 1, 2]],
+  [[85, 1, 2]],
 ]);
-//# sourceMappingURL=main.0e6435cd.chunk.js.map
+//# sourceMappingURL=main.261353c7.chunk.js.map

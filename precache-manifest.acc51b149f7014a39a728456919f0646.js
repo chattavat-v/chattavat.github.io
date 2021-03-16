@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    revision: "afb4b402a6039cbff268cbd178ca386a",
+    revision: "ed2a6f1ea84b598fd19df4965414cc5f",
     url: "/chattavat.github.io/index.html",
   },
   {
-    revision: "d4821c7bb615b6ca18a8",
+    revision: "e52d0cba283562a5a5f2",
     url: "/chattavat.github.io/static/css/2.af3c1da9.chunk.css",
   },
   {
-    revision: "d4821c7bb615b6ca18a8",
-    url: "/chattavat.github.io/static/js/2.63f6091f.chunk.js",
+    revision: "e52d0cba283562a5a5f2",
+    url: "/chattavat.github.io/static/js/2.9d4c7900.chunk.js",
   },
   {
     revision: "b8f27bf2573875130b79f243985bb3e6",
-    url: "/chattavat.github.io/static/js/2.63f6091f.chunk.js.LICENSE.txt",
+    url: "/chattavat.github.io/static/js/2.9d4c7900.chunk.js.LICENSE.txt",
   },
   {
-    revision: "3dac5c6a1ddc133a5762",
-    url: "/chattavat.github.io/static/js/main.0e6435cd.chunk.js",
+    revision: "007539e3ea4252dfa92b",
+    url: "/chattavat.github.io/static/js/main.261353c7.chunk.js",
   },
   {
     revision: "37ad4dd69500b1e08c84",
@@ -94,6 +94,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     revision: "aaff4c53bddf2bf024c18ec0434d261a",
     url: "/chattavat.github.io/static/media/flap-gate-banner.aaff4c53.png",
+  },
+  {
+    revision: "11fedffd16a84366d7b172abdc440658",
+    url: "/chattavat.github.io/static/media/jobfinfin.11fedffd.png",
   },
   {
     revision: "7c50b1bf7a92f9c1335d393eea2824c6",

@@ -29,6 +29,7 @@ import webServiceHGMC from "./web-service-hgmc.png";
 import panya5gAdmin from "./panya5g-admin.png";
 import panya5gApp from "./panya5g-app.png";
 import linebot from "./linebot.png";
+import jobfinfin from "./jobfinfin.png";
 
 export const imgDeliveryRobotBanner = deliveryRobotBanner;
 export const imgAutoSorterBanner = autoSorterBanner;
@@ -61,3 +62,4 @@ export const imgWebServiceHGMC = webServiceHGMC;
 export const imgPanya5gAmin = panya5gAdmin;
 export const imgPanya5gApp = panya5gApp;
 export const imgLinebot = linebot;
+export const imgJobfinfin = jobfinfin;

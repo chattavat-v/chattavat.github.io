@@ -514,4 +514,19 @@ export const listExperience = [
 			"management message and command",
 		],
 	},
+	{
+		name: "JOBFINFIN",
+		title: "web application for recuiter job",
+		location: "Bangkok,Thailand",
+		year: "2021",
+		image: Img.imgJobfinfin,
+		category: "software",
+		descriptions: [
+			"Develop service with nodejs express framework",
+			"Design database system using NoSQL (MongoDB)",
+			"Develop firebase in service, web application",
+			"Develop service time schedule with bull, bull-board and redis",
+			"Develop web application by react native for web",
+		],
+	},
 ];
